@@ -50,9 +50,13 @@ public void setup()
   }
   println("Number of datas per types of documents");
   printArray(numberOfElementsPerType);
-  //printArray(indexToNextElement);
+  printArray(indexToNextElement);
   println("Number of documents on the Gallica database : "+numberOfElementsIntoGallica);
-
+  int n = 0;
+  for (int i : numberOfElementsPerType) {
+    n+=i;
+  }
+  println(n);
   pg = createGraphics(width * 8, height * 8, P2D);
   pg.smooth(8);
 
@@ -68,7 +72,7 @@ void draw() {
 
     pg.beginDraw();
     //pg.colorMode(HSB, 1.0, 1.0, 1.0, 1.0);  
-    computeEvenCircleDistribution(pg, pg.width, pg.height);
+    computeEvenCircleDistribution(pg, 0, 0);
     pg.endDraw();
     isComputed = true;
     println("Datavis has been generated");
@@ -88,6 +92,26 @@ void draw() {
 
   imageMode(CENTER);
   image(pg, x, y, w, h);
+
+  for (int i=0; i<9; i++) {
+    float ni = i / 9.0;
+
+    PVector P = getPalette(ni + 1.25, 
+      new PVector(0.5, 0.5, 0.5), 
+      new PVector(0.5, 0.5, 0.5), 
+      new PVector(1.0, 1.0, 0.5), 
+      new PVector(0.8, 0.9, 0.3));
+
+    /*
+                          new PVector(0.5, 0.5, 0.5), 
+     new PVector(0.5, 0.5, 0.5), 
+     new PVector(1.0, 1.0, 1.0),
+     new PVector(0.0, 0.1, 0.2)
+     */
+    P.mult(255);
+    fill(P.x, P.y, P.z);
+    rect(i * 40, 100, 40, 40);
+  }
 
   ptt.display(0, 0);
 }
@@ -164,14 +188,15 @@ void computeData(PGraphics b) {
 
 void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
   b.background(0);
-  float r = 8;
+  float r = 60;
   int nbPoint = 3 * 2;
   int count = 0;
-  float radiusInc = 6;
-  float radiusElement = 4;
+  float radiusInc = 65;
+  float radiusElement = 20;
   int pointInc = 3 * 2;
-  int gIndex =0;
+  int gIndex = 0;
   int max = numberOfElementsIntoGallica;
+  int numberElementPerCircle = 100;
 
   //int indexOfType = 8;
   //gIndex = indexOfType;
@@ -180,6 +205,8 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
   b.noStroke();
   b.fill(255);
 
+  println(gIndex, count);
+
   for (int i=0; i<max; i++) {
     for (int j=0; j<nbPoint; j++) {
       float div = TWO_PI / nbPoint;
@@ -187,20 +214,16 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
       float x = cos(angle) * r + ox;
       float y = sin(angle) * r + oy;
 
-      if (gIndex < indexToNextElement.size()) {
-        if (count>indexToNextElement.get(gIndex)) { 
-          gIndex ++;
-        }
-      }
 
-      float g = 1.0 - (gIndex / float(indexToNextElement.size()));
+
+      float g = 1.0 - (gIndex / float(indexToNextElement.size() -1));
       //g = map(g, 0.0, 1.0, 140.0/360.0, 320.0/360.0);
       PVector P = getPalette((1.0 - g) + 1.25, 
         new PVector(0.5, 0.5, 0.5), 
         new PVector(0.5, 0.5, 0.5), 
         new PVector(1.0, 1.0, 0.5), 
         new PVector(0.8, 0.9, 0.3));
-         P.mult(255);
+      P.mult(255);
 
       /*
                           new PVector(0.5, 0.5, 0.5), 
@@ -208,30 +231,36 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
        new PVector(1.0, 1.0, 1.0),
        new PVector(0.0, 0.1, 0.2)
        */
-      count ++;
+      //count ++;
+      count += numberElementPerCircle;
       if (count >= max) {
         break;
       } else {
 
         b.fill(P.x, P.y, P.z);
-        
+
         b.ellipse(x, y, radiusElement * 1.45, radiusElement * 1.45);
-         /*
+        /*
         b.pushMatrix();
-        b.translate(x, y);
-        b.rotate(angle);
-        b.rect(0, 0, radiusElement * 1.25, radiusElement * 1.25);
-        b.popMatrix();*/
+         b.translate(x, y);
+         b.rotate(angle);
+         b.rect(0, 0, radiusElement * 1.25, radiusElement * 1.25);
+         b.popMatrix();*/
       }
     }
     nbPoint += pointInc;
     r +=radiusInc;
+    // println(gIndex, count);
+    if (gIndex < indexToNextElement.size()) {
+      if (count>indexToNextElement.get(gIndex)) { 
+        gIndex ++;
+        println(gIndex, count);
+      }
+    }
     if (count >= max) {
       break;
     }
   }
-
-  println(gIndex);
 }
 
 void computePDF(String name) {
