@@ -8,7 +8,8 @@ String type = "dc.type";
 String operator = "all";
 String and = "&";
 String separator = "%20";
-String[] types = {"monographie", 
+String[] types = {
+  "monographie", 
   "carte", 
   "image", 
   "fascicule", 
@@ -27,6 +28,7 @@ ArrayList<Integer> indexToNextElement = new ArrayList<Integer>();
 
 PGraphics pg;
 boolean isComputed;
+boolean zoom;
 
 void settings() {
   size(1000, 1000, P2D);
@@ -50,58 +52,88 @@ public void setup()
   printArray(numberOfElementsPerType);
   printArray(indexToNextElement);
   println(numberOfElementsIntoGallica);
+
   pg = createGraphics(width * 8, height * 8, P2D);
   pg.smooth(8);
 
+  colorMode(HSB, 1.0, 1.0, 1.0, 1.0);
   ptt = new PerfTracker(this, 100);
   frameRate(300);
+  surface.setLocation(0, 0);
 }
 
 void draw() {
   if (!isComputed) {
+    pg.beginDraw();
+    pg.colorMode(HSB, 1.0, 1.0, 1.0, 1.0);  
     computeData(pg);
+    pg.endDraw();
     isComputed = true;
-  } else {
-    image(pg, 0, 0, width, height);
   }
+
+  int w = width;
+  int h = height;
+  if (mousePressed) {
+    zoom = !zoom;
+    w = pg.width;
+    h = pg.height;
+  }
+
+  imageMode(CENTER);
+  image(pg, width*0.5, height*0.5, w, h);
+
   ptt.display(0, 0);
 }
 
 void computeData(PGraphics b) {
   float goldenRatio = (1.0 + sqrt(5.0)) / 2.0;
   float constant = 1.25;
-  float rand = radians(1.0 / 1000.0);
-  float sqrtBased = sqrt(pg.width * pg.width + pg.height * pg.height) / 2.0;
+  float theta = 0.0;
+  float radiusElement = 8.0;
+  float radius = 10;
+  float perimeter = (TWO_PI * radius);
+  float nbElementPerRadius = (perimeter / (radiusElement * 2.0));
+  float angleOffset = TWO_PI / nbElementPerRadius;
+  float eta = random(TWO_PI);
+  boolean updateRadius = false;
+  println(nbElementPerRadius);
+  int gIndex = 0;
+  int line = 0;
 
-  b.beginDraw();
   b.background(0);
   b.fill(255);
   b.noStroke();
-  float theta = 0.0;
-  float radius = 0.0;
-  float d = 0;
-  int gIndex = 0;
+  numberOfElementsIntoGallica = 4000000;
   for (int i=0; i<numberOfElementsIntoGallica; i++) {
-    /**
-     phi = n*a;                                          
-     r = c*sqrt(1.0*n);
-     */
-    radius = constant * sqrt((float)i * 2.0);
-    theta = i * goldenRatio;//(TWO_PI * 100.0 * goldenRatio);
-    float x = cos(theta) * radius + pg.width/2.0;
-    float y = sin(theta) * radius + pg.height/2.0;
+
+    radius = constant * sqrt((float)i * 2.25);
+    theta = i * goldenRatio;//(TWO_PI * 100.0 * goldenRatio);**/
+    theta = random(TWO_PI);
+    /*if (int(theta % TWO_PI) == 0 && !updateRadius) {
+     radius += radiusElement * 0.8;
+     perimeter = (TWO_PI * radius);
+     nbElementPerRadius = (perimeter / (radiusElement * 2.0));
+     angleOffset = TWO_PI / nbElementPerRadius;
+     eta += PI * 0.25;
+     updateRadius = true;
+     line ++;
+     //println(line, "new line", nbElementPerRadius, angleOffset);
+     } else if (int(theta % TWO_PI) != 0 ) {
+     updateRadius = false;
+     }
+     theta += angleOffset;*/
+
+    float x = cos(theta + eta) * radius + pg.width/2.0;
+    float y = sin(theta + eta) * radius + pg.height/2.0;
+
     if (i>indexToNextElement.get(gIndex)) { 
       gIndex ++;
     }
-    float g = (1.0 - gIndex / (indexToNextElement.size() + 1.0));
-    b.fill(g * 255.0);
-    b.ellipse(x, y, 2, 2);
-
-    if (i% 100000 == 0) {
-      println(i);
-    }
+    float g = (gIndex / (indexToNextElement.size() + 1.0));
+    //g = map(g, 0.0, 1.0, 140.0/360.0, 320.0/360.0);
+    b.fill(g, 1.0, 1.0);
+    b.ellipse(x, y, radiusElement * 0.5, radiusElement * 0.5);
   }
-  b.endDraw();
 }
 
 void computePDF(String name) {
@@ -113,7 +145,10 @@ void computePDF(String name) {
 void exportSVG(String name, int w, int h) {
   String exportName = name+".svg";
   PGraphics pgsvg = createGraphics(w, h, SVG, exportName);
+  pgsvg.beginDraw();
+  pg.colorMode(HSB, 1.0, 1.0, 1.0, 1.0);  
   computeData(pgsvg);
+  pgsvg.endDraw();
   pgsvg.dispose();
 }
 
@@ -121,8 +156,11 @@ void keyPressed() {
   String name = "GallicaTypeData";
   if (key == 'i') {
     println(name+"img start saving.");
+    pg.beginDraw();
+    pg.colorMode(HSB, 1.0, 1.0, 1.0);  
     computeData(pg);
-    pg.save("GallicaTypeData.png");
+    pg.beginDraw();
+    pg.save("GallicaTypeData.tif");
     println(name+" saved.");
   }
   if (key == 's') {
