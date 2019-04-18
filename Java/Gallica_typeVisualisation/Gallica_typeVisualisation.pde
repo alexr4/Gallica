@@ -20,6 +20,18 @@ String[] types = {
   "video"};
 String collapsing = "collapsing=false";
 
+color[] colors = {
+  color(255, 210, 0),
+  color(180, 210, 64),
+  color(81, 210, 148),
+  color(0, 204, 223),
+  color(3, 172, 223),
+  color(19, 140, 221),
+  color(49, 93, 204),
+  color(80, 52, 186),
+  color(116, 1, 165)
+};
+
 //Data
 int numberOfElementsIntoGallica;
 ArrayList<Integer> numberOfElementsPerType = new ArrayList<Integer>();
@@ -92,26 +104,6 @@ void draw() {
 
   imageMode(CENTER);
   image(pg, x, y, w, h);
-
-  for (int i=0; i<9; i++) {
-    float ni = i / 9.0;
-
-    PVector P = getPalette(ni + 1.25, 
-      new PVector(0.5, 0.5, 0.5), 
-      new PVector(0.5, 0.5, 0.5), 
-      new PVector(1.0, 1.0, 0.5), 
-      new PVector(0.8, 0.9, 0.3));
-
-    /*
-                          new PVector(0.5, 0.5, 0.5), 
-     new PVector(0.5, 0.5, 0.5), 
-     new PVector(1.0, 1.0, 1.0),
-     new PVector(0.0, 0.1, 0.2)
-     */
-    P.mult(255);
-    fill(P.x, P.y, P.z);
-    rect(i * 40, 100, 40, 40);
-  }
 
   ptt.display(0, 0);
 }
@@ -192,7 +184,7 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
   int nbPoint = 3 * 2;
   int count = 0;
   float radiusInc = 65;
-  float radiusElement = 20;
+  float radiusElement = 35;
   int pointInc = 3 * 2;
   int gIndex = 0;
   int max = numberOfElementsIntoGallica;
@@ -233,12 +225,18 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
        */
       //count ++;
       count += numberElementPerCircle;
+     /// if (gIndex < indexToNextElement.size()) {
+      if (count>=indexToNextElement.get(gIndex)) { 
+        gIndex ++;
+        println(gIndex, count);
+      }
+  //  }
       if (count >= max) {
         break;
       } else {
 
-        b.fill(P.x, P.y, P.z);
-
+       // b.fill(P.x, P.y, P.z);
+        b.fill(colors[gIndex]);
         b.ellipse(x, y, radiusElement * 1.45, radiusElement * 1.45);
         /*
         b.pushMatrix();
@@ -251,16 +249,12 @@ void computeEvenCircleDistribution(PGraphics b, int ox, int oy) {
     nbPoint += pointInc;
     r +=radiusInc;
     // println(gIndex, count);
-    if (gIndex < indexToNextElement.size()) {
-      if (count>indexToNextElement.get(gIndex)) { 
-        gIndex ++;
-        println(gIndex, count);
-      }
-    }
+    
     if (count >= max) {
       break;
     }
   }
+  println(gIndex, count);
 }
 
 void computePDF(String name) {
