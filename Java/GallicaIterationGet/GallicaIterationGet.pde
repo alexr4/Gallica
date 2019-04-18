@@ -66,7 +66,7 @@ void iterateOverRecords() {
     }
     catch(Exception e) {
       startRecord = tmpStart;
-      println("error has been catch. Retry "+startRecord);
+      println("error has been catch. Retry "+tmpStart);
     }
   } else {
     if (!isFinished) {
