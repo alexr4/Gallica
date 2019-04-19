@@ -10,6 +10,9 @@ ArrayList<JSONRecorder> jsrlist;
 int typeIndex=0;
 boolean isFinished;
 
+//unifinished data due to error 500 rpoblem
+int[] unfinished = {49, 58, 59};
+
 void settings() {
   size(1280, 500, P2D);
   //fullScreen(P2D);
@@ -32,13 +35,20 @@ void setup() {
   int numberPerJSON = 10000;
   int numberOfParallelThread = ceil((float)numberOfDocuments / (float)numberPerJSON);
   println(numberOfParallelThread);
-  for (int i=0; i<numberOfParallelThread; i++) {
-    int start = i * numberPerJSON;
-    JSONRecorder jsr = new JSONRecorder(this, "jsr"+i, i, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
+  /*for (int i=0; i<numberOfParallelThread; i++) {
+   int start = i * numberPerJSON;
+   JSONRecorder jsr = new JSONRecorder(this, "jsr"+i, i, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
+   jsrlist.add(jsr);
+   }*/
+
+  for (int i=0; i<unfinished.length; i++) {
+    int index = unfinished[i];
+    int start = index * numberPerJSON;
+    JSONRecorder jsr = new JSONRecorder(this, "jsr"+index, index, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
     jsrlist.add(jsr);
   }
 
-  //frameRate(300);
+  frameRate(300);
 }
 
 void draw() {
@@ -53,7 +63,7 @@ void draw() {
 
   textSize(12);
   text("Gathering Gallica data.\nTime passed: "+getStringTime(millis()), x, y);
-  
+
   textSize(9);
   for (int i=0; i<jsrlist.size(); i++) {
     JSONRecorder jsr = jsrlist.get(i);
@@ -63,11 +73,11 @@ void draw() {
     String name = jsr.name;
     float x_ = x;
     float y_ = y + lh * 2.0 * (i + 1);
-    
+
     float mody = floor(y_ / height);
     y_ -= (height * mody);
     x_ = x_+ lw * 1.15 * (mody);
-    
+
     String state = name+" is running : "+isRunning;
     String process = (isRunning) ? "Compete at "+jsr.timeToComplete : "Process at: "+record+"%";
     text(state+" — "+process+"\nNumber of documents: "+numberDocument, x_, y_, lw, lh * 2);
