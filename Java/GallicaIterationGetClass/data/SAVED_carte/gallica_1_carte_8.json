@@ -1,0 +1,142 @@
+{
+  "numberOfRecordsIntoFile": 10000,
+  "records": [
+    {
+      "date": "1869",
+      "identifier": "ark:/12148/oai:bibliotheque-Meteo-France.fr:DOC00024348",
+      "contributor": "",
+      "publisher": "",
+      "source": "Bibliothèque de Météo-France / P1180",
+      "title": "Atlas des mouvements généraux de l'atmosphère, année 1865, avril-mai-juin. [1ère partie, avril] ; Atlas des mouvements généraux de l'atmosphère No avril-juin 1865",
+      "relation": "http://bibliotheque.meteo.fr/exl-img/vignette1865.jpg"
+    },
+    {
+      "date": " Vers 1790",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101_baudot_pierre_louis_e0003982",
+      "source": "Bibliothèque municipale de Dijon, Ms 989 / f. 134",
+      "title": "Plan des trois caveaux dans lesquels reposent les corps des trois premiers ducs [à la Chartreuse de Champmol]",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101_baudot_pierre_louis_e0003982"
+    },
+    {
+      "identifier": "ark:/12148/oai:bibliotheques-clermontmetropole.eu/overnia:79367",
+      "publisher": "s.n. (s.l.)",
+      "source": "Bibliothèque du Patrimoine de Clermont Auvergne Métropole : Overnia ; Ep_0729_9",
+      "title": "Lettre de plusieurs prélats de France à N.S.P. le Pape Clément IX sur la cause des quatres Evesques ; Plurimorum Galliae antistitum ad summum pontificem Clementem IX de quatuor episcopis litterae ",
+      "relation": "vignette : https://www.bibliotheques-clermontmetropole.eu/overnia/dam_picture.php?id=79367&type=SML&nb=1&path=Q0xFUkNPL2JsYWlzZXBhL0pQRUcvUG91cl9hcHByb2ZvbmRpcl9RdWVyZWxsZV9BdWd1c3RpbnVzX0VwXzA3MjlfOQ==&repertoire=UG91cl9hcHByb2ZvbmRpcl9RdWVyZWxsZV9BdWd1c3RpbnVzX0VwXzA3MjlfOQ=="
+    },
+    {
+      "date": "[16..]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0014469",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CT-VII 1",
+      "title": "Château de la ville de Dijon",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0014469"
+    },
+    {
+      "date": "[17..? ]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0015279",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CT-VIII 1",
+      "title": "[Plan des jardins de la porte Saint-Pierre]",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0015279"
+    },
+    {
+      "date": "[17..?]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0020039",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CS-VI 3",
+      "title": "Plan du rez-de-chaussée projeté pour l'Abbaye St. Bénigne de Dijon",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0020039"
+    },
+    {
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101_collection_manuscrits_e0035138",
+      "source": "Bibliothèque municipale de Dijon, Ms 3051 / f. 194",
+      "title": "Les Oratoriens",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101_collection_manuscrits_e0035138"
+    },
+    {
+      "date": "[18..?]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0020114",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CS-VI 9",
+      "title": "Plan de l'église souterraine de St. Bénigne",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0020114"
+    },
+    {
+      "date": "[18..?]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0028099",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CT-IV 39",
+      "title": "Couvent du Refuge",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0028099"
+    },
+    {
+      "date": "1816",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0029683",
+      "source": "Bibliothèque municipale de Dijon, L Est. CT-IV 4",
+      "title": "[Plan du convent des Carmélites]",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0029683"
+    },
+    {
+      "date": "1867",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0035668",
+      "source": "Bibliothèque municipale de Dijon, L Est. CS-IV 13",
+      "title": "[Ecole Saint-François de Sales : plan de 1888]",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0035668"
+    },
+    {
+      "date": "[17.. ]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0040644",
+      "source": "Bibliothèque municipale de Dijon, L Est. 5027 CS-IV 1",
+      "title": "Plan géométrique du terrain dépendant du petit hôtel berbisei a Dyon...",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0040644"
+    },
+    {
+      "date": "[18..]",
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101-Images_dijonnaises_e0042958",
+      "source": "Bibliothèque municipale de Dijon, L Est. CT-VI 1",
+      "title": "Ville de Dijon : établissement d'une gerbe jaillissante et aménagement du rond point du Parc",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101-Images_dijonnaises_e0042958"
+    },
+    {
+      "identifier": "ark:/12148/oai:patrimoine.bm-dijon.fr:ead/FR212316101_collection_manuscrits_e0034872",
+      "source": "Bibliothèque municipale de Dijon, Ms 3051 / f. 70",
+      "title": "La Chartreuse",
+      "relation": "notice : http://patrimoine.bm-dijon.fr/pleade/ead.html?c=FR212316101_collection_manuscrits_e0034872"
+    },
+    {
+      "date": "1868",
+      "identifier": "ark:/12148/oai:bibliotheque-Meteo-France.fr:DOC00024360",
+      "contributor": "",
+      "publisher": "",
+      "source": "Bibliothèque de Météo-France / P1180",
+      "title": "Atlas météorologique de l'Observatoire impérial, année 1867. [2ème partie, Cartes générales sur les orages] ; Atlas météorologique de l'Observatoire impérial No Année 1867",
+      "relation": "http://bibliotheque.meteo.fr/exl-img/Vignette1867.jpg"
+    },
+    {
+      "date": "1868",
+      "identifier": "ark:/12148/oai:bibliotheque-Meteo-France.fr:DOC00024342",
+      "contributor": "",
+      "publisher": "",
+      "source": "Bibliothèque de Météo-France / P1180",
+      "title": "Atlas des mouvements généraux de l'atmosphère, année 1864, juin-décembre. [8ème partie, décembre] ; Atlas des mouvements généraux de l'atmosphère No juin-décembre 1864",
+      "relation": "http://bibliotheque.meteo.fr/exl-img/vignette1864.jpg"
+    },
+    {
+      "date": "1874",
+      "identifier": "ark:/12148/oai:bibliotheque-Meteo-France.fr:DOC00024418",
+      "contributor": "",
+      "publisher": "",
+      "source": "Bibliothèque de Météo-France / P1180",
+      "title": "Atlas météorologique de l'Observatoire de Paris, années 1869, 1870 et 1871 ([tome V]). [2ème partie, Cartes générales sur les orages] ; Atlas météorologique de l'Observatoire de Paris No Années 1869,1870et1871([tome V])",
+      "relation": "http://bibliotheque.meteo.fr/exl-img/Vignette1869-1871.jpg"
+    },
+    {
+      "date": "1867",
+      "identifier": "ark:/12148/oai:bibliotheque-Meteo-France.fr:DOC00024355",
+      "contributor": "",
+      "publisher": "",
+      "source": "Bibliothèque de Météo-France / P1180",
+      "title": "Atlas météorologique de l'Observatoire impérial, année 1866. [2ème partie, Cartes générales sur les orages] ; Atlas météorologique de l'Observatoire impérial No Année 1866",
+      "relation": "http://bibliotheque.meteo.fr/exl-img/Vignette1866.jpg"
+    }
+  ],
+  "numberOfRecords": 80017,
+  "nextToRecord": 80050,
+  "actualNumberOfDocuments": -33
+}
