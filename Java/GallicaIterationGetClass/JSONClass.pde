@@ -82,7 +82,11 @@ class JSONRecorder extends Thread {
           addData(children[i]);
         }
         savedDataFile.setJSONArray("records", datas);
+        
+        savedDataFile.setInt("nextToRecord", startRecord);
+        savedDataFile.setInt("actualNumberOfDocuments", numberOfrecords);
         saveJSONObject(savedDataFile, "data/"+types[typeIndex]+"/gallica_"+typeIndex+"_"+types[typeIndex]+"_"+index+".json");
+        
         mt.addSample();
       }
       catch(Exception e) {
