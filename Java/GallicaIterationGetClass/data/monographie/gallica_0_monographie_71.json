@@ -1,0 +1,980 @@
+{
+  "numberOfRecordsIntoFile": 10000,
+  "records": [
+    {
+      "date": "1969",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:108822",
+      "publisher": "Prouille-Fanjeaux : Atelier Marie-Dominique",
+      "title": "Lectionnaire patristique dominicain"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095805",
+      "contributor": "Quentin Duckit",
+      "publisher": "Paris : le Pommier",
+      "title": "Eurêka !"
+    },
+    {
+      "date": "2002",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090181",
+      "contributor": "Jean-ClaudeGötting",
+      "publisher": "Paris : Hachette livre",
+      "title": "Les Misérables"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076477",
+      "contributor": "Mike Sens",
+      "publisher": "Besançon",
+      "title": "Vingt ans, et alors !"
+    },
+    {
+      "date": "2010",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093434",
+      "contributor": "Daniel Prévost",
+      "publisher": "Paris : Ad Vitam",
+      "title": "Les petits ruisseaux"
+    },
+    {
+      "date": "2014",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092464",
+      "contributor": "Béatrice Thiriet",
+      "publisher": "Paris : Universal pictures video",
+      "title": "Le coeur des hommes 3"
+    },
+    {
+      "date": "1993 (P)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072250",
+      "publisher": "Keltia musique : distrib. Keltia musique",
+      "title": "Ti-beudeff"
+    },
+    {
+      "date": "2004",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100709",
+      "publisher": "Paris : Retz",
+      "title": "Jeux de doigts, rondes et jeux dansés"
+    },
+    {
+      "date": "2016",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097553",
+      "contributor": "Catherine Bonhomme",
+      "publisher": "Paris : Circonflexe",
+      "title": "Le bonhomme pain d'épice"
+    },
+    {
+      "date": "1823",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:107549",
+      "publisher": "Paris : Ladvocat",
+      "title": "Poëmes, odes, épitres et poésies diverses"
+    },
+    {
+      "date": "[entre 1723 et 1769]",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103263385",
+      "publisher": "chez P. G. Le Mercier (A Paris) ",
+      "source": "Bibliothèque municipale de Lyon, SJ A 401/833",
+      "title": "Avis et réflexions sur les devoirs de l'état religieux, pour animer ceux qui l'ont embrassé à remplir leur vocation... Par un religieux bénédictin de la Congrégation de S. Maur. Quatriéme edition, plus correcte & plus ample que les précédentes",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103263385/thumbnail_TIF00000003.jpg"
+    },
+    {
+      "date": "2004",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1082913",
+      "publisher": "Paris : Presses d'Ile-de-France",
+      "title": "Le cirque : monter un spectacle avec des jeunes"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067207",
+      "publisher": "Nîmes : Lacour-Ollé",
+      "title": "La mort de Pan"
+    },
+    {
+      "date": "1989",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:108326",
+      "publisher": "Paris : Pygmalion",
+      "title": "La Véritable Madame Roland"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088235",
+      "contributor": "AntonioVivaldi",
+      "publisher": "XIII Bis Records",
+      "title": "Patrick Rondat & Hervé N'Kaoua"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095823",
+      "contributor": "Lucia Calfapietra",
+      "publisher": "Paris : Thierry Magnier",
+      "title": "Goûters et desserts extraordinaires"
+    },
+    {
+      "date": "2013",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090208",
+      "contributor": "Tana & the Pocket Philharmonic",
+      "publisher": "Tana & the Pocket Philharmonic",
+      "title": "Spring Time EP"
+    },
+    {
+      "date": "1994",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076495",
+      "contributor": "Michelle Nikly",
+      "publisher": "Gossau Zurich",
+      "title": "[L']Enfant d'éléphant"
+    },
+    {
+      "date": "2011",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093452",
+      "contributor": "Thomas Dekker",
+      "publisher": "Paris : Wild side video",
+      "title": "Kaboom"
+    },
+    {
+      "date": "2014",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092482",
+      "publisher": "Issy-les-Moulineaux : ARTE Editions",
+      "title": "Sacrée croissance !"
+    },
+    {
+      "date": "1989",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072269",
+      "publisher": "Sun Record Company : Distrib. Rhino Records",
+      "title": "Greatest !"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100727",
+      "contributor": "Daniel Bert",
+      "publisher": "Paris : LexisNexis",
+      "title": "Méthodologie des épreuves d'accès au CRFPA"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097571",
+      "title": "Hercule Birat, le poète de Narbonne"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075496",
+      "publisher": "Paris : Bordas : Dessain et Tolra",
+      "title": "Jouets des champs"
+    },
+    {
+      "date": "2017",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1063641",
+      "contributor": "DenisLapière",
+      "publisher": "Marcinelle (Belgique) : Dupuis",
+      "title": "L'impertinence d'un été"
+    },
+    {
+      "date": "2006",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1082931",
+      "contributor": "FrédérickMansot",
+      "publisher": "Paris : Actes Sud junior",
+      "title": "Voyage de Mao-Mi"
+    },
+    {
+      "date": "[18..]",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:106721",
+      "publisher": "Paris : Marpon et Flammarion",
+      "title": "Les Crimes célèbres"
+    },
+    {
+      "date": "1999",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083266",
+      "contributor": "P.O.D.",
+      "publisher": "Atlantic Recording",
+      "title": "The Fundamental Elements of Southtown"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088253",
+      "publisher": "BCA Records",
+      "title": "Waka"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095841",
+      "contributor": "Jocelyn M'Bemba",
+      "publisher": "Paris : O. Jacob",
+      "title": "Mieux vivre avec un diabète"
+    },
+    {
+      "date": "2003",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:109022",
+      "publisher": "Paris : Albin Michel-Bandes dessinées",
+      "title": "Momo roule toujours"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076503",
+      "publisher": "Besançon",
+      "title": "Tes"
+    },
+    {
+      "date": "2010",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093489",
+      "contributor": "Roxanne Mesquida",
+      "publisher": "Paris : Blaq out",
+      "title": "Rubber"
+    },
+    {
+      "date": "2013",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092509",
+      "contributor": "Marc Cholodenko",
+      "publisher": "Paris : SBS Productions",
+      "title": "La jalousie"
+    },
+    {
+      "date": "1993",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072287",
+      "contributor": "Natacha Bezborodova",
+      "publisher": "Auvidis : distrib. Auvidis",
+      "title": "Ukraine"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100745",
+      "publisher": "Paris : Plon",
+      "title": "Une prière pour l'école"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097616",
+      "title": "René Bastide, un journaliste cévenol, Souvenirs dans les années 1970"
+    },
+    {
+      "date": "1997",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075504",
+      "publisher": "Paris : Nathan",
+      "title": "[L']Analyse des spectacles"
+    },
+    {
+      "date": "2017",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1063678",
+      "publisher": "Paris : L'Harmattan vidéo",
+      "title": "Un rêve en trois dimensions"
+    },
+    {
+      "date": "2007",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1082968",
+      "contributor": "Isabelle Gugnon",
+      "publisher": "[Paris] : Seuil : Métailié",
+      "title": "La Saga des Confins"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067225",
+      "publisher": "Nîmes : Lacour-Ollé",
+      "title": "Une si petite île"
+    },
+    {
+      "date": "2000",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083284",
+      "publisher": "Studio SM : Distrib. Studio SM",
+      "title": "A Cappella"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088271",
+      "publisher": "Delabel : distrib. EMI music",
+      "title": "Valse avec Bachir"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095878",
+      "publisher": "Issy-les-Moulineaux (Hauts-de-Seine) : Beaux-arts éditions",
+      "title": "Un T-rex à Paris"
+    },
+    {
+      "date": "2016",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090226",
+      "contributor": "Frédéric Garouste",
+      "publisher": "Genève : Olizane",
+      "title": "Iran"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076558",
+      "contributor": "Gérard Watkins",
+      "publisher": "Besançon",
+      "title": "[Le ]retour du Lagon"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:10935",
+      "contributor": "Pixies",
+      "publisher": "s.l. : Eagle Vision",
+      "title": "Pixies Club date - Live at Paradise in Boston"
+    },
+    {
+      "date": "2014",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092527",
+      "contributor": "Juliette Binoche",
+      "publisher": "Paris : Studio 37 - Orange",
+      "title": "Sils Maria"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:107229",
+      "publisher": "Toulouse : Privat",
+      "title": "Le canal des deux mers"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100763",
+      "publisher": "Paris : La Découverte",
+      "title": "Les plastiqueurs"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097634",
+      "title": "Le nymphaeum de Diane à Nîmes"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075522",
+      "contributor": "IsabelleScheibli",
+      "publisher": "Saint-Paul-de-Varax : A. Scheibli",
+      "title": "Faïences et poteries provençales"
+    },
+    {
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101062300",
+      "publisher": "1828-1831 ",
+      "source": "Bibliothèque municipale de Lyon, 805029",
+      "title": "Association pour la défense de la religion catholique : Prospectus et pièces diverses",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101062300/thumbnail_TIF00000005.jpg"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1082986",
+      "contributor": "Massive Attack",
+      "publisher": "Circa",
+      "title": "Mezzanine"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067243",
+      "contributor": "Gilbert Lascault",
+      "publisher": "Clermont-Ferrand",
+      "title": "J. Dubuffet"
+    },
+    {
+      "date": "1998 (P.)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083310",
+      "publisher": "Radio France : Distrib. Harmonia Mundi",
+      "title": "Chine"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088316",
+      "contributor": "AntonioHart",
+      "publisher": "Dare2 Records : distrib. Universal music",
+      "title": "Pass it on"
+    },
+    {
+      "date": "1991",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:109589",
+      "contributor": "Letzer",
+      "publisher": "Paris : Dupuis",
+      "title": "En bonne compagnie"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090244",
+      "contributor": "Antoine de Saint-Exupéry",
+      "publisher": "Boulogne-Billancourt : Paramount Pictures",
+      "title": "Le petit prince"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:107657",
+      "publisher": "[s.l.]: : E.P.I. Diffusion[distrib.]",
+      "title": "Les animaux du désert - Reptiles et cobras"
+    },
+    {
+      "date": "2011",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093515",
+      "contributor": "BartFreundlich",
+      "publisher": "s.l. : Showtime",
+      "title": "Californication"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092545",
+      "contributor": "AlexGraves",
+      "publisher": "Paris : Home Box Office",
+      "title": "Game of Thrones"
+    },
+    {
+      "date": "2000",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072313",
+      "contributor": "Maurice Nadeau",
+      "publisher": "[Paris] : Gallimard",
+      "title": "Madame Bovary"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100781",
+      "contributor": "Pierre Blanc",
+      "publisher": "Lyon : Chronique sociale",
+      "title": "L'emploi des personnes en situation de handicap en Europe"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097652",
+      "title": "Sur la Via Domitia, le site archéologique d'Ambrussum"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075540",
+      "contributor": "Mark Bergin",
+      "publisher": "Paris : Epigones",
+      "title": "[Les ]Châteaux"
+    },
+    {
+      "date": "1859",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001102623746",
+      "publisher": "Dezobry (Paris)",
+      "source": "Bibliothèque municipale de Lyon, 306132 T. 02",
+      "title": "Oeuvres inédites de Maine de Biran",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001102623746/thumbnail_JPG00000007.jpg"
+    },
+    {
+      "date": "1999",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083011",
+      "contributor": "Stereophonics",
+      "publisher": "V2 Records",
+      "title": "Performance and cocktails"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067261",
+      "publisher": "Nîmes : Champs social éditions",
+      "title": "Evaluer les dispositifs éducatifs et socioculturels"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083329",
+      "publisher": "Folkways Records : Distrib. Harmonia Mundi",
+      "title": "Where did you sleep last night"
+    },
+    {
+      "date": "1964",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088334",
+      "publisher": "Mercury France",
+      "title": "Johnny, reviens ! Vol. 6"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095896",
+      "contributor": "Marie-Élise Masson",
+      "publisher": "Paris : Larousse",
+      "title": "La nature"
+    },
+    {
+      "date": "2010",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090262",
+      "publisher": "Whirling Discs",
+      "title": "From Stage to stage..."
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076576",
+      "contributor": "Magali Guenette",
+      "publisher": "Paris : Catleya",
+      "title": "Silence art espace"
+    },
+    {
+      "date": "2011",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093533",
+      "contributor": "Rachida Brakni",
+      "publisher": "Neuilly sur Seine : Gaumont",
+      "title": "La ligne droite"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092563",
+      "contributor": "Jane Hawking",
+      "publisher": "Boulogne-Billancourt : Universal pictures video",
+      "title": "Une merveilleuse histoire du temps"
+    },
+    {
+      "date": "1993",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072331",
+      "contributor": "John Eliot Gardiner",
+      "publisher": "Baarn",
+      "title": "Orfeo ed Euridice"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100808",
+      "publisher": "Paris : le Particulier éditions",
+      "title": "Divorce, préservez vos intérêts"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097670",
+      "title": "Les anciennes dralhes de la Lozère"
+    },
+    {
+      "date": "1994",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075559",
+      "publisher": "[Paris] : Gallimard",
+      "title": "[Les ]Uniformes militaires"
+    },
+    {
+      "date": "1695",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100544522",
+      "publisher": "chez Antoine Schelte (Suivant la copie imprimée à Paris ;) ",
+      "source": "Bibliothèque municipale de Lyon, 811467",
+      "title": "Médée, tragédie [par Th. Corneille] en musique [par Charpentier] représentée par l'Académie Royalle de Musique",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100544522/thumbnail_TIF00000009.jpg"
+    },
+    {
+      "date": "1999",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083048",
+      "publisher": "Delabel : distrib. Virgin France",
+      "title": "Je dis aime"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067298",
+      "publisher": "Arola : Louvre éditions",
+      "title": "Dada "
+    },
+    {
+      "date": "1993 (P.)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083347",
+      "contributor": "Doc Watson",
+      "publisher": "Folkways Records : Distrib. Harmonia Mundi",
+      "title": "Live Recordings 1956-1969"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088352",
+      "contributor": "Caravan Palace",
+      "publisher": "Café de la Danse",
+      "title": "Caravan Palace"
+    },
+    {
+      "date": "2017",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095904",
+      "publisher": "Paris : LexisNexis",
+      "title": "Contrats de l'audiovisuel"
+    },
+    {
+      "date": "2006",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090280",
+      "contributor": "Kenji Miyazawa",
+      "publisher": "Paris : Films du paradoxes [éd., distrib.]",
+      "title": "Goshu le violoncelliste"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076594",
+      "contributor": "Slobodan Despot",
+      "publisher": "Lausanne",
+      "title": "Kosovo"
+    },
+    {
+      "date": "2011",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093551",
+      "contributor": "Albert Naud Louiguy",
+      "publisher": "Suresnes : LCJ Editions et Productions",
+      "title": "Mourir d'aimer"
+    },
+    {
+      "date": "2014",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092581",
+      "contributor": "S.E. Hinton",
+      "publisher": "Paris : Pathé",
+      "title": "The outsiders"
+    },
+    {
+      "date": "1994",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072368",
+      "publisher": "PARIS",
+      "title": "Vanessa Paradis live"
+    },
+    {
+      "date": "1897",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:110082",
+      "publisher": "Paris : F. Alcan",
+      "title": "Les Criminels dans l'art et la littérature,..."
+    },
+    {
+      "date": "2006",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:10977",
+      "publisher": "Dcypha Productions, : [distrib.] Play It Agin Sam",
+      "title": "This is my demo"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075577",
+      "publisher": "Paris : Presses universitaires de France",
+      "title": "[La ]littérature russe"
+    },
+    {
+      "date": "1829",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103102617",
+      "publisher": "A. Le Clere et Cie (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 304922(2)",
+      "title": "Lettres inédites de Fénelon au maréchal et à la maréchale de Noailles",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103102617/thumbnail_JPG00000001.jpg"
+    },
+    {
+      "date": "2007",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:108306",
+      "contributor": "Peuple de l'herbe",
+      "publisher": "[distrib.] Play It Again Sam",
+      "title": "Radio blood money"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067306",
+      "title": "L'esprit de la fête"
+    },
+    {
+      "date": "1997 (P.)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083365",
+      "contributor": "Michel Marre",
+      "publisher": "Empreinte Digitale : Distrib. Harmonia Mundi",
+      "title": "Linhana"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088370",
+      "publisher": "The Blue Note",
+      "title": "Shake away"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095922",
+      "publisher": "Paris : Dixit",
+      "title": "Produire un documentaire"
+    },
+    {
+      "date": "2008",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090299",
+      "publisher": "Linguashop",
+      "title": "Teach Me !"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076602",
+      "contributor": "Katia Holmes",
+      "publisher": "Paris : Manise",
+      "title": "[Les ]200 meilleures recettes de poulet"
+    },
+    {
+      "date": "1969",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093588",
+      "contributor": "Chicago",
+      "publisher": "Warner Music",
+      "title": "Chicago transit authority"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092608",
+      "contributor": "Florence Platarets",
+      "publisher": "Paris : Agat Films et Cie",
+      "title": "Let's dance"
+    },
+    {
+      "date": "1994",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072386",
+      "contributor": "Kurt Masur",
+      "publisher": "London",
+      "title": "Violin concertos"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100826",
+      "contributor": "DavidB.",
+      "publisher": "Paris : Le Lombard",
+      "title": "Le grand banditisme"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097715",
+      "title": "Eugène Kosine 1901-1962"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075595",
+      "contributor": "Vassoula Galangau",
+      "publisher": "[Paris] : Presses de la Cité",
+      "title": "Malveillance"
+    },
+    {
+      "date": "1649",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103294471",
+      "publisher": "apud Iodocum Kalcouium (Coloniae) ",
+      "source": "Bibliothèque municipale de Lyon, SJ TH 182/9, 4",
+      "title": "Concio de consecratione et dedicatione ecclesiae. Habita in ipsa consecratione ecclesiae agri Keuelariensis, dum ea 2. Maij, anno 1649. à reuerendissimo domino Ioanne à Sternenberg, dicto Duisseldorp, episcopo Sebastensi, (alias Samaritano) suffraganeo Monasteriensi, & praeposito Santensi consecraretur, a Ioanne Staleno canonico & pastore resensi",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103294471/thumbnail_TIF00000001.jpg"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083066",
+      "publisher": "Barclay : MCA Records Inc",
+      "title": "Shoki shoki"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067324",
+      "contributor": "Antonella Alimento",
+      "publisher": "Ferney-Voltaire (Ain) : Centre international d'étude du dix-huitième siècle",
+      "title": "Autour de l'abbé Raynal"
+    },
+    {
+      "date": "1999",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083383",
+      "contributor": "Amar Ben Abdallah",
+      "publisher": "Paris : France Télévision Distribution [éd.] : Film Office [distrib.]",
+      "title": "Karnaval"
+    },
+    {
+      "date": "2009",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1088389",
+      "contributor": "Casa",
+      "publisher": "3ème Bureau/Wagram Music",
+      "title": "Les Trucs abimés"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095940",
+      "contributor": "Michel Autrand",
+      "publisher": "Paris : Gallimard",
+      "title": "Oeuvres complètes"
+    },
+    {
+      "date": "2009",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090307",
+      "publisher": "Mindscape",
+      "title": "Adibou"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076620",
+      "contributor": "Delphine Nègre",
+      "publisher": "Paris : Dessain et Tolra",
+      "title": "Rideaux à faire soi-même"
+    },
+    {
+      "date": "2004",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093614",
+      "contributor": "National Bank (The)",
+      "publisher": "Press Play Recordings : distrib. Universal Music",
+      "title": "The National Bank"
+    },
+    {
+      "date": "(s. d.)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:109262",
+      "publisher": "Festival : (Distrib.) Musidisc",
+      "title": "Les Véritables Mariachis"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072412",
+      "contributor": "Muvrini",
+      "publisher": "Paris",
+      "title": "[I ]Muvrini à Bercy"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100844",
+      "publisher": "Paris : Chloé Romengas",
+      "title": "Rayures et ratures"
+    },
+    {
+      "date": "1880",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097733",
+      "contributor": "Léon Gautier",
+      "publisher": "Tours : Alfred Mame et fils",
+      "title": "Charlemagne"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075621",
+      "contributor": "Marie-Hélène Alfonsi",
+      "publisher": "Paris : Gründ",
+      "title": "Minéraux et roches"
+    },
+    {
+      "date": "1838",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100033781",
+      "publisher": "Imprimerie de Le Roy-Mabille (Boulogne) ",
+      "source": "Bibliothèque municipale de Lyon, 131253",
+      "title": "Catalogue des mollusques terrestres et fluviatiles observés jusqu'à ce jour à l'état vivant dans le département du Pas-de-Calais : présenté à la Société d'agriculture, sciences et arts de Boulogne-sur-Mer, le 2 septembre 1836",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100033781/thumbnail_JPG00000003.jpg"
+    },
+    {
+      "date": "1999",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083084",
+      "publisher": "Night & Day : 32 Jazz",
+      "title": "Left Hook, Right Cross"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067342",
+      "contributor": "Nathalie Peyrebonne",
+      "publisher": "Paris : Presses de l'Université Paris-Sorbonne",
+      "title": "Le mépris de la cour"
+    },
+    {
+      "date": "2001",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083428",
+      "contributor": "C. Lemesle",
+      "publisher": "Shokaway Productions : distrib. EMI Music France",
+      "title": "Encore"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:10884",
+      "publisher": "[S. l. ?] : [S. n. ?]",
+      "title": "Instruction sur l'emploi de la lie de vin, publiée par la Commission d'Agriculture et des Arts, en exécution de l'arrêté du Comité de Salut Public, du 14 Vendémiaire, an III"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095959",
+      "contributor": "JeanBouvet",
+      "title": "Saint-Bauzille de Putois"
+    },
+    {
+      "date": "2006",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090325",
+      "contributor": "Lena Grumbach",
+      "publisher": "Arles : Actes Sud",
+      "title": "La reine dans le palais des courants d'air"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076657",
+      "contributor": "JeanCormier",
+      "publisher": "Paris : Solar",
+      "title": "[Le ]livre d'or du rugby, 1999"
+    },
+    {
+      "date": "2012",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093632",
+      "contributor": "Lionel Shriver",
+      "publisher": "Paris : Diaphana Films",
+      "title": "We need to talk about Kevin"
+    },
+    {
+      "date": "2014",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092626",
+      "contributor": "Peter Morgan",
+      "publisher": "Paris : Pathé",
+      "title": "Rush"
+    },
+    {
+      "date": "1994 (DL)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072430",
+      "contributor": "Lutfî Bûsnâq",
+      "publisher": "Maison des cultures du monde : distrib. Auvidis",
+      "title": "Malouf tunisien"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100862",
+      "contributor": "Nicolas Richard",
+      "publisher": "Paris : Fayard",
+      "title": "Comme un seul homme"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097751",
+      "publisher": "Pollestres (Pyrénées-Orientales) : TDO éditions",
+      "title": "Le coq de Massan"
+    },
+    {
+      "date": "1996",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1075658",
+      "contributor": "François San Millan",
+      "publisher": "Paris : Hatier",
+      "title": "[La ]classe de 6e et la tribu des Cro-Magnon"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1063696",
+      "contributor": "TomiUngerer",
+      "publisher": "Paris : Formulette production",
+      "title": "Abécédaire en 26 chansonnettes"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1083110",
+      "publisher": "Guidance Recording",
+      "title": "Copa Mundial Muzique"
+    },
+    {
+      "date": "1997",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1067360",
+      "publisher": "Paris : L'Harmattan",
+      "title": "Le corps et la métaphore dans les langues gestuelles"
+    },
+    {
+      "date": "1978",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:108344",
+      "contributor": "François Châtelet",
+      "publisher": "Paris : Hachette",
+      "title": "Histoire des idéologies"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:108840",
+      "contributor": "PhilippeGrumbach",
+      "publisher": ": : [prod.] : [ed.] : [distrib.]",
+      "title": "Le Bal du Comte d'Orgel"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1095977",
+      "title": "La ferme de Prat Alaric : une architecture traditionnelle"
+    },
+    {
+      "date": "2007",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1090343",
+      "contributor": "Michael De Luca",
+      "publisher": "Paris : Metropolitan Filmexport [éd., distrib.]",
+      "title": "L'antre de la folie"
+    },
+    {
+      "date": "1998",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1076675",
+      "contributor": "PhilippeSollers",
+      "publisher": "Paris : Ed. Cercle d'art",
+      "title": "[Le ]sens du beau"
+    },
+    {
+      "date": "2012",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1093650",
+      "contributor": "Ludovic Bource",
+      "publisher": "Neuilly-sur-Seine : Warner Home Video",
+      "title": "The artist"
+    },
+    {
+      "date": "2015",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1092644",
+      "contributor": "Giovanni Mirabassi",
+      "publisher": "Issy-les-Moulineaux : ARTE Editions",
+      "title": "Caprice"
+    },
+    {
+      "date": "1994 (P)",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1072449",
+      "contributor": "Petits Chérubins",
+      "publisher": "PARIS",
+      "title": "Zoukamine"
+    },
+    {
+      "date": "2018",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1100880",
+      "contributor": "Michelle Charrier",
+      "publisher": "Paris : Nouveaux Millénaires",
+      "title": "Les cieux pétrifiés"
+    },
+    {
+      "date": "1993",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1097788",
+      "title": "Élie Marion (1678-1713), profession : prophète"
+    },
+    {
+      "date": "2004",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:107567",
+      "publisher": "Bruxelles : Casterman",
+      "title": "Le bal des gargouilles"
+    }
+  ],
+  "numberOfRecords": 732050,
+  "nextToRecord": 710150,
+  "actualNumberOfDocuments": 150
+}

@@ -1,0 +1,1632 @@
+{
+  "numberOfRecordsIntoFile": 10000,
+  "records": [
+    {
+      "date": "1777-1778",
+      "identifier": "ark:/12148/bpt6k940959",
+      "publisher": "A Londres, chez les libraires associés. M.DCC.LXXVII [-M.DCC.LXXXIII]",
+      "source": "Bibliothèque nationale de France, département Fonds du service reproduction, *E-751-780",
+      "title": "Dictionnaire universel des sciences morale, économique, politique et diplomatique; ou Bibliotheque de l'homme-d'état et du citoyen. [Tome 16] / , Tome premier [-trentieme]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb361272857"
+    },
+    {
+      "date": "1870",
+      "identifier": "ark:/12148/bpt6k5431866m",
+      "publisher": "impr. de Schiller (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB56-2751",
+      "title": "Réunion publique tenue à Libourne, le 8 mai 1870, à l'occasion du plébiscite / (discours du duc Decazes)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303078730"
+    },
+    {
+      "date": "1906",
+      "identifier": "ark:/12148/bpt6k6115202s",
+      "contributor": "Chambre de commerce et d'industrie (Meurthe-et-Moselle). Éditeur scientifique",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, 8-F PIECE-3912",
+      "title": "Chambre de commerce de Nancy. Rapport sur les saisies-arrêts des salaires et petits traitements. Séance du 9 janvier 1906. (Signé : A. Bernheim)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb318036159"
+    },
+    {
+      "date": "1797",
+      "identifier": "ark:/12148/bpt6k1067188p",
+      "contributor": "Luynes, Guyonne-Élisabeth-Josèphe de Montmorency (1755-1830 ; duchesse de). Traducteur",
+      "publisher": "A Dampierre. Par G. E. J. M. A. L. 1797",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RES-Y2-999",
+      "title": "The life and most surprising adventures of Robinson Crusoe of York mariner. Tome 2 / ; who lived eight and twenty years in an 2 [sic] inhabited 1 [sic] island on the coast of America, near the mouth of the great river Oroonoque. With an account of his deliverance thence and 2 [sic] his 1 [sic] after surprising adventures. Tome premier [-second]. La vie et très surprenantes aventures de Robinson Crusoe d'York marin; qui vêcut huit et vingt ans dans une inhabitée isle sur la côte d'Amérique, près de l'embouchure de la grande riviere Orénoque. Avec une relation de sa délivrance de cet endroit et (de) ses ensuite surprenantes aventures.",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb303097616"
+    },
+    {
+      "date": "1859",
+      "identifier": "ark:/12148/bpt6k49901s",
+      "publisher": "L. Hachette (Paris)",
+      "source": "Université Paris Sud, D-218",
+      "title": "Précis de chimie industrielle : à l'usage des écoles d'arts et manufactures et d'arts et métiers, des écoles préparatoires aux professions industrielles, des fabricants et des agriculteurs. Tome 3 / Planches / par A. Payen,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31070487z"
+    },
+    {
+      "date": "1891",
+      "identifier": "ark:/12148/bpt6k54800235",
+      "contributor": "Chambre de commerce belge (France). Éditeur scientifique",
+      "publisher": "P. Dupont (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB57-10409",
+      "title": "Chambre de commerce belge de Paris. Conséquences de la dénonciation du traité de commerce franco-belge, mémoire présenté au comité, par Eugène Allard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30011114s"
+    },
+    {
+      "date": "1847",
+      "identifier": "ark:/12148/bpt6k116108d",
+      "publisher": "impr. de Guiraudet et Jouaust (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, YE-51261",
+      "title": "Premier recueil religieux, pastoral et national des chants montagnards favoris : exécutés à la cour de tous les souverains de l'Europe... par les 40 chanteurs montagnards français... / paroles et musiques de M. A. Roland,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb312373558"
+    },
+    {
+      "date": "1885",
+      "identifier": "ark:/12148/bpt6k1476901",
+      "contributor": "Verreau, Hospice Anthelme Jean Baptiste (Abbé). Préfacier",
+      "publisher": " (Montréal)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK12-1621",
+      "title": "Villemarie. Petites Fleurs religieuses du vieux Montréal / par Paul Dupuy,... ; Avec une introduction par M. H. A. Verreau,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341395755"
+    },
+    {
+      "date": "1845-1846",
+      "identifier": "ark:/12148/bpt6k5747864n",
+      "contributor": "Maffei, Scipione (1675-1755). Éditeur scientifique",
+      "publisher": " (Parisiis)",
+      "source": "Bibliothèque nationale de France, département Collections numérisées, 2008-240024",
+      "title": "Patrologia Latina ; 22-30. Sancti Eusebii Hieronymi,... Opera omnia, post monachorum ordinis S. Benedicti e congregatione S. Mauri, sed potissimum Joannis Martianaei hujus Vallarsii et Maffaei,... Editio Parisiorum novissima... accurante et ad ultimum recognoscente J.-P. Migne,.... Tome 1",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb422394182"
+    },
+    {
+      "date": "1738",
+      "identifier": "ark:/12148/btv1b86113250",
+      "publisher": "Imp. royale (Paris)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21128 (7)",
+      "title": "Arrêt du conseil d'Etat qui proroge, à compter du 1er octobre 1738 que commence le bail de Jacq. Forceville jusqu'au 30 septembre 1744, la moderation à 4 livres 15 sols 6 deniers par barrique du poids de 300 livres des droits d'entrée et de consommation sur les sardines venant de Bretagne en Anjou",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33692964w"
+    },
+    {
+      "date": "1893",
+      "identifier": "ark:/12148/bpt6k5626647b",
+      "publisher": "Fischbacher (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-YF-656",
+      "title": "Le théâtre à Nantes depuis ses origines jusqu'à nos jours, 1430 ?-1893 / Étienne Destranges",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303364660"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k6578786r",
+      "contributor": "Dautremer, Joseph (1860-1946). Traducteur",
+      "publisher": "Kobounsia (Tokio)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Contes du vieux Japon.... Le moineau qui a la langue coupée / traduits par J. Dautremer",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30303755t"
+    },
+    {
+      "date": "1905-1913",
+      "identifier": "ark:/12148/bpt6k112140n",
+      "contributor": "Geoffroy de Grandmaison, Charles-Alexandre (1858-1931). Éditeur scientifique",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-L45-63 (55)",
+      "title": "Correspondance du comte de La Forest, ambassadeur de France en Espagne, 1808-1813. T. VII, Août 1812-avril 1814 / publiée pour la Société d'histoire contemporaine par M. Geoffroy de Grandmaison",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb340801701"
+    },
+    {
+      "date": "1911",
+      "identifier": "ark:/12148/bpt6k739803",
+      "contributor": "Filon, Augustin (1841-1916). Préfacier",
+      "publisher": "impr. de Lafolye frères (Vannes)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Lk2-6057",
+      "title": "L'expédition d'Édouard Wydeville en Bretagne (1488) : étude historique et littéraire / par le Mis de Beauchesne,.... précédée d'une lettre-préface de M. Augustin Filon. et suivie du texte anglais du poème de M. Percy G. Stone intitulé \"Saint-Albin\"",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31780718c"
+    },
+    {
+      "date": "1812-1814",
+      "identifier": "ark:/12148/bpt6k1113256",
+      "contributor": "Merle, Jean-Toussaint (1782-1852). Collaborateur",
+      "publisher": "Pillet (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LI3-89 (A,2)",
+      "title": "L'Hermite de la Chaussée-d'Antin, ou Observations sur les moeurs et les usages parisiens au commencement du XIXe siècle. T. 2",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb322922764"
+    },
+    {
+      "date": "1887",
+      "identifier": "ark:/12148/bpt6k850389x",
+      "publisher": "impr. de E. de Soye et fils (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-25457",
+      "title": "Une visite au Panthéon : explication des sujets de peinture et de sculpture / par M. Bonnefoy,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30128558k"
+    },
+    {
+      "date": "1727",
+      "identifier": "ark:/12148/btv1b8624872k",
+      "publisher": "impr. de Vve Saugrain et (Paris)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21240 (126)",
+      "title": "Arrest du conseil d'estat du Roy, qui condamne un avocat-procureur et deux huissiers de la ville du Mans, en différentes amendes par eux encouruës pour plusieurs contraventions à l'ordonnance du mois de juin 1680, articles IV, XVIII et XIX du titre du papier et parchemin timbrés, et aux déclarations des 18 avril 1690, 19 juin et 24 juillet 1691 rendues en conséquence ; et notamment pour avoir signifié et d'être servis des avenirs, déclarations de dépens et autres actes judiciaires sur du papier commun et non timbré, ou sur des papiers d'anciens timbres, dont la plupart avait déjà servi à écrire et signifier des actes de justice",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33689532n"
+    },
+    {
+      "date": "1887-1890",
+      "identifier": "ark:/12148/bpt6k1438196",
+      "publisher": "Marchal et Billard (Paris)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, 8-F-8377 (3)",
+      "title": "Dictionnaire de droit civil, commercial, administratif et de procédure, dans les matières intéressant le notariat, par Albert André,.... Tome 3",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30018824q"
+    },
+    {
+      "date": "1861",
+      "identifier": "ark:/12148/bpt6k1066580f",
+      "contributor": "Bertall (1820-1882). Illustrateur",
+      "publisher": "L. Hachette (Paris)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RES M-X-84",
+      "title": "A. B. C. Trim, alphabet enchanté. [Illustrations par Bertall.]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31179308w"
+    },
+    {
+      "date": "1623",
+      "identifier": "ark:/12148/btv1b86070474",
+      "publisher": "J. Jullieron (Lyon)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RESFOL-LB36-2119 (BETA,1)",
+      "title": "Le soleil au signe du Lion, d'où quelques parallèles sont tirés avec le très-chrétien,... monarque Louis XIII, roi de France et de Navarre, en son entrée triomphante dans sa ville de Lyon ; ensemble un sommaire récit de tout ce qui s'est passé de remarquable en ladite entrée de Sa Majesté, et de la plus illustre princesse de la terre, Anne d'Austriche, reine de France et de Navarre, dans ladite ville de Lyon, le 11 décembre 1622",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb36291046z"
+    },
+    {
+      "date": "1920",
+      "identifier": "ark:/12148/bpt6k941157r",
+      "publisher": "Librairie théâtrale, artistique et littéraire (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-YTH-36196",
+      "title": "Le poulailler : comédie en trois actes / Tristan Bernard",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb318024203"
+    },
+    {
+      "date": "1722",
+      "identifier": "ark:/12148/bpt6k853776h",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, E-2400 (LAON,1722/06/20)",
+      "title": "Mandement et Intruction pastorale... (portant adhésion à la bulle \"Unigenitus\")",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33783439h"
+    },
+    {
+      "date": "1752",
+      "identifier": "ark:/12148/btv1b86048758",
+      "publisher": "imp. royale (Paris)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21139 (45)",
+      "title": "Arrêt du conseil d'état qui supprime un droit de péage prétendu par la dame abbesse et religieuses de l'abbaye de Notre-Dame du Ronceray de la ville d'Angers, dans l'étendue de la Seigneurie de Rochefort ; et leur fait défenses de percevoir aucun péage dans les chatellenies de Cour-de-Pierre, de Beaulieu et de Saint-Lambert de Lattay, généralité de Tours",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33694990x"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k5611974f",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-10784",
+      "title": "Avis à MM. de la Commune et à tous les citoyens actifs et utiles qui ont eu le malheur de perdre leurs tems à lire une pitoyable brochure intitulé : \"Éclaircissemens à MM. de la Commune et à tous les citoyens, etc.\", signée : Cullerier, premier chirurgien de Bicêtre, y gagnant maîtrise. [Signé : de La Chave, imprimeur.]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30707759v"
+    },
+    {
+      "date": "1881",
+      "identifier": "ark:/12148/bpt6k6551910k",
+      "publisher": "E. Plon et Cie (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Y2-4296 (1-2)",
+      "title": "Le moulin Frappier. Tome 1 / par Henry Gréville",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30540952s"
+    },
+    {
+      "date": "1621",
+      "identifier": "ark:/12148/bpt6k6349605z",
+      "publisher": "[S.l., 1621]",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-23098",
+      "title": "Epistre consolatoire a monseigneur M. le premier president, sur le trépas de madame la premiere presidente son espouse.",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30137655s"
+    },
+    {
+      "date": "1845",
+      "identifier": "ark:/12148/bpt6k65355453",
+      "publisher": "P.-J. Camus (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-406",
+      "title": "La Sainte Tunique de Notre Seigneur Jésus-Christ : recherches religieuses et historiques sur cette reliques et sur le pèlerinage d'Argenteil (2e édition, revue et augmentée du récit de la translation solennelle de la relique, faite par Mgr l'évêque de Versailles) / par M. L.-F. Guérin,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30551497t"
+    },
+    {
+      "date": "1785-1791",
+      "identifier": "ark:/12148/bpt6k423632r",
+      "publisher": "[s.n.] (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Z-23951",
+      "title": "Bibliothèque universelle des dames. Voyages. T. 18, [Lettres XVIII-XXIX : Île de France, Île de Bourbon, Madagascar, Cap de Bonne-Espérance] / . Tome premier [-vingtième]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31252984q"
+    },
+    {
+      "date": "1835",
+      "identifier": "ark:/12148/bpt6k6352313k",
+      "publisher": "rue du Foin S. Jacques, n° 12. Se trouve chez F. Didot, père et fils, rue Jacob, n° 24. 1835",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Z-18667",
+      "title": "̓ ́Atakta,. Tómos pémptos,. Méros deúteron,, Pínakes tô̄n pénte tómōn tô̄n ̓Atáktōn. / [hypò ̓Adamantíou Koraî̄]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb44306877s"
+    },
+    {
+      "date": "1865",
+      "identifier": "ark:/12148/bpt6k92792q",
+      "publisher": "J. Rodriguez (Madrid)",
+      "source": "Université Paris Sud, 815719.49",
+      "title": "España sagrada. 49, La santa iglesia de Tarazona en sus estados antiguo y moderno / Vincente de La Fuente,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37340653x"
+    },
+    {
+      "date": "1900",
+      "identifier": "ark:/12148/bpt6k6540104h",
+      "publisher": "J. Maisonneuve (Paris)",
+      "source": "Médiathèque du musée du quai Branly - Jacques Chirac, 2013-160688",
+      "title": "Vie de Samuel Champlain, fondateur de la Nouvelle-France (1567-1635) / Gabriel Gravier",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30536789t"
+    },
+    {
+      "date": "1896",
+      "identifier": "ark:/12148/bpt6k6289849p",
+      "publisher": "P. Weissenbruch (Bruxelles)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB46-655",
+      "title": "Les journaux à Gand en 1815 : une page des Cent-Jours / Edouard Romberg",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb340305107"
+    },
+    {
+      "date": "1813",
+      "identifier": "ark:/12148/bpt6k8504214",
+      "publisher": "at the mission press (Serampore)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, A-4008",
+      "title": "The Gospel of the apostle John, translated into Chinese",
+      "relation": "Notice d\u2019oeuvre : http://catalogue.bnf.fr/ark:/12148/cb12008265h"
+    },
+    {
+      "date": "1879-1880",
+      "identifier": "ark:/12148/bpt6k9412313",
+      "contributor": "Mohl, Mme Jules (née Mary Elizabeth Clarke). Éditeur scientifique",
+      "publisher": "G. Reinwald (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-O2-611 (1)",
+      "title": "Vingt-sept ans d'histoire des études orientales : rapports faits à la Société asiatique de Paris de 1849 à 1867, par Jules Mohl,... Ouvrage publié par sa veuve...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb309562348"
+    },
+    {
+      "date": "1926",
+      "identifier": "ark:/12148/bpt6k9385836",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-62752 (2)",
+      "title": "Les faux Louis XVII : le roman de Naundorff et la vie de Carl Werg : recueil de sept cents documents, tirés des Archives d'Allemagne et de France (1774-1920). Tome 2 / Georges de Manteyer",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb308737136"
+    },
+    {
+      "date": "1841",
+      "identifier": "ark:/12148/bpt6k5809704s",
+      "publisher": "impr. de Pollet, Soupe et Guillois ((Paris))",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-17436",
+      "title": "Après avoir fait toutes les tentatives...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305846920"
+    },
+    {
+      "date": "1867",
+      "identifier": "ark:/12148/bpt6k6515471p",
+      "contributor": "Vallès, Jules (1832-1885). Préfacier",
+      "publisher": "Firmin-Didot ((Paris,))",
+      "source": "Bibliothèque nationale de France, département Littérature et art, YE-26220",
+      "title": "Les Charmeuses. [Préface de Jules Vallès.] / André Lemoyne",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30788982t"
+    },
+    {
+      "date": "1849",
+      "identifier": "ark:/12148/bpt6k73867m",
+      "publisher": "Le Bailly (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, X-14033",
+      "title": "Le nouveau dictionnaire complet du jargon de l'argot, ou Le langage des voleurs dévoilé ; Suivi des Nouveaux genres de vols et escroqueries nouvellement employés par eux ; Et terminé par des Chansons en français et en argot / [Signé : Halbert (d'Angers)]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30569478p"
+    },
+    {
+      "date": "1868-1871",
+      "identifier": "ark:/12148/bpt6k113221x",
+      "publisher": "A. Franck (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-X-329 (2,4)",
+      "title": "Dictionnaire des doublets ou doubles formes de la langue française / par Auguste Brachet",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30153587k"
+    },
+    {
+      "date": "1839",
+      "identifier": "ark:/12148/bpt6k90009x",
+      "publisher": "Mathias (Paris)",
+      "source": "Université Paris Sud, 208 676",
+      "title": "Introduction à l'étude de la chimie moléculaire / par J. Persoz,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31089230t"
+    },
+    {
+      "date": "1872",
+      "identifier": "ark:/12148/bpt6k8586099",
+      "publisher": "Barbré (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-YTH-26215",
+      "title": "Pygmalion, étude réaliste, d'après l'antique, en 1 petit acte et en vers, par M. Eugène Hugot",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30625895r"
+    },
+    {
+      "date": "1819",
+      "identifier": "ark:/12148/bpt6k65116803",
+      "contributor": "Chasselat, Charles (1782-1843). Dessinateur",
+      "publisher": "A Paris chez Louis Janet, libraire, successeur de son Père. Rue St. Jacques, N°. 59. [s. d.]",
+      "source": "Ville de Paris / Fonds Heure joyeuse, 2013-35392",
+      "title": "Les jeunes femmes , par J.-N. Bouilly, membre de plusieurs sociétés savantes et littéraires. Tome premier [-second].",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb301412156"
+    },
+    {
+      "date": "1836",
+      "identifier": "ark:/12148/bpt6k11640009",
+      "publisher": "F. G. Levrault (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-38634",
+      "title": "Extrait du règlement provisoire sur l'instruction à pied et à cheval dans les régiments d'artillerie, approuvé le 15 juillet 1835... à l'usage des sous-officiers, brigadiers et artificiers contenant les bases de l'instruction, les écoles du canonnier et du peloton à pied. Instruction à pied",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb339678474"
+    },
+    {
+      "date": "1875",
+      "identifier": "ark:/12148/bpt6k58465189",
+      "contributor": "France. Ministère des affaires étrangères (1588-2007). Éditeur scientifique",
+      "publisher": "Impr. nationale (Paris)",
+      "source": "Bibliothèque du Ministère des Affaires étrangères, 2010-65654",
+      "title": "Conférence monétaire entre la Belgique, la France, l'Italie et la Suisse : procès-verbaux, janvier-février 1875",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33879282h"
+    },
+    {
+      "date": "1927",
+      "identifier": "ark:/12148/bpt6k90487t",
+      "contributor": "Institut de France. Éditeur scientifique",
+      "publisher": "Typographie de Firmin-Didot et Cie (Paris)",
+      "source": "Université Paris Sud, 34 855",
+      "title": "Fêtes du centenaire de Marcelin Berthelot, à Paris et à Chantilly les 24, 25 et 26 octobre 1927 / [réalisé par ] l'Institut de France",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb333915928"
+    },
+    {
+      "date": "1897",
+      "identifier": "ark:/12148/bpt6k143467x",
+      "publisher": "impr. de «La Constitution» (Auxerre)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-31067",
+      "title": "Histoire de Monéteau : Yonne / par M. l'abbé H. Bouvier,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30150928f"
+    },
+    {
+      "date": "1854-1866",
+      "identifier": "ark:/12148/bpt6k6309246d",
+      "contributor": "Firmin-Didot, Hyacinthe (1794-1880). Éditeur scientifique",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-20046 (NUM)",
+      "title": "Nouvelle biographie générale : depuis les temps les plus reculés jusqu'à nos jours.... XXX. Lavoisier-Lettsom / publiée par MM. Firmin-Didot frères, sous la direction de M. le Dr. Hoefer",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37343743m"
+    },
+    {
+      "date": "1773-1789",
+      "identifier": "ark:/12148/bpt6k1067194d",
+      "publisher": "impr. de L.-F. Delatour ((S. l.,))",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, V-3963-3964",
+      "title": "L'art du fabricant d'étoffes de soie, par M. Paulet,.... Section 7,Partie 2",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31068138n"
+    },
+    {
+      "date": "1828",
+      "identifier": "ark:/12148/bpt6k5447444s",
+      "publisher": "Delaforest (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB49-966",
+      "title": "Nouveau discours à l'occasion du 8e anniversaire de la naissance de Monseigneur le duc de Bordeaux , orné d'un portrait de S. A. R. Par S.-N. Cartier-Vinchon,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30201297q"
+    },
+    {
+      "date": "1706",
+      "identifier": "ark:/12148/bpt6k8588978",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB37-4311",
+      "title": "Songe de Louis XIV, du 22 du mois d'août l'an 1706, jour de la prise de Menin",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36298067m"
+    },
+    {
+      "date": "1878",
+      "identifier": "ark:/12148/bpt6k6523792j",
+      "publisher": "impr. de Clavel-Ballivet (Nîmes)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-30610",
+      "title": "Allocution prononcée dans l'église Sainte-Perpétue de Nîmes, le 15 janvier 1878, par M. l'abbé Henri Constans,... à l'occasion du mariage de M. Henri Allemand et de Mlle Marie Clayel",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30265080n"
+    },
+    {
+      "date": "1822",
+      "identifier": "ark:/12148/bpt6k6541874w",
+      "contributor": "Batteux, Charles (1713-1780). Éditeur scientifique. Traducteur. Auteur du commentaire",
+      "publisher": "impr. de Michel (Brest)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Y-377",
+      "title": "Les quatre poétiques d'Aristote, d'Horace, de Vida et de Boileau , avec les traductions et des remarques par M. l'abbé Batteux,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30616897g"
+    },
+    {
+      "date": "1877",
+      "identifier": "ark:/12148/bpt6k91721z",
+      "publisher": "F. Vieweg (Braunschweig)",
+      "source": "Université Paris Sud, 208 595",
+      "title": "Gasometrische Methoden (Zweite umgearbeitete und vermehrte Auflage...) / von Robert Bunsen",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb301763050"
+    },
+    {
+      "date": "1889",
+      "identifier": "ark:/12148/bpt6k901301",
+      "contributor": "Lermina, Jules (1839-1915). Préfacier",
+      "publisher": "H. Chacornac (Paris)",
+      "source": "Université Paris Sud, 209 049",
+      "title": "L'or et la transmutation des métaux / par G.-Théodore Tiffereau,... ; par M. Franck,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31469626z"
+    },
+    {
+      "date": "1853",
+      "identifier": "ark:/12148/bpt6k130989v",
+      "publisher": "L. Lefort (Lille)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Y2-27079",
+      "title": "Les deux aveugles / par l'auteur de \"Gérard l'aveugle\" [Mme Bourdon]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30144824j"
+    },
+    {
+      "date": "1864",
+      "identifier": "ark:/12148/bpt6k90248c",
+      "contributor": "Gerhardt, Charles (1816-1856). Traducteur",
+      "publisher": "E. Lacroix (Paris)",
+      "source": "Université Paris Sud, 1919/Cm 5145",
+      "title": "Guide pour l'introduction à l'étude de la chimie : contenant les principes généraux de cette science, les proportions chimiques, la théorie atomique... / par M. J. Liebig ; trad. de l'allemand par Ch. Gerhardt",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37257526g"
+    },
+    {
+      "date": "1870",
+      "identifier": "ark:/12148/bpt6k5488101d",
+      "publisher": "Imp. de J. Lefort (Lille)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Q-6724",
+      "title": "Un apostolat indispensable au XIXe siècle",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33244264q"
+    },
+    {
+      "date": "1897",
+      "identifier": "ark:/12148/bpt6k850229j",
+      "publisher": "L. Baudoin (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LF229-23",
+      "title": "Les troupes de la marine / par B...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34078521n"
+    },
+    {
+      "date": "1622",
+      "identifier": "ark:/12148/bpt6k8504515",
+      "publisher": "Vda de A. Martín (Madrid)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, YG-286",
+      "title": "Décimasexta parte de las comedias de Lope de Vega Carpio,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb315524349"
+    },
+    {
+      "date": "1648",
+      "identifier": "ark:/12148/bpt6k5660183q",
+      "contributor": "Montlyard, Jean de. Traducteur",
+      "publisher": "N. et J. de La Coste (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, R-25970",
+      "title": "Les métamorphoses, ou L'asne d'or de L. Apulée, philosophe platonicien . Nouvellement reveues, corrigées & mises en meilleur ordre....",
+      "relation": "Notice d\u2019oeuvre : http://catalogue.bnf.fr/ark:/12148/cb120103652"
+    },
+    {
+      "date": "1885",
+      "identifier": "ark:/12148/bpt6k208762k",
+      "contributor": "Communay, Arnaud (1845-19..?). Éditeur scientifique",
+      "publisher": "H. Champion (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Les Huguenots dans le Béarn et la Navarre / documents inédits publiés pour la Société historique de Gascogne et annotés par A. Communay",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341018596"
+    },
+    {
+      "date": "1905",
+      "identifier": "ark:/12148/bpt6k5529867g",
+      "contributor": "Brandon-Salvador, Marguerite (18..-19..). Éditeur scientifique",
+      "publisher": "Fischbacher (Paris)",
+      "source": "Bibliothèque nationale de France, département Collections numérisées, 2008-254306",
+      "title": "Manuel de bonne vie / rédigé, d'après les oeuvres de Charles Wagner, par Mme Brandon-Salvador",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31613272w"
+    },
+    {
+      "date": "1913",
+      "identifier": "ark:/12148/bpt6k919267",
+      "publisher": "A. Hermann et fils (Paris)",
+      "source": "Université Paris Sud, 209 087",
+      "title": "Introduction à la chimie des complexes : théorie et systématique de la chimie des complexes minéraux / G. Urbain et A. Sénéchal",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31513031k"
+    },
+    {
+      "date": "1878",
+      "identifier": "ark:/12148/bpt6k432824r",
+      "contributor": "Exposition internationale (1878 ; Paris). Éditeur scientifique",
+      "publisher": "Imprimerie nationale (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-V-1717 (7,CANINE)",
+      "title": "Catalogue officiel. Tome 7, Concours d'animaux vivants, Espèce canine / Exposition universelle internationale de 1878 à Paris ; publié par le commissariat général...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb333850783"
+    },
+    {
+      "date": "1854",
+      "identifier": "ark:/12148/bpt6k63867d",
+      "contributor": "La Borderie, Arthur Le Moyne de (1827-1901). Éditeur scientifique",
+      "publisher": "A. Guéraud (Nantes)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Z-9479 (11)",
+      "title": "Inventaire du mobilier de Jeanne la Boiteuse, duchesse de Bretagne, 1384, / publié par A. de La Borderie",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30704345b"
+    },
+    {
+      "date": "1935-1936",
+      "identifier": "ark:/12148/bpt6k1163447s",
+      "publisher": "Société historique algérienne (Alger)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 4-Z-3297 (1936,1)",
+      "title": "Premier Congrès de la Fédération des sociétés savantes de l'Afrique du Nord. Alger 10-11 juin 1935 [2° congrès, Tlemcen, 14-17 avril 1936]. 1936, tome 1",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb33899976x"
+    },
+    {
+      "date": "1853",
+      "identifier": "ark:/12148/bpt6k65475257",
+      "publisher": "impr. A. Lepage (Nancy)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-2922",
+      "title": "Fribourg et sa châtellenie / par M. l'abbé Guillaume",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30557451z"
+    },
+    {
+      "date": "1892",
+      "identifier": "ark:/12148/bpt6k126403p",
+      "contributor": "Société historique et archéologique du Maine. Éditeur scientifique",
+      "publisher": "impr. Saint-Pierre (Solesmes)",
+      "source": "Médiathèque Louis Aragon / Le Mans",
+      "title": "Solesmes, les sculptures de l'église abbatiale, 1496-1553 : reproductions, état de la question d'origine / par le R. P. dom M. de La Tremblaye ; ouvrage publié avec le patronage de la Société historique et archéologique du Maine",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34095297r"
+    },
+    {
+      "date": "1846",
+      "identifier": "ark:/12148/bpt6k58101209",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TE121-140 (2)",
+      "title": "Manuel des accouchements et des maladies des femmes grosses et accouchées, contenant les soins à donner aux nouveaux-nés, par J. Jacquemier,.... Tome 2",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb306404350"
+    },
+    {
+      "date": "1856",
+      "identifier": "ark:/12148/bpt6k5616089b",
+      "publisher": "impr. de Mme de Lacombe (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-11386",
+      "title": "Notice biographique sur M. Jacques-Séraphin Lanquetin,... : député de la Seine au Corps législatif... / [signé : E. Pascallet et Eugène de Monglave]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31063350v"
+    },
+    {
+      "date": "1802-1815",
+      "identifier": "ark:/12148/btv1b86264507",
+      "contributor": "Filhol, Antoine Michel (1759-1812). Éditeur scientifique",
+      "publisher": "Filhol (Paris)",
+      "source": "Bibliothèque nationale de France, département Arsenal, 4-S-4033 (9)",
+      "title": "Cours historique et élémentaire de peinture ou Galerie complette du Museum central de France , par une société d'amateurs et d'artistes",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb33928477c"
+    },
+    {
+      "date": "1889-1902",
+      "identifier": "ark:/12148/bpt6k1163792n",
+      "contributor": "Guérin, Paul (1845-1911). Préfacier",
+      "publisher": "impr. de P. Girardot (impr. de P. Pigelet) (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Collection des ordonnances des rois de France : rapport sur les travaux de la commission chargée de la publication. Fascicule 6 / par M. Georges Picot,... ; Institut de France. Académie des sciences morales et politiques.",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb311064367"
+    },
+    {
+      "date": "1888",
+      "identifier": "ark:/12148/bpt6k1660322",
+      "publisher": "Challamel (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK8-1423",
+      "title": "Questions algériennes (actualités), par Théodore Blancard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb301108766"
+    },
+    {
+      "date": "1744",
+      "identifier": "ark:/12148/btv1b8615799x",
+      "contributor": "Boucher, François (1703-1770). Dessinateur",
+      "publisher": "A Minutie [i.e. Paris], M.DCC.XLIV.",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RESM-Y2-155",
+      "title": "Acajou et Zirphile , conte",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb359401372"
+    },
+    {
+      "date": "1830",
+      "identifier": "ark:/12148/bpt6k4257966",
+      "publisher": "Dentu (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB49-1369",
+      "title": "Appel au patriotisme français ; par M. le vicomte de Calvimont St-Martial",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30188032r"
+    },
+    {
+      "date": "1903-1929",
+      "identifier": "ark:/12148/bpt6k112013f",
+      "publisher": " (Évreux)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-164 (20)",
+      "title": "Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. XX. Gaa-Gau. - 1929 / par C. d'E.-A. [Chaix d'Est-Ange]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209118s"
+    },
+    {
+      "date": "1831-1850",
+      "identifier": "ark:/12148/bpt6k62097605",
+      "contributor": "Delaroche, Paul (1797-1856). Éditeur scientifique",
+      "publisher": "Rittner et Goupil (Paris)",
+      "source": "Bibliothèque nationale de France, département Monnaies, médailles et antiques, RES-10004-TNG-F (15,1841,B)",
+      "title": "Trésor de numismatique et de glyptique, ou Recueil général de médailles, monnaies, pierres gravées, bas-reliefs tant anciens que modernes... gravés par les procédés de M. Achille Collas. 16 / sous la direction de M. Paul Delaroche,... de M. Henriquel-Dupont,... et de M. Charles Lenormant,... [et de M. A. Chabouillet]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb305932320"
+    },
+    {
+      "date": "1835",
+      "identifier": "ark:/12148/bpt6k5608061m",
+      "publisher": "C. Lachapelle (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Y2-62498",
+      "title": "Comme on gâte sa vie. Tome 3 / , esquisses de moeurs, par Auguste Ricard et Marie Aycard",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312084764"
+    },
+    {
+      "date": "1878",
+      "identifier": "ark:/12148/bpt6k6542278s",
+      "publisher": "A. Mame et fils (Tours)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-G-57",
+      "title": "Le Moyen âge et ses institutions (2e édition, revue et corrigée) / par Oscar Havard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305827291"
+    },
+    {
+      "date": "1758",
+      "identifier": "ark:/12148/btv1b8613181j",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21160 (69)",
+      "title": "Arrêt de parlement servant de règlement général pour la fabrique de la paroisse de Courciré, au diocèse du Mans",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33726528m"
+    },
+    {
+      "date": "1863",
+      "identifier": "ark:/12148/bpt6k56265455",
+      "publisher": "impr. de V. Forest et E. Grimaud (Nantes)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-14390",
+      "title": "Molière est-il venu à Nantes ? Par Louis de Kerjean",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30704361k"
+    },
+    {
+      "date": "1815",
+      "identifier": "ark:/12148/bpt6k141442s",
+      "publisher": "l'auteur (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, X-13171",
+      "title": "Traité complet d'orthographe d'usage et de prononciation, suivi d'un Dictionnaire orthographique... par P.-A. Lemare,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30785590m"
+    },
+    {
+      "date": "1941",
+      "identifier": "ark:/12148/bpt6k1163972k",
+      "contributor": "Kromachar Choum-Mau. Traducteur",
+      "publisher": "Braḥrājapaṇṇālăya Kambujā (Bhnaṃ Beñ)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-XO9-41 (9)",
+      "title": "Ekasahasrarātrī ; 9. Ekasahasrarātrī. 9. Volume 1,Fascicule 9 / Kramakar Jumm\"au",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb426616943"
+    },
+    {
+      "date": "1777-1778",
+      "identifier": "ark:/12148/bpt6k94108t",
+      "publisher": "A Londres, chez les libraires associés. M.DCC.LXXVII [-M.DCC.LXXXIII]",
+      "source": "Université Paris Sud, E* 779",
+      "title": "Dictionnaire universel des sciences morale, économique, politique et diplomatique; ou Bibliotheque de l'homme-d'état et du citoyen. Tome 29 / , Tome premier [-trentieme]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb361272857"
+    },
+    {
+      "date": "1903-1929",
+      "identifier": "ark:/12148/bpt6k1120080",
+      "publisher": " (Évreux)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-164 (15)",
+      "title": "Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. XV. Duh-Dyé. - 1917 / par C. d'E.-A. [Chaix d'Est-Ange]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209118s"
+    },
+    {
+      "date": "1856-1860",
+      "identifier": "ark:/12148/bpt6k6491965d",
+      "publisher": "impr. de Rousseau-Pallez (Metz)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, S-27564",
+      "title": "Notes pour servir à l'histoire des insectes nuisibles à l'agriculture dans le département de la Moselle. Numéro 1 / par J.-B. Géhin,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb304930359"
+    },
+    {
+      "date": "1885",
+      "identifier": "ark:/12148/bpt6k5405944s",
+      "publisher": "impr. de G. Crépin-Leblond (Nancy)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM2-73 (QUATER)",
+      "title": "Une correction au Nobiliaire de Dom Pelletier : les familles de Malvoisin, Malvoisin et Conreux de Malvoisin / [Signé : Léon Germain]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305007992"
+    },
+    {
+      "date": "1903",
+      "identifier": "ark:/12148/bpt6k57465664",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TE111-107 (A)",
+      "title": "Traité pratique de chirurgie orthopédique, par le Dr P. Redard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31185907f"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k62674568",
+      "publisher": "[s.n.][s.n.]",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2127",
+      "title": "Suite du \"Coup d'oeil sur les élections de quelques départements\" . Sambre-et-Meuse",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36447404w"
+    },
+    {
+      "date": "1826",
+      "identifier": "ark:/12148/bpt6k5626328z",
+      "publisher": "impr. de Fleuriot (Le Mans)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-14713",
+      "title": "Éloge de M. le duc Mathieu de Montmorency, prononcé à la séance publique de la Société royale d'agriculture, sciences et arts du Mans, par M. Girard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305093487"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k6525053n",
+      "contributor": "Chaperon, Eugène (1857-1938). Illustrateur",
+      "publisher": "L. Baschet (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Z-10872 (1-55)",
+      "title": "Cahiers d'enseignement illustrés ; nos 49, 51-55. La science des armes dans la cavalerie. Numéro 54 / texte par Romuald Brunet ; [illustrations] par E. Chaperon",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb413157830"
+    },
+    {
+      "date": "1737",
+      "identifier": "ark:/12148/bpt6k850208g",
+      "publisher": "[s.n.][s.n.]",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, FOL-FM-5308",
+      "title": "Mémoire pour Claude Du Harlay, habitant des îles de Saint-Domingue, tant en son nom que comme porteur de procuration de Jean-Baptiste Morange, habitant des mêmes îles . Servant de réponse au mémoire imprimé, distribué... par Jean Deu, marchand à Rouen, demandeur en cassation de l'arrêt rendu au parlement de Rouen,... en la grand'chambre, le 19 février 1737",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36727730c"
+    },
+    {
+      "date": "1841",
+      "identifier": "ark:/12148/bpt6k857746k",
+      "publisher": "Pélagaud et Lesne (Lyon)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, R-48669",
+      "title": "Méditations politico-philosophiques d'un vrai citoyen, par M. l'abbé Renard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31195666b"
+    },
+    {
+      "date": "1854",
+      "identifier": "ark:/12148/bpt6k91783h",
+      "publisher": "Metcalf (Cambridge)",
+      "source": "Université Paris Sud, 37 030",
+      "title": "The relation between the atomic weights of the chemical elements / by Josiah P. Cooke,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37264029m"
+    },
+    {
+      "date": "1890",
+      "identifier": "ark:/12148/bpt6k5843543f",
+      "publisher": "Imp. nouvelle (Lunéville)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, 8-F PIECE-1634",
+      "title": "Département de Meurthe-et-Moselle. Arrondissement de Lunéville. Ville de Lunéville. Règlement sur la police générale des cimetières. (1er mai 1890)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb339617718"
+    },
+    {
+      "date": "1902",
+      "identifier": "ark:/12148/bpt6k5778823v",
+      "publisher": "P. Ollendorff (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, LB56-3458",
+      "title": "La leçon des morts : Napoléon III / Paul Lenglé",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34032155k"
+    },
+    {
+      "date": "1926",
+      "identifier": "ark:/12148/bpt6k858314t",
+      "contributor": "Rabe, Hugo (1867-1932). Éditeur scientifique",
+      "publisher": "in aedibus B. G. Teubneri (Leipzig)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Z-27 (230,10,A)",
+      "title": "Rhetores graeci. 10, Aphthonii Progymnasmata, edidit Hugo Rabe, accedunt Anonymi aegyptiaci, Sopatri, aliorum fragmenta",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb343446675"
+    },
+    {
+      "date": "1874",
+      "identifier": "ark:/12148/bpt6k141858n",
+      "publisher": "impr. de Rivière (Béziers)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-18179 (1)",
+      "title": "Annales municipales de la ville de Béziers, par M. Auguste Fabregat,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb304143362"
+    },
+    {
+      "date": "1864",
+      "identifier": "ark:/12148/bpt6k6464060b",
+      "publisher": "chez tous les libraires (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-6832",
+      "title": "Les mémoires du bal Mabille / [par Paul Mahalin]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32408137w"
+    },
+    {
+      "date": "1880",
+      "identifier": "ark:/12148/bpt6k6490784r",
+      "publisher": "V. Forest et E. Grimaud (Nantes)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-32234",
+      "title": "Le sans-culotte J.-J. Goullin, membre du Comité révolutionnaire de Nantes 1793-1794 / par Alfred Lallié",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307235452"
+    },
+    {
+      "date": "1893-1894",
+      "identifier": "ark:/12148/bpt6k857345z",
+      "contributor": "Gréa, Adrien (1828-1917). Traducteur",
+      "publisher": "imp. L. Martin (Lons-le-Saunier)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, B-40013 (2)",
+      "title": "Le Bréviaire romain mis à la portée des communautés et des personnes pieuses par une traduction annotée... / précédée... d'une introduction du R.P. dom. A. Gréa...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb36812540w"
+    },
+    {
+      "date": "1903-1929",
+      "identifier": "ark:/12148/bpt6k1120033",
+      "publisher": " (Évreux)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-164 (10)",
+      "title": "Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. X. Cha-Chu. - 1911 / par C. d'E.-A. [Chaix d'Est-Ange]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209118s"
+    },
+    {
+      "date": "1835",
+      "identifier": "ark:/12148/bpt6k56257518",
+      "publisher": "C. Lachapelle (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Y2-62500",
+      "title": "Comme on gâte sa vie. Tome 5 / , esquisses de moeurs, par Auguste Ricard et Marie Aycard",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312084764"
+    },
+    {
+      "date": "1652",
+      "identifier": "ark:/12148/bpt6k5425927t",
+      "source": "Bibliothèque nationale de France, département Littérature et art, YE-4196",
+      "title": "Les ressentiments de Paris sur la durée de la Guerre et des malheurs du temps present",
+      "relation": "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb421393414"
+    },
+    {
+      "date": "1848",
+      "identifier": "ark:/12148/bpt6k57138227",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB53-783",
+      "title": "Solution du problème social / par P.-J. Proudhon. (22-26 mars)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36323679s"
+    },
+    {
+      "date": "1903-1929",
+      "identifier": "ark:/12148/bpt6k112002q",
+      "publisher": " (Évreux)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LM1-164 (9)",
+      "title": "Dictionnaire des familles françaises anciennes ou notables à la fin du XIXe siècle. IX. Cas-Cha. - 1910 / par C. d'E.-A. [Chaix d'Est-Ange]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34209118s"
+    },
+    {
+      "date": "1825",
+      "identifier": "ark:/12148/bpt6k405739s",
+      "publisher": "impr. d'A. Henry (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Observations sur la conception financière : présentée à la chambre des députés... le 3 janvier 1825 (Deuxième édition) / par Armand Seguin",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb40215888p"
+    },
+    {
+      "date": "1799",
+      "identifier": "ark:/12148/bpt6k6270689f",
+      "publisher": "impr. de la rue du Chantre-Honoré, n ° 75 (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2211",
+      "title": "Ordre de la marche et des cérémonies qui seront observées, au Champ de Mars, le 20 prairial, pour la fête funéraire ... en mémoire des ministres plénipotentiaires de la république assassinés près de Rastadt...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb364474909"
+    },
+    {
+      "date": "1785-1791",
+      "identifier": "ark:/12148/bpt6k423623s",
+      "publisher": "[s.n.] (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Z-23942",
+      "title": "Bibliothèque universelle des dames. Voyages. T. 11, [Lettres CVI-CXXXIX : Marawa, Tanjaour, Carnate, Côte de Coromandel, Côte d'Orixa, Bengale, Indostan] / . Tome premier [-vingtième]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31252984q"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k1155324",
+      "contributor": "Bruyn, Abraham de (1540?-1587). Graveur",
+      "publisher": "[s.n.][s.n.]",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RES-G-1337",
+      "title": "Diversarum gentium armatura equestris . Ubi fere Europae, Asiae atque Africae equitandi ratio propria expressa est. Abrahamus Bruynus excude, [cum praefatione H. Dammani et A. de Bruyno]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb333528361"
+    },
+    {
+      "date": "1590",
+      "identifier": "ark:/12148/bpt6k1043581c",
+      "publisher": "A Paris, chez Rolin Thierry, ruë des Anglois, pres la place Maubert. M. D. XC. Avec privilege",
+      "source": "Bibliothèque nationale de France, département Arsenal, 8-H-6556",
+      "title": "Le martel en teste des Catholiques françois . Où est amplement discouru de la cause des miseres de ce pauure Royaume, & le vray moyen d'y donner remede. Divisé en quatre parties, l'argument desquelles se void en la page suyvante",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36286725x"
+    },
+    {
+      "date": "1855",
+      "identifier": "ark:/12148/bpt6k58461022",
+      "publisher": "Michel Lévy frères (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-YTH-815",
+      "title": "Les Amours d'un serpent, vaudeville en 2 actes, par MM. de Lustières et Feuquerolles... [Paris, Variétés, 27 janvier 1855.]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31483392w"
+    },
+    {
+      "date": "1856",
+      "identifier": "ark:/12148/bpt6k124926h",
+      "publisher": "J.-B. Dumoulin (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK2-502",
+      "title": "La Ligue en Bretagne / par L. Grégoire,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305386593"
+    },
+    {
+      "date": "1886",
+      "identifier": "ark:/12148/bpt6k6208447z",
+      "publisher": "C. Lévy (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-YE-1575",
+      "title": "Rimes et raison / par A. Gennevraye. Avec une lettre de Émile Augier,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30495820z"
+    },
+    {
+      "date": "1861",
+      "identifier": "ark:/12148/bpt6k850107s",
+      "publisher": "E. Lacroix (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-34271",
+      "title": "L'art du briquetier. Atlas / par F. Challeton de Brughat,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb302167249"
+    },
+    {
+      "date": "1869",
+      "identifier": "ark:/12148/bpt6k6535444b",
+      "publisher": "Poussielgue frères (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-22263",
+      "title": "Histoire contemporaine, à l'usage de la jeunesse / par M. l'abbé Courval,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb302817236"
+    },
+    {
+      "date": "1930",
+      "identifier": "ark:/12148/bpt6k1163429v",
+      "publisher": " (Versailles)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-38553 (73)",
+      "title": "Énoncé des oeuvres de peinture, sculpture, architecture, gravure, miniature, dessin et pastels exposées dans les salons de l'Hôtel-de-ville de Versailles, du 23 mai au 23 juin 1930 / Société des amis des arts de Seine-et-Oise",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41255731d"
+    },
+    {
+      "date": "1785-1791",
+      "identifier": "ark:/12148/bpt6k4236156",
+      "publisher": "[s.n.] (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, Z-23934",
+      "title": "Bibliothèque universelle des dames. Voyages. T. 3, [Lettres I-XII : Corée, Japon] / . Tome premier [-vingtième]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31252984q"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k6108749k",
+      "publisher": "impr. de A. Goupil (Laval)",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, 8-F PIECE-3601",
+      "title": "Question du divorce en 1903 (\"Les deux Vies\", de P. et V. Margueritte), conférence donnée à l'hôtel de ville de Laval, le... 8 mars 1903",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30543063p"
+    },
+    {
+      "date": "1817",
+      "identifier": "ark:/12148/bpt6k841506p",
+      "publisher": "impr. de P. Didot l'aîné (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, R-16883",
+      "title": "Analyse de l'eau de mer . Par B.-G. Sage,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312767251"
+    },
+    {
+      "date": "1900",
+      "identifier": "ark:/12148/bpt6k6478833q",
+      "contributor": "Bar-le-Duc. Éditeur scientifique",
+      "publisher": "[s.n.]",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TC41-358",
+      "title": "Amélioration de la source de Fains : rapports et conclusions de la commission / Ville de Bar-le-Duc, Commission technique et médicale des eaux",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33982676c"
+    },
+    {
+      "date": "1889",
+      "identifier": "ark:/12148/bpt6k918039",
+      "publisher": "J.-B. Baillière et fils (Paris)",
+      "source": "Université Paris Sud, 209 044",
+      "title": "La margarine et le beurre artificiel : procédés de fabrication, dangers au point de vue de la santé, procédés chimiques et physiques employés pour la reconnaître, législation française et étrangère / par Ch. Girard,... et J. de Brévans,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30160023f"
+    },
+    {
+      "date": "1904",
+      "identifier": "ark:/12148/bpt6k1163421j",
+      "publisher": " (Versailles)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-38553 (51)",
+      "title": "Description des oeuvres de peinture, sculpture, architecture, gravure, miniatures, dessins et pastels exposées dans les salons de l'Hôtel-de-ville, du dimanche 4 juin au 31 juillet 1904 / Société des amis des arts du département de Seine-et-Oise",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41257114n"
+    },
+    {
+      "date": "1868",
+      "identifier": "ark:/12148/bpt6k6463442g",
+      "contributor": "Musée départemental d'art ancien et contemporain (Épinal). Éditeur scientifique",
+      "publisher": " (Épinal)",
+      "source": "Bibliothèque de l'INHA / coll. J. Doucet, 2012-295677",
+      "title": "Catalogue des collections de tableaux, statues, antiquités, armes, poteries, médailles et monnaies, matrices de sceaux et meubles anciens du Musée départemental des Vosges / par Jules Laurent,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30751748s"
+    },
+    {
+      "date": "1932",
+      "identifier": "ark:/12148/bpt6k1163431x",
+      "publisher": " (Versailles)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-38553 (75)",
+      "title": "Énoncé des oeuvres de peinture, sculpture, architecture, gravure, miniature, dessin et pastels exposées dans les salons de l'Hôtel-de-ville de Versailles, du samedi 22 octobre au dimanche 20 novembre 1932 / Société des amis des arts de Seine-et-Oise",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb412557453"
+    },
+    {
+      "date": "1797",
+      "identifier": "ark:/12148/bpt6k5624386s",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-12604",
+      "title": "Leymerie, médecin en chef de l'hospice du sud, à la commission administrative des hôpitaux civils de Paris",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30813195g"
+    },
+    {
+      "date": "1666",
+      "identifier": "ark:/12148/bpt6k6542561j",
+      "publisher": "T. Jolly (Paris)",
+      "source": "Institut catholique de Paris, 2013-159719",
+      "title": "L'art de bien discourir, ou La méthode aysée pour inventer, former, établir et multiplier un solide discours dans la chaire et dans le barreau ,... par le sieur Nicolas de Hauteville,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb305823424"
+    },
+    {
+      "date": "1799",
+      "identifier": "ark:/12148/bpt6k62732148",
+      "publisher": "impr. de Gratiot (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2050",
+      "title": "Directoire exécutif. Procès-verbal de l'anniversaire de la juste punition du dernier roi des Français , célébré à Paris, dans le temple de la Victoire, le 2 pluviôse an VII",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36447326x"
+    },
+    {
+      "date": "1853",
+      "identifier": "ark:/12148/bpt6k841685c",
+      "publisher": "impr. de Maulde et Renou (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-20074",
+      "title": "Notice biographique sur M. le Mis de Vassal de Montviel, ancien député de Lot-et-Garonne... (Signé : E. Pascallet.)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb310633814"
+    },
+    {
+      "date": "1891",
+      "identifier": "ark:/12148/bpt6k858590p",
+      "publisher": "Percival (London)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-G-6550",
+      "title": "Six semaines de vacances en vélocipède, by S. E. Bally,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30050428w"
+    },
+    {
+      "date": "1913",
+      "identifier": "ark:/12148/bpt6k91940s",
+      "publisher": "A. Colin (Paris)",
+      "source": "Université Paris Sud, 020 64",
+      "title": "Eau oxygénée et ozone. Mémoires de Thénard, Schoenbein, de Marignac, Soret, Troost, Hautefeuille, Chappuis...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33358082f"
+    },
+    {
+      "date": "1867",
+      "identifier": "ark:/12148/bpt6k1164058h",
+      "publisher": "O.-B.-F. Guérin (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-40911",
+      "title": "Coupage et bonification des vins et spiritueux ; office des distillateurs, manuel ou livre de recettes simplifiées pour fabriquer soi-même les sirops ou liqueurs par l'infusion des plantes aromatiques ou par les parfums concentrés,... par Charles Guérin,... 2e édition",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30551060c"
+    },
+    {
+      "date": "1812",
+      "identifier": "ark:/12148/bpt6k63755197",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-Z LE SENNE-1143 (1)",
+      "title": "Recherches sur les eaux publiques de Paris, les distributions successives qui en ont été faites et les divers projets qui ont été proposés pour en augmenter le volume, par M.P. S. Girard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32168808z"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k6276128w",
+      "publisher": "impr. de Briot (Besançon)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2070",
+      "title": "Liste des citoyens qui ont souscrit pour la construction d'un monument à élever à Besançon, dans la promenade de Chammars, en l'honneur des défenseurs de la patrie morts dans les combats... (19 pluviôse.)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36447346j"
+    },
+    {
+      "date": "1935",
+      "identifier": "ark:/12148/bpt6k11632547",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Y2-78846 (55)",
+      "title": "La Résurrection de M. Corme, roman policier. [Inédit.] / René Pujol",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31158655k"
+    },
+    {
+      "date": "1879",
+      "identifier": "ark:/12148/bpt6k5737815w",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TE69-356",
+      "title": "De la Section des nerfs ciliaires et du nerf optique, par le Dr Paul Redard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31185902q"
+    },
+    {
+      "date": "1831-1850",
+      "identifier": "ark:/12148/bpt6k6204485d",
+      "contributor": "Delaroche, Paul (1797-1856). Éditeur scientifique",
+      "publisher": "Rittner et Goupil (Paris)",
+      "source": "Bibliothèque nationale de France, département Monnaies, médailles et antiques, RES-10004-TNG-F- (4,1839,B)",
+      "title": "Trésor de numismatique et de glyptique, ou Recueil général de médailles, monnaies, pierres gravées, bas-reliefs tant anciens que modernes... gravés par les procédés de M. Achille Collas. 4 / sous la direction de M. Paul Delaroche,... de M. Henriquel-Dupont,... et de M. Charles Lenormant,... [et de M. A. Chabouillet]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb305932320"
+    },
+    {
+      "date": "1777",
+      "identifier": "ark:/12148/bpt6k1043751x",
+      "publisher": "Impr. royale (Paris)",
+      "source": "Bibliothèque nationale de France, département Arsenal, FOL-S-341",
+      "title": "Commerce de la Grande-Bretagne et tableaux de ses importations et exportations progressives depuis l'année 1697 jusqu'à la fin de l'année 1773, par le chevalier Charles Whitworth,... Ouvrage traduit de l'anglois",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31645031v"
+    },
+    {
+      "date": "1858-1862",
+      "identifier": "ark:/12148/bpt6k91753k",
+      "publisher": "Roret (Paris)",
+      "source": "Université Paris Sud, 207 954",
+      "title": "Nouveau cours de minéralogie : comprenant la description de toutes les espèces minérales avec leurs applications directes aux arts. Tome second / par M. Delafosse,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30312578w"
+    },
+    {
+      "date": "1917",
+      "identifier": "ark:/12148/bpt6k5784511n",
+      "contributor": "Hanotaux, Gabriel (1853-1944). Préfacier",
+      "publisher": "Impr. Nationale (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LK12-1641",
+      "title": "Histoire de la fondation de la Nouvelle-Orléans (1717-1722) , par le Bon Marc de Villiers. Avec une préface de M. Gabriel Hanotaux,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341396298"
+    },
+    {
+      "date": "1826",
+      "identifier": "ark:/12148/bpt6k425021q",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB49-462",
+      "title": "Procès de \"L'Évangile (partie morale et historique)\" . 5e livraison de la Bibliothèque populaire. Première partie [par Touquet]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31484670n"
+    },
+    {
+      "date": "1885",
+      "identifier": "ark:/12148/bpt6k1419833",
+      "publisher": "V. Palmé (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-24776",
+      "title": "Histoire de La Norville et de sa seigneurie / par l'abbé A.-E. Genty,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34118506p"
+    },
+    {
+      "date": "1859",
+      "identifier": "ark:/12148/bpt6k92753t",
+      "publisher": "J. Rodriguez (Madrid)",
+      "source": "Université Paris Sud, 15719 (5)",
+      "title": "España sagrada. 5, Trata de la provincia Cartaginense / Enrique Florez,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37340653x"
+    },
+    {
+      "date": "1849",
+      "identifier": "ark:/12148/bpt6k5788748m",
+      "publisher": "Grimblot et Vve Raybois (Nancy)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, YF-9847",
+      "title": "Pierre Gringore, extrait d'études sur le théâtre en Lorraine, par Henri Lepage,...",
+      "relation": "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb42663950s"
+    },
+    {
+      "date": "1879",
+      "identifier": "ark:/12148/bpt6k8590569",
+      "publisher": "impr. de Desrosiers (Moulins)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-31392",
+      "title": "Alfred Meilheurat, sa vie, ses oeuvres ; par Francis Pérot,...",
+      "relation": "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb39365141f"
+    },
+    {
+      "date": "1899",
+      "identifier": "ark:/12148/bpt6k910095",
+      "publisher": "C. Béranger (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-V-6993",
+      "title": "Lois générales de la chimie : introduction du cours de chimie générale professé à l'École nationale des mines / par G. Chesneau,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30234635m"
+    },
+    {
+      "date": "1897",
+      "identifier": "ark:/12148/bpt6k5725280h",
+      "publisher": "O. Doin (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TD138-252",
+      "title": "Guide sanitaire à l'usage des officiers et chefs de détachements de l'armée coloniale, conférences faites aux officiers du 2e régiment d'infanterie de marine en 1895-1896, par le Dr Gayet,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb304917661"
+    },
+    {
+      "date": "1830",
+      "identifier": "ark:/12148/bpt6k56617017",
+      "publisher": "[l'auteur] (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB51-4569",
+      "title": "Sur la peine de mort / par P.-A. Lemare,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36451083p"
+    },
+    {
+      "date": "1866",
+      "identifier": "ark:/12148/bpt6k91781t",
+      "publisher": "Gauthier-Villars (Paris)",
+      "source": "Université Paris Sud, 37 082",
+      "title": "Recherches sur les éthers cyaniques et leurs isomères : thèses présentées à la Faculté des sciences de Paris, pour obtenir le grade de docteur ès sciences physiques / par M. François-Stanislas Cloëz,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb302515429"
+    },
+    {
+      "date": "1846",
+      "identifier": "ark:/12148/bpt6k54211502",
+      "publisher": "P. Trenel (St-Nicolas)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-8935",
+      "title": "Histoire de la ville de Saint-Nicolas / par X. Maire,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30862746q"
+    },
+    {
+      "date": "1781",
+      "identifier": "ark:/12148/bpt6k10673001",
+      "publisher": "impr. de Moutard ((Paris,))",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RES ATLAS-V-116",
+      "title": "L'Art de la voilure, par M. Romme,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31241397z"
+    },
+    {
+      "date": "1786",
+      "identifier": "ark:/12148/btv1b86262724",
+      "publisher": "Impr. royale ((Paris)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, RES-V-1756",
+      "title": "Traité du calcul intégral (par Condorcet)",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb302637656"
+    },
+    {
+      "date": "1779",
+      "identifier": "ark:/12148/bpt6k109050c",
+      "publisher": "[s.n.] (Amsterdam)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Z-11412",
+      "title": "Histoire des troubles et des démêlés littéraires : depuis leur origine jusqu'à nos jours inclusivement. T. 2 / [Aublet de Maubuy]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30035726t"
+    },
+    {
+      "date": "1888",
+      "identifier": "ark:/12148/bpt6k888932b",
+      "publisher": "Asselin et Houzeau (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TC51-48",
+      "title": "La Prostitution devant l'Académie de médecine de Belgique, par O. Commenge,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30262117f"
+    },
+    {
+      "date": "1868",
+      "identifier": "ark:/12148/bpt6k90522h",
+      "publisher": "F. Savy (Paris)",
+      "source": "Université Paris Sud, 210 465",
+      "title": "Etude sur le phosphore / par C. Ladrey",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37264798c"
+    },
+    {
+      "date": "1851",
+      "identifier": "ark:/12148/bpt6k65021093",
+      "publisher": "P. Dupont (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, S-25243",
+      "title": "Traité spécial de la vache laitière et de l'élève du bétail (2e édition... augmentée d'un système nouveau sur la découverte des frères Guénon...) / par E. Collot,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30259114w"
+    },
+    {
+      "date": "1876",
+      "identifier": "ark:/12148/bpt6k1317502",
+      "publisher": "C. Dillet (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, D-64423",
+      "title": "Don Juan, ou Comme quoi les mauvais sujets sont les ennemis de tout le monde autant que d'eux-mêmes, par M. l'abbé Ravailhe,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31180879t"
+    },
+    {
+      "date": "1644",
+      "identifier": "ark:/12148/bpt6k6458398s",
+      "publisher": "[S.l., après 1644]",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-8018",
+      "title": "La vie du reverend & venerable pere dom Martin Marrier religieux & prieur claustral du royal monastere de S. Martin des Champs lez Paris . Recueillie de bons & fidels memoires par le R. P. dom. Germain Cheval religieux du mesme monastere.",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb302349165"
+    },
+    {
+      "date": "1910",
+      "identifier": "ark:/12148/bpt6k990718j",
+      "publisher": "L. Fournier (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LI10-39",
+      "title": "Description des uniformes des troupes coloniales en France et aux colonies. Volume arrêté à la date du 1er janvier 1910",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb340881165"
+    },
+    {
+      "date": "1818",
+      "identifier": "ark:/12148/bpt6k5604041m",
+      "publisher": "Chaignieau aîné (Paris)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, V-39547",
+      "title": "Essai sur la préparation, la conservation, la désinfection des substances alimentaires et sur la construction des fourneaux économiques . Par J.-B. Fournier,... et L.-Séb. Le Normand,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30790962g"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k65787875",
+      "contributor": "Dautremer, Joseph (1860-1946). Traducteur",
+      "publisher": "Kobounsia (Tokio)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Y2-41880 (3)",
+      "title": "Contes du vieux Japon.... La bataille du singe et du crabe / traduits par J. Dautremer",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30303755t"
+    },
+    {
+      "date": "1930",
+      "identifier": "ark:/12148/bpt6k941328q",
+      "publisher": "Vuibert (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-V-48582",
+      "title": "Précis de géométrie analytique à l'usage des élèves de mathématiques spéciales, par G. Papelier. 8e édition entièrement refondue et conforme au nouveau programme de la classe de mathématiques spéciales",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31056320f"
+    },
+    {
+      "date": "1859-1861",
+      "identifier": "ark:/12148/bpt6k208032c",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Histoire politique et littéraire de la presse en France : avec une introduction historique sur les origines du journal et la bibliographie générale des journaux depuis leur origine. T. 2 / par Eugène Hatin",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30580242c"
+    },
+    {
+      "date": "1892",
+      "identifier": "ark:/12148/bpt6k262657m",
+      "contributor": "Guigniaut, Joseph-Daniel (1794-1876). Traducteur",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, 8-Yb-336",
+      "title": "Poètes moralistes de la Grèce : Hésiode, Théognis, Callinus, Tyrtée, Mimnerme, Solon, Simonide d'Amorgos, Phocylide, Pythagore, Aristote / notices et traductions par MM. Guigniaut, Patin, Jules Girard,... et L. Humbert,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31382498t"
+    },
+    {
+      "date": "1879",
+      "identifier": "ark:/12148/bpt6k114372m",
+      "contributor": "Forgues, Émile Daurand (1813-1883). Traducteur",
+      "publisher": "Hachette (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 8-Y2-60597",
+      "title": "Cousine Phillis ; L'oeuvre d'une nuit de mai ; Le héros du fossoyeur / Mrs Gaskell ; nouvelles traduites avec l'autorisation de l'auteur par E.-D. Forgues ; et précédées d'une notice sur Mrs Gaskell par Mme Louise Sw. Belloc",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb339860907"
+    },
+    {
+      "identifier": "ark:/12148/btv1b8605827h",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21052 (31)",
+      "title": "Arrêt du conseil d'état portant réglement pour les compagnons et ouvriers travaillant en tapisseries de haute et basse lice",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33673610z"
+    },
+    {
+      "date": "1890",
+      "identifier": "ark:/12148/bpt6k2059979",
+      "contributor": "Maigne, W. (1819-1893). Éditeur scientifique",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Nouveau manuel complet du relieur en tous genres : contenant les arts de l'assembleur, du satineur, du brocheur, du rogneur, du cartonneur, du marbreur sur tranches et du doreur sur tranches et sur cuir (Nouv. éd. entièrement ref. et considérablement augm.) / par Séb. Lenormand",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30860516r"
+    },
+    {
+      "date": "1868",
+      "identifier": "ark:/12148/bpt6k11640506",
+      "publisher": "impr. de Clavel-Ballivet (Nîmes)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-39869",
+      "title": "Du Régime des eaux du Gardon, par M. Alfred Gardies,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb304809900"
+    },
+    {
+      "date": "1864",
+      "identifier": "ark:/12148/bpt6k5612714s",
+      "publisher": "J.-B. Baillière et fils (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TD139-56",
+      "title": "Histoire médicale de la marine française pendant les expéditions de Chine et Cochinchine (de 1859 à 1862), par le Dr F. Laure,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30750560v"
+    },
+    {
+      "date": "1819",
+      "identifier": "ark:/12148/bpt6k64614290",
+      "publisher": "impr. de P.-D. Verdier (Blois)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LH5-198",
+      "title": "Journal historique du blocus de Thionville en 1814, et de Thionville, Sierck et Rodemack en 1815 , contenant quelques détails sur le siège de Longwi... par M. A.-An. Alm**,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb306250481"
+    },
+    {
+      "identifier": "ark:/12148/btv1b8605840c",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21052 (44)",
+      "title": "Arrêt du conseil d'état servant de réglement pour les frais de justice faits par les prévôts des maréchaux et leurs officiers dans l'étendue des domaines engagés",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33673666k"
+    },
+    {
+      "date": "1906-1909",
+      "identifier": "ark:/12148/bpt6k94796k",
+      "publisher": "J. Hermann (Paris)",
+      "source": "Université Paris Sud, B1-53/A (2)",
+      "title": "Cours d'astronomie. Astronomie pratique / par H. Andoyer,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37284094g"
+    },
+    {
+      "identifier": "ark:/12148/btv1b8605861j",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21052 (65)",
+      "title": "Arrêt du conseil d'état qui surseoit le rembourse-ment des augmentations de gages qui reste à faire jusqu'au jour du présent arrêt",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33673715z"
+    },
+    {
+      "date": "1712",
+      "identifier": "ark:/12148/bpt6k94928n",
+      "publisher": "N. Viollet (Amsterdam)",
+      "source": "Université Paris Sud, C1-24",
+      "title": "Seconde partie de la Suite des Conjectures physiques . Par Nicolas Hartsoeker",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37284266s"
+    },
+    {
+      "date": "1811",
+      "identifier": "ark:/12148/bpt6k6266020z",
+      "publisher": "impr. de Patris (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LB44-1144",
+      "title": "Naissance du roi de Rome",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36449036w"
+    },
+    {
+      "date": "1870",
+      "identifier": "ark:/12148/bpt6k6274639s",
+      "contributor": "Malepeyre, François (1794-1877). Éditeur scientifique",
+      "publisher": "Roret (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-27158",
+      "title": "Nouveau manuel complet du chandelier et du cirier : traitant de la fonte... de la fabrication... des chandelles... des cierges et des bougies.... Tome 1 / par L.-Séb. Le Normand,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30865699r"
+    },
+    {
+      "date": "1889-1896",
+      "identifier": "ark:/12148/bpt6k90441h",
+      "contributor": "Friedel, Charles (1832-1899). Éditeur scientifique",
+      "publisher": "G. Carré (Paris)",
+      "source": "Université Paris Sud, 208 600",
+      "title": "Conférences faites au laboratoire de M. Friedel. Fascicule 2",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30465953k"
+    },
+    {
+      "date": "1574",
+      "identifier": "ark:/12148/bpt6k70088n",
+      "publisher": "J. F. Pico (Turin)",
+      "source": "Bibliothèque nationale de France, Rés. Ye-4763",
+      "title": "Les quatre premiers livres de la Franciade ... par Pierre de Ronsard,... reveue, corrigée et augmentée",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31242557h"
+    },
+    {
+      "date": "1768-1779",
+      "identifier": "ark:/12148/bpt6k107853f",
+      "publisher": "[Saillant, Nyon et Desaint] (Paris)",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, V 3939",
+      "title": "L'art d'exploiter les mines de charbon de terre. T.1 / par M. Morand,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30975198d"
+    },
+    {
+      "date": "1713",
+      "identifier": "ark:/12148/bpt6k1043539s",
+      "contributor": "Lepul, Charles (16..-17..). Traducteur",
+      "publisher": "A Beziers, chez Estienne Barbut, imprim[eur du] Roy, & marchand libraire. M. DCC. XIII. Avec permission",
+      "source": "Bibliothèque nationale de France, département Arsenal, 8-BL-4425",
+      "title": "Traduction des Eglogues de Virgile , par feu M. Lepul, viguier de Beziers",
+      "relation": "Notice d\u2019oeuvre : http://catalogue.bnf.fr/ark:/12148/cb12008706c"
+    },
+    {
+      "date": "1785-1791",
+      "identifier": "ark:/12148/bpt6k1041203h",
+      "publisher": "[s.n.] (Paris)",
+      "source": "Bibliothèque nationale de France, département Arsenal, 8-BL-35287 (7)",
+      "title": "Bibliothèque universelle des dames. Voyages. T. 5, [Lettres XXVI-XXXVI : Chine] / . Tome premier [-vingtième]",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31252984q"
+    },
+    {
+      "date": "1848",
+      "identifier": "ark:/12148/bpt6k5609155j",
+      "publisher": "imprimerie de Boursy fils (Lyon)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB53-67",
+      "title": "Vies du monstre et du magicien / par Joseph Beuf, mort mystérieusement, par les ordres du magicien aux Antiquailles de Lyon ; vendu par un bon citoyen",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30100910b"
+    },
+    {
+      "date": "1899",
+      "identifier": "ark:/12148/bpt6k91697x",
+      "publisher": "Masson (Paris)",
+      "source": "Université Paris Sud, 208 232",
+      "title": "Chimie végétale et agricole. Tome 2 / par M. Berthelot,...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37259114v"
+    },
+    {
+      "date": "1837",
+      "identifier": "ark:/12148/bpt6k2071769",
+      "publisher": "Roret (Paris)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Nouveau manuel complet de l'horloger, ou Guide des ouvriers, qui s'occupent de la construction des machines propres à mesurer le temps (Nouv. éd. augm.) / par M. Séb. Le Normand... et M. J...... [Janvier]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30790963t"
+    },
+    {
+      "date": "1867",
+      "identifier": "ark:/12148/bpt6k6209877s",
+      "publisher": "impr. de C. Duchemin (Sens)",
+      "source": "Bibliothèque nationale de France",
+      "title": "Sous le ciel : églogue dédiée à la Société centrale d'agriculture de l'Yonne, à l'occasion du concours agricole de Sens des 9 et 10 juin 1867 / Dr A. Compérat",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30262644q"
+    },
+    {
+      "date": "1883",
+      "identifier": "ark:/12148/bpt6k6101098g",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TE163-1978 (24)",
+      "title": "La Science de la transpiration des mains chaudes. Le diabète à Vichy, par le Dr Collongues",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30259087t"
+    },
+    {
+      "date": "1926",
+      "identifier": "ark:/12148/bpt6k9400185",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-V-46463",
+      "title": "Electrolyse et Galvanoplastie. Fours électriques, par Armand Garcin, ingénieur I.E.G. Avec 137 figures intercalées dans le texte",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb321446128"
+    },
+    {
+      "date": "1883",
+      "identifier": "ark:/12148/bpt6k6549368x",
+      "publisher": "Cassard frères (Périgueux)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-34588",
+      "title": "Allocution prononcée au mariage de M. Elie Cavailhé, capitaine au 50e régiment d'infanterie avec Mlle Jeanne Meyer : le 5 avril 1883, à la chapelle de la Miséricorde à Périgueux / par M. l'abbé Gouzot,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30530026j"
+    },
+    {
+      "date": "1911",
+      "identifier": "ark:/12148/bpt6k859144h",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 16-LL7-339",
+      "title": "La Vérité sur la grève des cheminots / J. P. Grandvallet,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32189033m"
+    },
+    {
+      "date": "1904",
+      "identifier": "ark:/12148/bpt6k6234159q",
+      "contributor": "Université de Montpellier (1896-1970). Éditeur scientifique",
+      "publisher": "Impr. nationale (Paris)",
+      "source": "Bibliothèque de l'INHA / coll. J. Doucet, 2012-53771",
+      "title": "Université de Montpellier. Guide au musée de moulages de la Faculté des lettres. [Par A. Joubin.]",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30662068r"
+    },
+    {
+      "date": "1820",
+      "identifier": "ark:/12148/bpt6k65289365",
+      "contributor": "Caillard, Antoine-Bernard (1737-1807). Traducteur",
+      "publisher": "Depélafol (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-44029",
+      "title": "L'art de connaître les hommes par la physionomie. Tomes 9-10 / , par Gaspar Lavater. Nouvelle édition... augmentée d'une Exposition des recherches ou des opinions de La Chambre, de Porta, de Camper, de Gall, sur la physionomie, d'une histoire anatomique et physiologique de la face, etc., par M. Moreau (de la Sarthe),...",
+      "relation": "Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30754479z"
+    },
+    {
+      "date": "1873",
+      "identifier": "ark:/12148/bpt6k6550680w",
+      "contributor": "Société historique (Compiègne, Oise). Éditeur scientifique",
+      "publisher": "impr. de F. Valliez (Compiègne)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-34696",
+      "title": "Mague de Saint-Aubin : notice biographique / par Alphonse Leveaux,... ; Société historique de Compiègne, séance du 16 janvier 1873",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30809179g"
+    },
+    {
+      "date": "1722",
+      "identifier": "ark:/12148/bpt6k6545451r",
+      "publisher": "G. Dupuis (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, D-5711 (1)",
+      "title": "La religion chrétienne prouvée par les faits , avec un Discours historique et critique sur la méthode des principaux auteurs qui ont écrit pour et contre le christianisme depuis son origine, par M. l'abbé Houtteville",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb306206474"
+    },
+    {
+      "date": "1861",
+      "identifier": "ark:/12148/bpt6k5777322d",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Sciences et techniques, 8-TE114-36",
+      "title": "Considérations sommaires sur l'érysipèle et son traitement, par M. le Dr Marrotte,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30890180c"
+    },
+    {
+      "identifier": "ark:/12148/bpt6k1642659",
+      "contributor": "Clerval, Jules-Alexandre (1859-1918). Fonction indéterminée",
+      "publisher": "Maison des clercs de Notre Dame de Chartres (Chartres)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LK7-30135 (A)",
+      "title": "Guide chartrain. Chartres, sa cathédrale, ses monuments",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb341139653"
+    },
+    {
+      "date": "1527",
+      "identifier": "ark:/12148/bpt6k108709z",
+      "publisher": "Et sont a vendre a Paris en la rue sainct Jacques, et a Poictiers au Pellican [chez Enguilbert de Marnef]. Et... par Jacques Bouchet, imprimeur audict Poictiers",
+      "source": "Bibliothèque nationale de France, département Réserve des livres rares, Res 4 L37 2",
+      "title": "Les anciennes et modernes gesnealogies des Roys de France et mesment du Roy Pharamond, avec leurs epitaphes et effigies",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30138212n"
+    },
+    {
+      "identifier": "ark:/12148/btv1b8605846v",
+      "source": "Bibliothèque nationale de France, département Droit, économie, politique, F-21052 (50)",
+      "title": "Arrêt du conseil d'état qui ordonne que les particuliers qui ont ci-devant fait les fonctions de trésoriers généraux, et les receveurs généraux des domaines remettront ès-mains du Sieur de Pontchartrain des états de toutes les parties de fiefs et aumônes, rentes, gages et autres employées dans les Etats des charges assignées sur les domaines",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb33673682t"
+    },
+    {
+      "date": "1628",
+      "identifier": "ark:/12148/bpt6k858758z",
+      "publisher": "C. Morlot (Paris)",
+      "source": "Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-L35-89",
+      "title": "Advertissement sur l'histoire de la monarchie françoise, par C. Sorel",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb313855368"
+    },
+    {
+      "date": "1877",
+      "identifier": "ark:/12148/bpt6k9400883t",
+      "contributor": "Rosenstiehl, Daniel. Éditeur scientifique",
+      "source": "Bibliothèque nationale et universitaire de Strasbourg, M111882",
+      "title": "Elsaesser Schatzkaestel. Sammlung von Gedichten und prosaischen Aufsaetzen in Strassburger Mundart nebst einigen Versstuecken in andern Idiomen des Elsasses. [Hsg. v.] Daniel Rosenstiehl. Mit einem 'Schluessele zum Schatzkaestel' von Ad. Stœber",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb419048261"
+    },
+    {
+      "date": "1863",
+      "identifier": "ark:/12148/bpt6k9411927",
+      "publisher": "Fontanier (Saintes)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, V-40308",
+      "title": "Guide général de l'entrepreneur, de l'ouvrier en bâtiment et du propriétaire... par Hilarion Girard,...",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30509800m"
+    }
+  ],
+  "numberOfRecords": 732050,
+  "nextToRecord": 200200,
+  "actualNumberOfDocuments": 200
+}

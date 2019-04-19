@@ -1,0 +1,746 @@
+{
+  "numberOfRecordsIntoFile": 10000,
+  "records": [
+    {
+      "date": "2016",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1018360",
+      "contributor": "NataliFortier",
+      "publisher": "Bruxelles : A pas de loups",
+      "title": "D'une rive à l'autre"
+    },
+    {
+      "date": "1856",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101039571",
+      "publisher": "Veuve Berger-Levrault et fils (Paris ;) ",
+      "source": "Bibliothèque municipale de Lyon, 428990",
+      "title": "Voyage autour de ma bibliothèque : Littérature et Philosophie",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101039571/thumbnail_TIF00000007.jpg"
+    },
+    {
+      "date": "1865",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:8602082",
+      "publisher": "[s.n.]",
+      "title": "[Karte des mittleren Reppischtals]",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-26657/128"
+    },
+    {
+      "date": "1837",
+      "identifier": "ark:/12148/oai:docnum.u-strasbg.fr:coll13/199656",
+      "publisher": "Nantes, Forest, imprimeur-libraire, Quai de la Fosse, n°2 ; Paris, Isidore Pesron, libraire, rue pavée Saint-André, n°13, 1837.",
+      "source": "Collection BNU en dépôt à l'Unistra",
+      "title": "Catalogue des plantes recueillies dans le département de la Loire-Inférieure, classé suivant le système de Linné"
+    },
+    {
+      "date": "1773",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:4818341",
+      "contributor": "Berthoud, Ferdinand",
+      "publisher": "de l'imprimerie royale",
+      "title": "Voyage fait par ordre du roi en 1768 et 1769, à différentes parties du monde, pour éprouver en mer les horloges marines inventées par M. Ferdinand Berthoud...",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-15451/128"
+    },
+    {
+      "date": "2016",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1018424",
+      "contributor": "Zéno Bianu",
+      "publisher": "Paris : Points",
+      "title": "La voie du samouraï"
+    },
+    {
+      "date": "1837",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:14244781",
+      "publisher": "bei Friedrich Schulthess",
+      "title": "Die Mineralquellen von Baden im Canton Aargau : in chemisch-physikalischer Beziehung",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-51800/128"
+    },
+    {
+      "date": "20...",
+      "identifier": "ark:/12148/oai:bibliotheque-numerique.inha.fr:1:20990",
+      "contributor": "[Imprimerie Frazier-Soye]",
+      "publisher": "Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet",
+      "source": "Cote de l\u2019original : VP 1914/44 ; Cote du microfilm : Mfilm 35 1914 02 06 (bobine 47)",
+      "title": "Catalogue des estampes principalement de l\u2019école française du XVIIIe siècle et quelques pièces anglaises [...] : [vente du 6 février 1914]",
+      "relation": "vignette : https://bibliotheque-numerique.inha.fr/i/?IIIF=/a1/88/e5/d9/a188e5d9-3bc7-46fe-95e2-b15f66046f9d/iiif/1003_doucet_cv02482_19140206_000001.tif/full/!256,256/0/default.jpg"
+    },
+    {
+      "date": "1845",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100226195",
+      "publisher": "Adrien Le Clère et Cie (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 381691",
+      "title": "De l'appel comme d'abus son origine, ses progrès et son état présent : suivi d'un écrit sur l'usage et l'abus des opinions controversées entre les Gallicans et les Ultramontains",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100226195/thumbnail_TIF00000007.jpg"
+    },
+    {
+      "date": "1816",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001102768913",
+      "publisher": "Libreria de Orea (Madrid) ",
+      "source": "Bibliothèque municipale de Lyon, 424961",
+      "title": "Observatorio rustico",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001102768913/thumbnail_JPG00000007.jpg"
+    },
+    {
+      "date": "1558",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100481246",
+      "publisher": "Apud Ioan. Tornaesium (Lugduni) ",
+      "source": "Bibliothèque municipale de Lyon, Rés 373726",
+      "title": "Historiarum memorabilium ex Genesi descriptio, per Gulielmum Paradinum",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100481246/thumbnail_TIF00000007.jpg"
+    },
+    {
+      "date": "02/02/1878",
+      "identifier": "ark:/12148/oai:tolosana.univ-toulouse.fr:30787",
+      "contributor": "Cartailhac, Emile",
+      "source": "Acquisition du Muséum d'Histoire naturelle de Toulouse en 2012, déposée aux Archives municipales de Toulouse en 2012., 92Z-14/1",
+      "title": "Lettre manuscrite envoyée par Jules Desnoyer, membre de l\u2019Académie des Inscriptions et Belles-Lettres de Paris (France), à Emile Cartailhac, Paris (France).",
+      "relation": "http://documents.univ-toulouse.fr/numerisation/fonds/cartailhac/lettres/92Z-014_1.pdf"
+    },
+    {
+      "date": "24 avril 1961.",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1016397",
+      "title": "Lettre à Frédéric Jacques Temple."
+    },
+    {
+      "date": "1819",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101320096",
+      "publisher": "chez les Editeurs (Paris)",
+      "source": "Bibliothèque municipale de Lyon, SJ AB 130/291 T. 01",
+      "title": "Les lois rurales de la France, rangées dans leur ordre naturel",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101320096/thumbnail_TIF00000005.jpg"
+    },
+    {
+      "date": " ",
+      "identifier": "ark:/12148/oai:bibliotheque-virtuelle.clermont-universite.fr:37424",
+      "contributor": "Laguérenne",
+      "publisher": "Herbiers universitaires de Clermont-Ferrand",
+      "source": "Bibliothèque Université Clermont Auvergne",
+      "title": "Crataegus oxyacantha (Rosaceae)",
+      "relation": "vignette : https://bibliotheque-virtuelle.bu.uca.fr/files/thumbnails/24/37424/Crataegus_oxyacantha_MTLUCO0393.jpg"
+    },
+    {
+      "date": "9 août 1971.",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1017477",
+      "title": "Lettre à Frédéric Jacques Temple."
+    },
+    {
+      "identifier": "ark:/12148/oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_H3426_007",
+      "source": "Bibliothèque municipale de Bordeaux, H 3426 (7)",
+      "title": "Au Roy",
+      "relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_H3426_007.jpg&size=128"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1023003",
+      "title": "Test Infor"
+    },
+    {
+      "identifier": "ark:/12148/oai:u-bordeaux3.fr:72114",
+      "title": "Quelques reflexions sur l'art décoratif nouveau",
+      "relation": "vignette : http://1886.u-bordeaux-montaigne.fr/application/views/scripts/images/fallback-file.png"
+    },
+    {
+      "date": "1822",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100337661",
+      "publisher": "J.-N. Barba (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 430864",
+      "title": "La leçon paternelle : comédie en deux actes et en prose",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100337661/thumbnail_JPG00000003.jpg"
+    },
+    {
+      "date": "[s.d.]",
+      "identifier": "ark:/12148/oai:cineressources.net:ouvrages_precieux_36539",
+      "publisher": "Musikon, Ltd. (London)",
+      "source": "La Cinémathèque française - WD 4° 122 Br",
+      "title": "The Musikon portable talking picture outfit - equipped with the famous Will Day sound head - Musikon Ltd.",
+      "relation": "vignette : http://www.bibliotheque-numerique-cinema.fr/images/titreW200/36539-1.jpg"
+    },
+    {
+      "date": "1771",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100684732",
+      "publisher": "apud Petrum-Guillelmum Cavelier (Parisiis)",
+      "source": "Bibliothèque municipale de Lyon, SJ X 434/57, 1",
+      "title": "Hygieine sive Ars sanitatem conservandi. Poema. Auctore Stephano-Ludovico Geoffroy,...",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100684732/thumbnail_JPG00000003.jpg"
+    },
+    {
+      "date": "18...",
+      "identifier": "ark:/12148/oai:bibliotheque-numerique.inha.fr:1:16899",
+      "contributor": "[s.n.]",
+      "publisher": "Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet",
+      "source": "Cote du microfilm : Mfilm 35 1735 08 17 (bobine 2)",
+      "title": "Catalogus van Schilderyen [...] : [vente du 17 août 1735]",
+      "relation": "vignette : https://bibliotheque-numerique.inha.fr/i/?IIIF=/44/f1/62/18/44f16218-74f1-4a7a-af34-eef2d78abe53/iiif/1001_doucet_cv00054_17350817_000001.tif/full/!256,256/0/default.jpg"
+    },
+    {
+      "date": "2009",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1028654",
+      "contributor": "Brigitte Diaz",
+      "publisher": "Paris : Le Livre de poche",
+      "title": "Histoire de ma vie"
+    },
+    {
+      "date": "1683",
+      "identifier": "ark:/12148/oai:odyssee.univ-amu.fr:40",
+      "publisher": "Charles David (Aix-en-Provence)",
+      "source": "Bibliothèque droit Schuman (Aix-en-Provence), cote RES 34743",
+      "title": "Privilèges, franchises et immunitez, concédées par les rois et comtes de Provence en faveur de la ville d'Aix, consuls, particuliers, manans & habitans d'icelle. Avec les confirmations & vérifications, tant de la cour de parlement, que de la cour des comptes dudit païs",
+      "relation": "Notice du catalogue : http://www.sudoc.fr/20147557X"
+    },
+    {
+      "date": "1609",
+      "identifier": "ark:/12148/oai:docnum.u-strasbg.fr:coll11/8843",
+      "publisher": "Gedruckt bey Konrad Scher in Verlegung Paulus Ledertz",
+      "source": "Collection BNU en dépôt à l'Unistra",
+      "title": "Historischer politischer und astronomischer naturlicher Discurs von heutiger Zeit Beschaffenheit"
+    },
+    {
+      "date": "1828",
+      "identifier": "ark:/12148/oai:tolosana.univ-toulouse.fr:40206",
+      "contributor": "Tajan, Bernard-Antoine",
+      "source": "17286 (1)/2 de la Bibliothèque universitaire de l'Arsenal (SCD Toulouse 1)",
+      "title": "Mémorial de jurisprudence. Lois et ordonnances d'intérêt général ; publiées par M. Tajan, ... et M. Curie-Seimbres... Tome premier",
+      "relation": "vignette : http://documents.univ-toulouse.fr/thumb/PPN153743972/3.jpg"
+    },
+    {
+      "date": "1568",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:963376",
+      "publisher": "Samuel Apiarius",
+      "title": "Ein hüpsch new Lied : Von dem Graffen, Thewren Ritter und Helden Graff Niclaus von Serin : Wie er so Ritterlich in Ungern gestritten und Manlich gefochten hat wider den Erbfeindt der Christenheit, den Türcken und sein hauffen",
+      "relation": "vignette : http://www.e-rara.ch/bes_1/titlepage/doi/10.3931/e-rara-3169/128"
+    },
+    {
+      "date": "1869",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_pharma_p5293x1869x34",
+      "publisher": "Paris : A. Parent",
+      "source": "Cote : P5293",
+      "title": "Monographie de l'acide cyanhydrique et de la gentiane",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "1891",
+      "identifier": "ark:/12148/oai:www.babordnum.fr:610",
+      "publisher": "Alcan (Paris)",
+      "source": "PPN \n                        140868917\n                    ",
+      "title": "De l'exercice chez les adultes",
+      "relation": "vignette : http://www.babordnum.fr/files/square_thumbnails/01b8f872614de3c207bbdfefd2151a46.jpg"
+    },
+    {
+      "date": "1495-11-09/1495-11-10",
+      "identifier": "ark:/12148/oai:bibliotheque.bordeaux.fr:BordeauxS_330636101_INC014",
+      "publisher": "Johann Trechsel (Lyon)",
+      "source": "Bibliothèque municipale de Bordeaux, Inc. 14",
+      "title": "Quaestiones super IV lib. Sententiarum. Centilogium theologicum",
+      "relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_330636101_INC014.jpg&size=128"
+    },
+    {
+      "date": "1837",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:15024432",
+      "publisher": "Verlag von Veit & Comp.",
+      "title": "Allgemeine Physik, mathematische Physik, Galvanismus, Electromagnetismus, Magnetoelectricität, Thermomagnetismus",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-55563/128"
+    },
+    {
+      "date": "1791-01-01",
+      "identifier": "ark:/12148/oai:manioc.org:patrimon:MMC16092-2",
+      "publisher": "Paris : Imprimerie du Cercle social",
+      "source": "Communauté d'agglomération de La Rochelle. Médiathèque Michel-Crépeau",
+      "title": "Extrait des mémoires que M. Dutrone a présenté à l'Assemblée Nationale au mois de janvier 1791, tiré du Journal des colonies",
+      "relation": "vignette : http://www.manioc.org/gsdl/collect/patrimon/import/2016/MMC/MMC16092-2-0002.jpg"
+    },
+    {
+      "date": "1854",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103100108",
+      "publisher": "l'auteur (Paris)",
+      "source": "Bibliothèque municipale de Lyon, A 487364",
+      "title": "Oeuvres complètes de F. Baucher. Méthode d'équitation basée sur de nouveaux principes...",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103100108/thumbnail_JPG00000011.jpg"
+    },
+    {
+      "date": "1840",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:20769583",
+      "publisher": "Verlag von Carl Heymann",
+      "title": "Leitfaden zum Unterricht in den Kriegswissenschaften : mit Berücksichtigung der Anforderungen, welche nach den Verordnungen des Königlichen Preussischen Kriegs-Ministeriums bei den Officier-Prüfungen gemacht werden sollen : für Lehrer und zum Selbstunterricht",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-74015/128"
+    },
+    {
+      "date": "1581",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_90958x284x05",
+      "publisher": "A Lyon, par Charles Pesnot, Avec permission",
+      "source": "Cote : 90958 t. 284 n° 5",
+      "title": "La Chrysospagyrie de François Rosselet Docteur Medecin ; dedié a Monseigneur l\u2019illustrissime cardinal de Granvelle,",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "1552",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:522023",
+      "contributor": "Aristophanes",
+      "publisher": "[Apud Haeredes Cratandri]",
+      "title": "Aristophanis, comicorum principis, Comoediae undecim",
+      "relation": "vignette : http://www.e-rara.ch/bau_1/titlepage/doi/10.3931/e-rara-1677/128"
+    },
+    {
+      "date": "1867 (circa)",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_90945x50x15",
+      "publisher": "[Paris : typographie de Firmin Didot frères, fils]",
+      "source": "Cote : 90945 t.50 n°15",
+      "title": "Discours de Jules Cloquet, au nom de l'Académie des Sciences, pour les funérailles de M. Jobert (de Lamballe). Institut impérial de France. Académie des sciences",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "1904",
+      "identifier": "ark:/12148/oai:cnum.cnam.fr:8XAE614.3",
+      "contributor": "MascrÃ©, Etienne",
+      "publisher": "Paris : ComitÃ© franÃ§ais des expositions Ã l'Ã©tranger, 1906",
+      "source": "CNAM-BIB 8 Xae 614 (P.3)",
+      "title": "Exposition internationale de Saint Louis (U.S.A) 1904. Section franÃ§aise. Rapport du Groupe 55 [Produits du lin, du chanvre, du jute, etc., et des produits de la corderie]",
+      "relation": "vignette : http://cnum.cnam.fr/petit/mini_2_vignette_page_de_titre/8XAE614.3/0002.V.0.gif"
+    },
+    {
+      "date": "1567",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:1751964",
+      "publisher": "Henri II Estienne, typographe d\u2019Ulrich Fugger",
+      "title": "Jani Parrhasii Liber de rebus per epistolam quaesitis. Henrici Stephani tetrastichon de hoc Jani Parrhasii aliisque quibus poetas illustravit libris. Si migrare animas aliena in corpora nostras Veridico Samius protulit ore senex, Migrasse in Janum Latiorum pectora vatum, Aut vatem Oedipodes more fuisse reor. Adiuncta est Francisci Campani quaestio virgiliana",
+      "relation": "vignette : http://www.e-rara.ch/gep_g/titlepage/doi/10.3931/e-rara-6222/128"
+    },
+    {
+      "date": "1917",
+      "identifier": "ark:/12148/oai:enap-mediatheque.paprika.net:I3204",
+      "publisher": "Masson (Paris)",
+      "source": "Ecole Nationale d'administration pénitentiaire, F 8 F 109",
+      "title": "Le secret professionnel : étude médico-légale"
+    },
+    {
+      "date": "1897",
+      "identifier": "ark:/12148/oai:gordailu.bilketa.eus:568709",
+      "publisher": "Euskaltzale (Bilbo)",
+      "source": "Bilketa : Bilketa ; P 6818",
+      "title": "Eskuliburua eta berean eguneango Krixtinau-zereginak : A. Fr. Pedro Antonio Añibarrok Zarauzko kolejioko aita san franzizkoren ordeako misinogileak bizkaiko euskeran iminiak",
+      "relation": "http://gordailu.bilketa.eus/notice.php?q=id:519929;Voir la notice du document d&apos;origine"
+    },
+    {
+      "date": "1822-1824",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001102425159",
+      "publisher": "presso Niccolò Capurro (Pisa) ",
+      "source": "Bibliothèque municipale de Lyon, 102741 V. 02",
+      "title": "storia d'Italia",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001102425159/thumbnail_JPG00000007.jpg"
+    },
+    {
+      "date": "1821",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:10118922",
+      "contributor": "Keller, Heinrich",
+      "publisher": "bey Füessli & Comp. zur Meisen",
+      "title": "Aussicht vom Fürstl. Fürstenbergischen Schlosse Heiligenberg",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-31921/128"
+    },
+    {
+      "date": "1866",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100206767",
+      "publisher": "Vve Chanoine (Lyon) ",
+      "source": "Bibliothèque municipale de Lyon, 364827",
+      "title": "Le bien et le mal aux prises",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100206767/thumbnail_TIF00000001.jpg"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1011611",
+      "title": "L'enseignement agricole dans les écoles primaires"
+    },
+    {
+      "date": "1784-1789",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103000407",
+      "contributor": "Charvin, Jean-Baptiste, 1770-1842, ancien possesseur",
+      "publisher": "de l'Imprimerie de la Société littéraire-typographique (Kehl) ",
+      "source": "Bibliothèque municipale de Lyon, Rés 322044 T. 15",
+      "title": "Oeuvres complètes de Voltaire",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103000407/thumbnail_TIF00000009.jpg"
+    },
+    {
+      "date": "1906-01-01",
+      "identifier": "ark:/12148/oai:manioc.org:patrimon:ORK12024",
+      "source": "ORkidé|Fonds privé Pierre Rostan",
+      "title": "The South America goldfields ltd 5 action 1£",
+      "relation": "vignette : http://www.manioc.org/gsdl/collect/patrimon/import/2014/ORK/ORK12024.jpg"
+    },
+    {
+      "date": "20...",
+      "identifier": "ark:/12148/oai:bibliotheque-numerique.inha.fr:1:25467",
+      "contributor": "[William Clowes and sons]",
+      "publisher": "Bibliothèque de l'Institut National d'Histoire de l'Art, collections Jacques Doucet",
+      "source": "Cote de l\u2019original : VP Christie vol. 45 ; Cote du microfilm : Mfilm 35 1915 07 21 (bobine 69)",
+      "title": "Catalogue of oriental porcelain [ ] : [vente du 21 juillet 1915]",
+      "relation": "vignette : https://bibliotheque-numerique.inha.fr/i/?IIIF=/52/8e/29/e8/528e29e8-419f-43ae-9385-de4ea858e9a6/iiif/1003_doucet_cv03214_19150721_000001.tif/full/!256,256/0/default.jpg"
+    },
+    {
+      "date": "2010",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:100378",
+      "contributor": "ThomasDutroncGrand Corps Malade",
+      "publisher": "Sony Bmg Music Entertainment",
+      "title": "Gioia"
+    },
+    {
+      "date": "1912-01-01",
+      "identifier": "ark:/12148/oai:manioc.org:patrimon:FRA11288",
+      "contributor": "Levasseur, Emile (1828-1911)",
+      "publisher": "Paris : E. Guilmoto",
+      "source": "Collectivité territoriale de Guyane. Bibliothèque Alexandre-Franconie",
+      "title": "Au Brésil. États de Goyaz et de Matto Grosso",
+      "relation": "vignette : http://www.manioc.org/gsdl/collect/patrimon/import/2011/franconie/FRA112880005.jpg"
+    },
+    {
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103323221",
+      "publisher": "chez tous les libraires (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 804538 T. 03",
+      "title": "Almanach littéraire ou Etrennes d'Apollon",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103323221/thumbnail_JPG00000001.jpg"
+    },
+    {
+      "date": "1924",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:20313901",
+      "contributor": "Morgenthaler, Hans",
+      "publisher": "Sekretariat des Bernischen Lehrervereins",
+      "title": "Bilder aus der ältern Geschichte der Stadt Bern",
+      "relation": "vignette : http://www.e-rara.ch/bes_1/titlepage/doi/10.3931/e-rara-73220/128"
+    },
+    {
+      "date": "1892",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:104805",
+      "publisher": "Paris : Alcan",
+      "title": "Le Crime et la peine"
+    },
+    {
+      "date": "1620",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:17501281",
+      "publisher": "per Sebastianum Henricpetri",
+      "title": "Artis rhetoricae rudimenta : pro usu gymnasii literarii Basileensis",
+      "relation": "vignette : http://www.e-rara.ch/bau_1/titlepage/doi/10.3931/e-rara-64244/128"
+    },
+    {
+      "date": "1703",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101454473",
+      "publisher": "chez Damien Beugnié (A Paris) ",
+      "source": "Bibliothèque municipale de Lyon, SJ B 296/63",
+      "title": "La princesse de Portien",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101454473/thumbnail_JPG00000005.jpg"
+    },
+    {
+      "date": "1648",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:16874598",
+      "publisher": "by Johann Jacob Bodmer",
+      "title": "Catechismus, das ist, Underricht waarer christenlicher Religion : sampt den Zertheilungen einer jeden Antwort und Zügnussen der heiligen Schrifft : ungetheilt in 48. Sonntag durch das gantze Jahr, für die Jugend der Statt und Landschafft Zürich",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-62290/128"
+    },
+    {
+      "date": "2017",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1033545",
+      "contributor": "Benjamin Kuntzer",
+      "publisher": "Paris : Bragelonne",
+      "title": "Les sept lames"
+    },
+    {
+      "date": "13 octobre 1905",
+      "identifier": "ark:/12148/oai:tolosana.univ-toulouse.fr:32919",
+      "contributor": "Cartailhac, Emile",
+      "source": "Association Louis Begouën, FBC.766.1",
+      "title": "Lettre manuscrite à Emile Cartailhac",
+      "relation": "http://documents.univ-toulouse.fr/numerisation/fonds/cartailhac/lettres/FBC_766_001.pdf"
+    },
+    {
+      "date": "1591",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:9135217",
+      "contributor": "Le Moyne de Morgues, Jacques",
+      "publisher": "typis Ioatnnis Wecheli, sumtibus vero Theodori de Bry",
+      "title": "Brevis narratio eorum, quae in Florida Americae provincia Gallis acciderunt, secunda in illam navigatione, duce Renato de Laudonniere classis praefecto, anno MDLXIIII : quae est secunda pars Americae : Additae figurae & incolarum eicones ibidem ad vivum expressae, brevis item declaratio religionis, rituum, vivendique ratione ipsorum",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-28677/128"
+    },
+    {
+      "date": "1844",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001100320519",
+      "publisher": "Librairie Sociétaire (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 422621",
+      "title": "Voyage en Angleterre et en Ecosse, suivi de mélanges",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001100320519/thumbnail_TIF00000009.jpg"
+    },
+    {
+      "date": "1 7 1889",
+      "identifier": "ark:/12148/oai:bibliotheque-virtuelle.clermont-universite.fr:36173",
+      "contributor": "Roux",
+      "publisher": "Herbiers universitaires de Clermont-Ferrand",
+      "source": "Bibliothèque Université Clermont Auvergne",
+      "title": "Melampyrum vulgatum (Scrophulariaceae)",
+      "relation": "vignette : https://bibliotheque-virtuelle.bu.uca.fr/files/thumbnails/23/36173/Melampyrum_vulgatum_MTBRIS1549.jpg"
+    },
+    {
+      "date": "1824",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:4759193",
+      "publisher": "coi tipi di Annesio Nobili e comp.",
+      "title": "Nuove ricerche sulla teorica, e sulle pratiche applicazioni della percossa idraulica",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-15236/128"
+    },
+    {
+      "date": "1963",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1037463",
+      "contributor": "SergeMoulinier",
+      "publisher": "Arthaud",
+      "title": "L'ordre ogival. Essai sur l'architecture gothique"
+    },
+    {
+      "date": "12 juin 1954.",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1017865",
+      "title": "Lettre à Frédéric Jacques Temple."
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1028126",
+      "title": "Melodrama "
+    },
+    {
+      "date": "1650",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:3753526",
+      "contributor": "Spöndli, Magdalena",
+      "publisher": "[s.n.]",
+      "title": "Super vocabula reverendi & eruditissimi viri d. Ioannis Huldrici v.d.m. spectatissimi viri dn. Ioannis Rudolfi Huldrici ... filii, lectissimae item et pudicissimae virginis Magdalenes Spoendliae, strenui et spectatissimi dn. Sigismundi Spoendlii ... filiae : patritiorum Tigurinorum prid. kal. Octobr. anno Liberatoris MDCL neonymphorum anagrammatismi & amicorum vota",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-12054/128"
+    },
+    {
+      "date": "1628",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:10392248",
+      "contributor": "Napier, John",
+      "publisher": "Excud.Rammasenius",
+      "title": "Arithmetica logarithmica, sive Logarithmorum chiliades centum, pro numeris naturali serie crescentibus ab unitate ad 100000 : una cum canone triangulorum seu tabula artificialium sinuum, tangentium & secantium, ad radium 10,00000,00000. & ad singula scrupula prima quadrantis : quibus novum traditur compendium, quo nullum nec admirabilius, nec utilius solvendi pleraque problemata arithmetica & geometrica",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-33322/128"
+    },
+    {
+      "date": "1622",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:10327562",
+      "contributor": "Vitus, Stephan",
+      "publisher": "Formis Academicis, apud Udalricum Rem",
+      "title": "Positiones theologicae de Deo uno et trino",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-33152/128"
+    },
+    {
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1037042",
+      "publisher": "Paris : A. Quantin",
+      "title": "Les procédés de la gravure"
+    },
+    {
+      "date": "1700",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:11467525",
+      "publisher": "[s.n.]",
+      "title": "Thee-Essenz : Oder: um seiner vortrefflichen Krafft und Würkung",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-37912/128"
+    },
+    {
+      "date": "2016",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1013678",
+      "contributor": "FrédéricBarbe",
+      "publisher": "Malakoff (Hauts-de-Seine) : Armand Colin",
+      "title": "La France des marges"
+    },
+    {
+      "date": "1833",
+      "identifier": "ark:/12148/oai:univ-lyon1.fr:/fpmonographies/record224145452.xml",
+      "publisher": "Reproduction numérique de l'édition de Paris : 30, rue Saint-André-des-Arts : [éditeur inconnu],1833.",
+      "source": "Bibliothèque de l\u2019Université Claude Bernard Lyon 1",
+      "title": "Traité élémentaire d'astronomie /",
+      "relation": "vignette : http://www.univ-lyon1.fr/scdstatic/oai/bnf/itard/PPN224145452.jpg"
+    },
+    {
+      "date": "1694",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:18779791",
+      "publisher": "typis Iacobi Bertschii",
+      "title": "Dissertatio theologica textualis de electionis immutabilitate et certitudine : declarata ex II. Timoth. II, vers 19",
+      "relation": "vignette : http://www.e-rara.ch/bau_1/titlepage/doi/10.3931/e-rara-69417/128"
+    },
+    {
+      "date": "1691",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:3831351",
+      "contributor": "Schweitzer, Johann Heinrich",
+      "publisher": "typis Davidis Gessneri",
+      "title": "Dialogus I, tradens cognitionis humanae elementa",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-12260/128"
+    },
+    {
+      "date": "1552",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:215185",
+      "publisher": "by Mathia Apiario",
+      "title": "Ein schön Lied vom Concilio, unnd allerley missbrüchen, ouch warinn die fäligkeyt stande, mit kundtschafft heiliger gschrifft : (den handtwercks lütten nitt allein kurtzwylig sonder ouch nutzlich,) : in Schillers Thon zesingen",
+      "relation": "vignette : http://www.e-rara.ch/bes_1/titlepage/doi/10.3931/e-rara-724/128"
+    },
+    {
+      "date": "1826",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103270620",
+      "publisher": "colligebat Nicolaus Eligius Lemaire (Parisiis) ",
+      "source": "Bibliothèque municipale de Lyon, SJ X 309/116",
+      "title": "Albii Tibulli Quae supersunt omnia opera varietate lectionum novis commentariis, excursibus imitationibus Gallicis vita auctoris et indice absolutissimo instruxit Philipp. Amat. de Golbéry e regia antiquariorum societate et in suprema alsatiae curia consiliarius, etc.",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103270620/thumbnail_TIF00000005.jpg"
+    },
+    {
+      "date": "1620-01-01/1620-12-31",
+      "identifier": "ark:/12148/oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_H15754",
+      "publisher": "Simon Millanges (Bordeaux)",
+      "source": "Bibliothèque municipale de Bordeaux, H 15754",
+      "title": "Narré véritable de la persécution excitée contre les chrestiens au royaume de la Chine en 1619, extraict des lettres du P. Alvarès Semède, captif au mesme lieu",
+      "relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_H15754.jpg&size=128"
+    },
+    {
+      "date": "1826-01-01T00:00:00Z",
+      "identifier": "ark:/12148/oai:archive.org:DELTA53969FA",
+      "publisher": "Typographia imperial e nacional (Rio de Janeiro)",
+      "source": "Bibliothèque Sainte-Geneviève, DELTA 53969 FA",
+      "title": "Regimento das Mercês e decretos relativos.",
+      "relation": "vignette : https://ia601507.us.archive.org/18/items/DELTA53969FA/BSG_DELTA53969FA_0007.jpg"
+    },
+    {
+      "date": "1775-01-01/1775-12-31",
+      "identifier": "ark:/12148/oai:bibliotheque.bordeaux.fr:BordeauxS_B330636101_D41929_1775",
+      "publisher": "P. Albespy (Bordeaux)",
+      "source": "Bibliothèque municipale de Bordeaux, D 41929 (1775)",
+      "title": "Nouvelles étrennes aux bordelais pour l'année 1775",
+      "relation": "vignette : http://bibliotheque.bordeaux.fr/in/faces/rest/Thumb/IMAGE/none?id=thumb_BordeauxS_B330636101_D41929_1775.jpg&size=128"
+    },
+    {
+      "date": "1709",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:8841826",
+      "contributor": "Woltereck, Christoph",
+      "publisher": "sumtu Christiani Liebezeitii, typis Schultzianis",
+      "title": "Electa rei numariae, sive, Selectae dissertationes de rarioribus numis antiquis tam Graecis quam Latinis : ad historiarum veterum monumenta illustranda, & antiquitates Graecorum partiter atque Romanorum dilucidandas insigniter facientes",
+      "relation": "vignette : http://www.e-rara.ch/zuz/titlepage/doi/10.3931/e-rara-27706/128"
+    },
+    {
+      "date": "2009",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1043336",
+      "contributor": "AndréBlavier",
+      "publisher": "Paris : Flammarion",
+      "title": "René MAGRITTE : Ecrits complets"
+    },
+    {
+      "date": "1601",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_extalfo00076",
+      "publisher": "A Paris : chez Abel L'Angelier",
+      "source": "Cote : Ecole nationale vétérinaire d'Alfort",
+      "title": "La Vénerie de Jacques du Fouilloux, seigneur dudit lieu, gentil-homme du pays de Gastine en Poictou, par lui jadis dédiée au très-chrestien Charles neufiesme, et de nouveau reveue et augmentée, outre les précédentes impressions",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "1842",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:12995953",
+      "publisher": "Verlag, Druck und Lithographie von Bernh. Fr. Voigt",
+      "title": "Handbuch der höheren und niederen Messkunde oder gründliche Unterweisung in der gewöhnlichen Feldmesskunst, sowie zu grösseren geodätischen Aufnahmen, zu geographischen Triangulirungen, barometrischen Höhenmessungen, zu Nivellements und zur Instrumentenlehre",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-46650/128"
+    },
+    {
+      "date": "1842",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:11015584",
+      "contributor": "Lafarina, Giuseppe",
+      "publisher": "Luigi Bardi",
+      "title": "La Svizzera storica ed artistica",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-35756/128"
+    },
+    {
+      "date": "1804-1806",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001101518350",
+      "publisher": "Capelle et Cie (A Paris)",
+      "source": "Bibliothèque municipale de Lyon, 803950 T. 08",
+      "title": "Petite encyclopédie poétique, ou Choix de poésies dans tous les genres",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001101518350/thumbnail_JPG00000007.jpg"
+    },
+    {
+      "date": "1939",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_132568x31x04",
+      "publisher": "Paris : Lépine et Girard",
+      "title": "Titres et travaux scientifiques",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "1829-1833",
+      "identifier": "ark:/12148/oai:numelyo.bm-lyon.fr:BML:BML_00GOO0100137001103102278",
+      "publisher": "C. L. F. Panckoucke (Paris) ",
+      "source": "Bibliothèque municipale de Lyon, 301249 T. 02",
+      "title": "Histoire Naturelle de Pline",
+      "relation": "vignette : http://numelyo.bm-lyon.fr/BML:BML_00GOO0100137001103102278/thumbnail_TIF00000009.jpg"
+    },
+    {
+      "date": "1544",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:1984000",
+      "contributor": "Cato, Marcus Porcius",
+      "publisher": "[per Erasmum Xylotectum]",
+      "title": "Catonis disticha moralia : cum scholijs Eras. Roter. / Quibus hac aeditione accesserunt plurimi nuper inventi, & nunquam typis evulgati / Dicta Graeciae sapientum, cum quibusdam Eras. opusculis",
+      "relation": "vignette : http://www.e-rara.ch/bau_1/titlepage/doi/10.3931/e-rara-7590/128"
+    },
+    {
+      "date": "1889",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_110133x137x03",
+      "source": "Cote : 110133 t. cxxxvii n° 3",
+      "title": "Exposé des titres scientifiques. Candidature à l'agrégation en chirurgie, 1889",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    },
+    {
+      "date": "2009",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1043174",
+      "contributor": "ThierryRaspail",
+      "publisher": "Dijon : Les presses du réel",
+      "title": "Le spectacle du quotidien = The spectacle of the everyday : Xe biennale de Lyon (Exposition. Biennale d'art contemporain, Lyon, 6 sept. 2009-3 janv. 2010)"
+    },
+    {
+      "date": "1991",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1039145",
+      "publisher": "Fondation de l'Electricité de France",
+      "title": "Guy LEMONNIER : sel de prunelle Philippe PIGUET : essai sur l'énergie"
+    },
+    {
+      "date": "1945",
+      "identifier": "ark:/12148/bpt6k3388190r",
+      "publisher": " (Paris)",
+      "source": "Bibliothèque nationale de France, département Littérature et art, 16-Y2-2505",
+      "title": "Anne et la guerre : roman / Jean Sabran",
+      "relation": "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32595647w"
+    },
+    {
+      "date": "1829",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:7106688",
+      "contributor": "Ratzeburg, Julius Theodor Christian",
+      "publisher": "bei den Verfassern und in Commission bei A. Hirschwald ; gedruckt in der Druckerei der Königlichen Academie der Wissenschaften und bei Trowitzsch und Sohn",
+      "title": "Medizinische Zoologie oder getreue Darstellung und Beschreibung der Thiere, die in der Arzneimittellehre in Betracht kommen",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-22755/128"
+    },
+    {
+      "date": "1917",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:14593907",
+      "publisher": "[s.n.]",
+      "title": "O selʹskom chozjajstvě : poleznyja svěděnija ob obrabotkě zemli, ob udobrenii i ob uchodě za skotom : s mnogimi risunkami",
+      "relation": "vignette : http://www.e-rara.ch/bes_1/titlepage/doi/10.3931/e-rara-53481/128"
+    },
+    {
+      "date": " ",
+      "identifier": "ark:/12148/oai:bibliotheque-virtuelle.clermont-universite.fr:37226",
+      "contributor": "Laguérenne",
+      "publisher": "Herbiers universitaires de Clermont-Ferrand",
+      "source": "Bibliothèque Université Clermont Auvergne",
+      "title": "Reseda odorata (Resedaceae)",
+      "relation": "vignette : https://bibliotheque-virtuelle.bu.uca.fr/files/thumbnails/24/37226/Reseda_odorata_MTLUCO0205.jpg"
+    },
+    {
+      "date": "1670",
+      "identifier": "ark:/12148/oai:www.e-rara.ch:4135517",
+      "publisher": "in Verlegung Paulus Fürstens, Kunst- und Buchhändlers seel. Wittib und Erben, getrukkt daselbst bey Christoph Gerhard",
+      "title": "Des unvergleichlichen Archimedis Kunst-Bücher oder heutigs Tags befindliche Schriften",
+      "relation": "vignette : http://www.e-rara.ch/zut/titlepage/doi/10.3931/e-rara-13491/128"
+    },
+    {
+      "date": "Samedi 3 avril 1982.",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1014305",
+      "title": "Culture et société F. J. Temple : à la recherche d'un autre Sud."
+    },
+    {
+      "date": "2017",
+      "identifier": "ark:/12148/oai:oai.mediatheques.montpellier-agglo.com:CAMO:1:1056338",
+      "publisher": "Paris : La Découverte",
+      "title": "Loyautés radicales"
+    },
+    {
+      "date": "1895",
+      "identifier": "ark:/12148/oai:biusante.parisdescartes.fr:medica_110133x152x04",
+      "publisher": "Paris, H. Simonis Empis",
+      "source": "Cote : 110133 t. CLII n° 4",
+      "title": "Titres et mémoires du Dr R. Wurtz, candidat à l'agrégation de Paris",
+      "relation": "Medic@ (ISSN : 1164-8678) http://www.biusante.parisdescartes.fr/histmed/medica.htm"
+    }
+  ],
+  "numberOfRecords": 732050
+}
