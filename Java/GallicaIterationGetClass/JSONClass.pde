@@ -1,4 +1,5 @@
 class JSONRecorder extends Thread {
+  int speed = 60;
   PApplet parent;
   String name;
   int index;
@@ -49,10 +50,13 @@ class JSONRecorder extends Thread {
   @Override public void run() {
     while (!isFinished) {
       iterateOverRecords();
+      
       try {
-        Thread.sleep(10);
+        Thread.sleep(1000/speed);
       }
       catch(InterruptedException e) {
+        //e.printStackTrace();
+        println("Error on Thread "+name);
         e.printStackTrace();
       }
     }
@@ -83,7 +87,7 @@ class JSONRecorder extends Thread {
       }
       catch(Exception e) {
         startRecord = tmpStart;
-        println("error has been catch : "+e+"\n Retry at "+tmpStart);
+        println("error has been catch.\n Retry at "+tmpStart+" on Thread "+name);
       }
     } else {
       if (!isFinished) {

@@ -11,8 +11,8 @@ int typeIndex=0;
 boolean isFinished;
 
 void settings() {
-  //size(1920, 1080, P2D);
-  fullScreen(P2D);
+  size(1280, 500, P2D);
+  //fullScreen(P2D);
   smooth(8);
 }
 
@@ -29,15 +29,16 @@ void setup() {
   jsrlist = new ArrayList<JSONRecorder>();
   //732050
   int maxPerRequest = 50;
-  int numberPerJSON = 2500;
+  int numberPerJSON = 10000;
   int numberOfParallelThread = ceil((float)numberOfDocuments / (float)numberPerJSON);
+  println(numberOfParallelThread);
   for (int i=0; i<numberOfParallelThread; i++) {
     int start = i * numberPerJSON;
     JSONRecorder jsr = new JSONRecorder(this, "jsr"+i, i, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
     jsrlist.add(jsr);
   }
 
-  frameRate(300);
+  //frameRate(300);
 }
 
 void draw() {
@@ -71,8 +72,6 @@ void draw() {
     String process = (isRunning) ? "Compete at "+jsr.timeToComplete : "Process at: "+record+"%";
     text(state+" — "+process+"\nNumber of documents: "+numberDocument, x_, y_, lw, lh * 2);
   }
-
-
 
   ptt.display(0, 0);
 }
