@@ -7,7 +7,7 @@ PerfTracker ptt;
 
 ArrayList<JSONRecorder> jsrlist;
 
-int typeIndex=1;
+int typeIndex=8;
 boolean isFinished;
 
 //unifinished data due to error 500 rpoblem
