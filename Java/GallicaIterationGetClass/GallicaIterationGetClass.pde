@@ -7,10 +7,11 @@ PerfTracker ptt;
 
 ArrayList<JSONRecorder> jsrlist;
 
-int typeIndex=0;
+int typeIndex=1;
 boolean isFinished;
 
 //unifinished data due to error 500 rpoblem
+boolean partialGet = false;
 int[] unfinished = {49, 58, 59};
 
 void settings() {
@@ -35,19 +36,20 @@ void setup() {
   int numberPerJSON = 10000;
   int numberOfParallelThread = ceil((float)numberOfDocuments / (float)numberPerJSON);
   println(numberOfParallelThread);
-  /*for (int i=0; i<numberOfParallelThread; i++) {
-   int start = i * numberPerJSON;
-   JSONRecorder jsr = new JSONRecorder(this, "jsr"+i, i, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
-   jsrlist.add(jsr);
-   }*/
-
-  for (int i=0; i<unfinished.length; i++) {
-    int index = unfinished[i];
-    int start = index * numberPerJSON;
-    JSONRecorder jsr = new JSONRecorder(this, "jsr"+index, index, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
-    jsrlist.add(jsr);
+  if (!partialGet) {
+    for (int i=0; i<numberOfParallelThread; i++) {
+      int start = i * numberPerJSON;
+      JSONRecorder jsr = new JSONRecorder(this, "jsr"+i, i, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
+      jsrlist.add(jsr);
+    }
+  } else {
+    for (int i=0; i<unfinished.length; i++) {
+      int index = unfinished[i];
+      int start = index * numberPerJSON;
+      JSONRecorder jsr = new JSONRecorder(this, "jsr"+index, index, start, numberPerJSON, maxPerRequest, numberOfDocuments, request);
+      jsrlist.add(jsr);
+    }
   }
-
   frameRate(300);
 }
 
