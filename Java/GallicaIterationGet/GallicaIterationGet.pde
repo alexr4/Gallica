@@ -7,7 +7,7 @@ PerfTracker ptt;
 MillisTracker mt;
 
 int typeIndex=0;
-boolean isFinished;
+  boolean isFinished;
 
 void settings() {
   size(500, 500, P2D);
