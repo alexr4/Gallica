@@ -22,11 +22,15 @@ class JSONRecorder extends Thread {
   JSONObject savedDataFile;
   JSONArray datas;
 
+  //error 500;
+  int numberOfRetry = 10;
+  int retry;
+  int errorIndex;
 
   JSONRecorder(PApplet parent, String name, int index, int startRecord, int numberOfDocumentPerFile, int maximumRecords, int numberOfDocuments, String globalQuery) {
     super(name);
     this.name = name;
-    
+
     savedDataFile = new JSONObject();
     datas = new JSONArray();
 
@@ -42,7 +46,7 @@ class JSONRecorder extends Thread {
     mt = new MillisTracker(this.parent, 100);
     savedDataFile.setInt("numberOfRecordsIntoFile", numberOfDocumentPerFile);
     savedDataFile.setInt("numberOfRecords", numberOfDocuments);
-    
+
     println("Thread: "+name+" has been created");
     this.start();
   }
@@ -50,7 +54,7 @@ class JSONRecorder extends Thread {
   @Override public void run() {
     while (!isFinished) {
       iterateOverRecords();
-      
+
       try {
         Thread.sleep(1000/speed);
       }
@@ -82,15 +86,40 @@ class JSONRecorder extends Thread {
           addData(children[i]);
         }
         savedDataFile.setJSONArray("records", datas);
-        
+
         savedDataFile.setInt("nextToRecord", startRecord);
         savedDataFile.setInt("actualNumberOfDocuments", numberOfrecords);
         saveJSONObject(savedDataFile, "data/"+types[typeIndex]+"/gallica_"+typeIndex+"_"+types[typeIndex]+"_"+index+".json");
-        
+
         mt.addSample();
       }
       catch(Exception e) {
-        startRecord = tmpStart;
+        retry ++;
+        if (retry >= numberOfRetry) {
+          startRecord = tmpStart;
+        } else {
+          println("error"+errorIndex, globalQuery+srQuery+startRecord+mrQuery+maximumRecords);
+
+          for (int i = 0; i < maximumRecords; i++) {
+            JSONObject jso = new JSONObject();
+
+            jso.setBoolean("dataFromError", true);
+            jso.setString("contributor","unknown");
+            jso.setString("publisher", "unknown");
+            jso.setString("date", "unknown");
+            jso.setString("source", "unknown");
+            jso.setString("title", "unknown");
+            jso.setString("relation", "unknown");
+            
+            datas.setJSONObject(datas.size(), jso);
+          }
+
+          savedDataFile.setString("error"+errorIndex, globalQuery+srQuery+startRecord+mrQuery+maximumRecords);
+          saveJSONObject(savedDataFile, "data/"+types[typeIndex]+"/gallica_"+typeIndex+"_"+types[typeIndex]+"_"+index+".json");
+          startRecord += maximumRecords;
+          retry = 0;
+          errorIndex ++;
+        }
         println("error has been catch.\n Retry at "+tmpStart+" on Thread "+name);
       }
     } else {
