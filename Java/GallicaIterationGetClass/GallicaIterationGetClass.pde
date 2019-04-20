@@ -7,12 +7,12 @@ PerfTracker ptt;
 
 ArrayList<JSONRecorder> jsrlist;
 
-int typeIndex=1;
+int typeIndex=2;
 boolean isFinished;
 
 //unifinished data due to error 500 rpoblem
-boolean partialGet = false;
-int[] unfinished = {49, 58, 59};
+boolean partialGet = true;
+int[] unfinished = {9, 39, 54};
 
 void settings() {
   size(1280, 500, P2D);
