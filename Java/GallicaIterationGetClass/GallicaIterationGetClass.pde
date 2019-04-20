@@ -7,16 +7,12 @@ PerfTracker ptt;
 
 ArrayList<JSONRecorder> jsrlist;
 
-<<<<<<< HEAD
-int typeIndex=7;
-=======
-int typeIndex=8;
->>>>>>> 77fb0572a004c85a05bb2e7955de87ab249f880b
+int typeIndex=0;
 boolean isFinished;
 
 //unifinished data due to error 500 rpoblem
-boolean partialGet = false;
-int[] unfinished = {49, 58, 59};
+boolean partialGet = true;
+int[] unfinished = {59};//, 58, 59};//49, 58, 59
 
 void settings() {
   size(1280, 500, P2D);
@@ -39,7 +35,7 @@ void setup() {
   int maxPerRequest = 50;
   int numberPerJSON = 10000;
   int numberOfParallelThread = ceil((float)numberOfDocuments / (float)numberPerJSON);
-  println(numberOfParallelThread);
+ // println(numberOfParallelThread);
   if (!partialGet) {
     for (int i=0; i<numberOfParallelThread; i++) {
       int start = i * numberPerJSON;
