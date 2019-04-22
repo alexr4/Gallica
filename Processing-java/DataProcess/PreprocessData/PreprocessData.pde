@@ -46,7 +46,7 @@ void setup() {
       JSONObject jso = loadJSONObject(path+file+".json");
       println(path+file+".json has been loaded");
       for (int i = 0; i<queries.length; i++) {
-        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, path, file, jso, queries[i], dataPerIteration);
+        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, "data", file, jso, queries[i], dataPerIteration);
         dataprocessorlist.add(dp);
       }
     }
