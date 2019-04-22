@@ -28,7 +28,7 @@ int nbStarted;
 boolean allStarted;
 
 void settings() {
-  size(1000, 800, P2D);
+  size(1280, 800, P2D);
 }
 
 void setup() {
@@ -46,7 +46,7 @@ void setup() {
       JSONObject jso = loadJSONObject(path+file+".json");
       println(path+file+".json has been loaded");
       for (int i = 0; i<queries.length; i++) {
-        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, file, jso, queries[i], dataPerIteration);
+        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, path, file, jso, queries[i], dataPerIteration);
         dataprocessorlist.add(dp);
       }
     }
@@ -93,9 +93,10 @@ void draw() {
     float x_ = x;
     float y_ = y + lh * 2.0 * (i + 1);
 
-    float mody = floor(y_ / height);
-    y_ -= (height * mody);
-    x_ = x_+ lw * 1.15 * (mody);
+    float mody = floor(y_ / (height - lh * 2));
+    y_ -= ((height - lh * 2) * mody);
+    y_ += (y+ lh * 2.0)*mody;
+    x_ = x_+ lw * 1.01 * (mody);
 
     String state = name+" is running : "+(!isRunning);
     String process = (isRunning) ? "Compete at "+dp.timeToComplete : "Process at: "+record+"%, Last in "+dp.lastTimeToComplete;

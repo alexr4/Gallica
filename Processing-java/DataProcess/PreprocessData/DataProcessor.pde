@@ -8,6 +8,7 @@ class DataProcessor extends Thread {
 
   //data
   boolean isComplete;
+  String path;
   String file;
   String dataToPerform;
   int numberOfDatas;
@@ -30,12 +31,13 @@ class DataProcessor extends Thread {
   //affine query
   ArrayList<String> sourceToSub = new ArrayList<String>();
 
-  DataProcessor(PApplet parent, String name, int index, String file, JSONObject jso, String dataToPerform, int dataPerIteration) {
+  DataProcessor(PApplet parent, String name, int index, String path, String file, JSONObject jso, String dataToPerform, int dataPerIteration) {
     super(name);
     this.name = name;
     this.parent = parent;
     this.index = index;
     this.file = file;
+    this.path = path;
     this.dataToPerform = dataToPerform;
 
     this.jso = jso;
@@ -76,7 +78,7 @@ class DataProcessor extends Thread {
 
   //GLOBAL
   void process(String dataToPerform) {
-    if (start < 5000) {
+    if (start < numberOfDatas) {
       int tmpStart = parent.millis();
       for (int i=start; i<end; i++) {
         if (i < jsodatas.size()) {
@@ -108,7 +110,7 @@ class DataProcessor extends Thread {
 
           datas.setJSONObject(datas.size(), child);
 
-          saveJSONObject(dataFile, file+"_Per_"+dataToPerform+".json");
+          saveJSONObject(dataFile, path+"PreProcess/"+file+"_Per_"+dataToPerform+".json");
           numberOfDataProcessed = start;
           mt.addSample();
           //println("\tdata "+i+"/"+jsodatas.size()+" has been performed");
