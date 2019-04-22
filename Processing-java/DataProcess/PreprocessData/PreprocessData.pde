@@ -1,160 +1,112 @@
 import fpstracker.core.*;
+import fpstracker.ui.*;
+import java.util.*;
+import java.text.SimpleDateFormat;
 
 PerfTracker ptt;
 
-boolean isComplete;
-String path;
-String folder;
-ArrayList<String> files;
-int numberOfDatas;
-
 String[] types = {
-  "0_monographie", 
-  "1_carte", 
-  "2_image", 
-  "3_fascicule", 
-  "4_manuscrit", 
-  "5_partition", 
-  "6_sonore", 
-  "7_objet", 
-  "8_video"};
+  "0_monographie_alldata", 
+  "1_carte_alldata", 
+  "2_image_alldata", 
+  "3_fascicule_alldata", 
+  "4_manuscrit_alldata", 
+  "5_partition_alldata", 
+  "6_sonore_alldata", 
+  "7_objet_alldata", 
+  "8_video_alldata"};
 
-processing.data.Table table;
+String[] queries = {
+  "date", 
+  "source", 
+  "contributor", 
+  "publisher"
+};
+
+ArrayList<DataProcessor> dataprocessorlist;
+int nbStarted;
+boolean allStarted;
 
 void settings() {
-  size(500, 500, P2D);
+  size(1000, 800, P2D);
 }
 
 void setup() {
   ptt = new PerfTracker(this, 100);
 
-  path= "E:/01_Developpement/Gallica/OfflineData/";
-  folder = types[7];
-  files = new ArrayList<String>();
+  String path= "E:/Dropbox/_ENSEIGNEMENTS/_3DI/_PARTAGE/OfflineData/";
 
-  files = FilesLoader.getAllPathToTypeFilesFrom(this, path+folder, "json");
-  JSONObject jso = loadJSONObject(files.get(0));
-  //set global
-  numberOfDatas = jso.getInt("numberOfRecords");
-  println("numberOfDatas: "+numberOfDatas);
+  int dataPerIteration = 1000;
+  dataprocessorlist = new ArrayList<DataProcessor>();
 
+  for (int j=0; j<types.length; j++) {
+    //int j=7;
+    String file = types[j];
+    if (j != 3) {
+      JSONObject jso = loadJSONObject(path+file+".json");
+      println(path+file+".json has been loaded");
+      for (int i = 0; i<queries.length; i++) {
+        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, file, jso, queries[i], dataPerIteration);
+        dataprocessorlist.add(dp);
+      }
+    }
+  }
 
-  table = new processing.data.Table();
-  table.addColumn("contributor");
-  table.addColumn("publisher");
-  table.addColumn("date");
-  table.addColumn("source");
-  table.addColumn("title");
-  table.addColumn("relation");
-
+  surface.setLocation(0, 0);
   frameRate(300);
 }
 
 void draw() {
-  if (frameCount <= files.size()) {
-    convertIntoCSV(frameCount-1);
-  } else {
-    isComplete = true;
-    println("Data has been process");
-  }
-  /*
-  if (!isComplete) {
-   //gatherIntoOneFile();
-   convertIntoCSV();
-   isComplete = true;
-   println("Data has been process");
-   }*/
 
+  if (!allStarted) {
+    for (DataProcessor dp : dataprocessorlist) {
+      if (!dp.started) {
+        dp.start();
+        dp.started = true;
+        nbStarted ++;
+      }
+    }
+    if (nbStarted >= dataprocessorlist.size()) {
+      allStarted = true;
+    }
+  }
+
+  background(240);
+  fill(0);
+  noStroke();
+
+  float x = 20;
+  float y = 80;
+  float lh = 15;
+  float lw = 500;
+
+  textSize(12);
+  text("Processing Gallica data.\nTime passed: "+getStringTime(millis()), x, y);
+
+  textSize(9);
+  for (int i=0; i<dataprocessorlist.size(); i++) {
+    DataProcessor dp = dataprocessorlist.get(i);
+
+    float record = round(((float)dp.numberOfDataProcessed / (float)dp.numberOfDatas) * 100.0);
+    boolean isRunning = dp.isComplete;
+    String name = dp.name;
+    float x_ = x;
+    float y_ = y + lh * 2.0 * (i + 1);
+
+    float mody = floor(y_ / height);
+    y_ -= (height * mody);
+    x_ = x_+ lw * 1.15 * (mody);
+
+    String state = name+" is running : "+(!isRunning);
+    String process = (isRunning) ? "Compete at "+dp.timeToComplete : "Process at: "+record+"%, Last in "+dp.lastTimeToComplete;
+    if (i%2 == 0) {
+      float margin = 2;
+      fill(220);
+      rect( x_ - margin, y_ - margin, lw + margin * 2, lh * 2+ margin * 2);
+    }
+    fill(0);
+    text(state+" — "+process+"\nNumber of documents: "+dp.numberOfDataProcessed+"/"+dp.numberOfDatas, x_, y_, lw, lh * 2);
+  }
 
   ptt.display(0, 0);
-}
-
-//GLOBAL
-void gatherIntoOneFile() {
-  JSONObject dataFile = new JSONObject();
-  JSONArray datas = new JSONArray();
-  for (int i=0; i<files.size(); i++) {
-    String filename = files.get(i);
-    JSONObject jso = loadJSONObject(filename);
-    //set global
-    dataFile.setInt("numberOfRecords", jso.getInt("numberOfRecords"));
-
-    //set array
-    JSONArray jsodatas = jso.getJSONArray("records");
-    for (int j=0; j<jsodatas.size(); j++) {
-      JSONObject value = jsodatas.getJSONObject(j);
-      datas.setJSONObject(datas.size(), value);
-    }
-    dataFile.setJSONArray("records", datas);
-
-    saveJSONObject(dataFile, folder+"_alldata.json");
-    println("\tprocess json "+i);
-  }
-}
-
-void convertIntoCSV() {
-  processing.data.Table table = new processing.data.Table();
-  table.addColumn("contributor");
-  table.addColumn("publisher");
-  table.addColumn("date");
-  table.addColumn("source");
-  table.addColumn("title");
-  table.addColumn("relation");
-
-  for (int i=0; i<files.size(); i++) {
-    String filename = files.get(i);
-    JSONObject jso = loadJSONObject(filename);
-
-    //set array
-    JSONArray jsodatas = jso.getJSONArray("records");
-    for (int j=0; j<jsodatas.size(); j++) {
-      JSONObject value = jsodatas.getJSONObject(j);
-
-      processing.data.TableRow row = table.addRow();
-
-      setCSVRow(value, "contributor", row);
-      setCSVRow(value, "publisher", row);
-      setCSVRow(value, "date", row);
-      setCSVRow(value, "source", row);
-      setCSVRow(value, "title", row);
-      setCSVRow(value, "relation", row);
-
-      saveTable(table, folder+"_alldata.csv");
-    }
-    println("\tprocess json int csv"+i);
-  }
-}
-
-void convertIntoCSV(int i) {
-
-  String filename = files.get(i);
-  JSONObject jso = loadJSONObject(filename);
-
-  //set array
-  JSONArray jsodatas = jso.getJSONArray("records");
-  for (int j=0; j<jsodatas.size(); j++) {
-    JSONObject value = jsodatas.getJSONObject(j);
-
-    processing.data.TableRow row = table.addRow();
-
-    setCSVRow(value, "contributor", row);
-    setCSVRow(value, "publisher", row);
-    setCSVRow(value, "date", row);
-    setCSVRow(value, "source", row);
-    setCSVRow(value, "title", row);
-    setCSVRow(value, "relation", row);
-
-    saveTable(table, folder+"_alldata.csv");
-  }
-  println("\tprocess json int csv"+i);
-}
-
-
-//HELPER
-void setCSVRow(JSONObject jso, String data, processing.data.TableRow row) {
-  if (jso.getString(data) != null) {
-    row.setString(data, jso.getString(data));
-  } else {
-    row.setString(data, "unknown");
-  }
 }
