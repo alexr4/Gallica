@@ -23,6 +23,10 @@ int getNumberOfDocument(XML xml) {
   return int(xml.getChild("ListRecords").getChild("resumptionToken").getInt("completeListSize"));
 }
 
+int getCursor(XML xml) {
+  return int(xml.getChild("ListRecords").getChild("resumptionToken").getInt("cursor"));
+}
+
 String getNextResumptionToken(XML xml) {
   return xml.getChild("ListRecords").getChild("resumptionToken").getContent();
 }

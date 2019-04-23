@@ -43,11 +43,13 @@ void draw() {
   // iterateOverRecords();
   
   int start = millis();
-  String request = "http://oai.bnf.fr/oai2/OAIHandler?resumptionToken="+resumptionToken+"&verb=ListRecords";
+  //String request = "http://oai.bnf.fr/oai2/OAIHandler?resumptionToken="+resumptionToken+"&verb=ListRecords";
+  String request = "http://oai.bnf.fr/oai2/OAIHandler?resumptionToken="+"274!7001!9150002!7189!"+frameCount*100+"!47492!oai_dc"+"&verb=ListRecords";
   xml = loadXML(request);
   resumptionToken = getNextResumptionToken(xml);
+  int cursor = getCursor(xml);
   int end = millis() - start;
-  println(end, resumptionToken);
+  println(end, resumptionToken, cursor);
 
 
   textAlign(CENTER, CENTER);
