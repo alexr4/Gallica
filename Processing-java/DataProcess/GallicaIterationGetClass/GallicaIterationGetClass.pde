@@ -12,7 +12,7 @@ boolean isFinished;
 
 //unifinished data due to error 500 rpoblem
 boolean partialGet = true;
-int[] unfinished = {49, 58, 59};
+int[] unfinished = {};
 
 
 void settings() {

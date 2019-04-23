@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 
 PerfTracker ptt;
 
+String path= "E:/Dropbox/_ENSEIGNEMENTS/_3DIStaff/OfflineData/";
 String[] types = {
   "0_monographie_alldata", 
   "1_carte_alldata", 
@@ -23,9 +24,14 @@ String[] queries = {
   "publisher"
 };
 
+int dataPerIteration = 5000;
 ArrayList<DataProcessor> dataprocessorlist;
 int nbStarted;
 boolean allStarted;
+
+int typeIndex;
+int index;
+DataProcessor dp;
 
 void settings() {
   size(1280, 800, P2D);
@@ -34,23 +40,24 @@ void settings() {
 void setup() {
   ptt = new PerfTracker(this, 100);
 
-  String path= "E:/Dropbox/_ENSEIGNEMENTS/_3DI/_PARTAGE/OfflineData/";
 
-  int dataPerIteration = 1000;
+
   dataprocessorlist = new ArrayList<DataProcessor>();
 
-  for (int j=0; j<types.length; j++) {
-    //int j=7;
-    String file = types[j];
-    if (j != 3) {
-      JSONObject jso = loadJSONObject(path+file+".json");
-      println(path+file+".json has been loaded");
-      for (int i = 0; i<queries.length; i++) {
-        DataProcessor dp = new DataProcessor(this, file+"-"+queries[i], i + j * types.length, "data", file, jso, queries[i], dataPerIteration);
-        dataprocessorlist.add(dp);
-      }
-    }
-  }
+  typeIndex = 0;
+  index = 3;
+  // for (int j=0; j<types.length; j++) {
+  // if (j != 3) {
+  String file = types[typeIndex];
+  JSONObject jso = loadJSONObject(path+file+".json");
+  println(path+file+".json has been loaded");
+  // for (int i=0; i<queries.length; i++) {
+  //index = i;
+  dp = new DataProcessor(this, file+"-"+queries[index], index + typeIndex * types.length, "data", file, jso, queries[index], dataPerIteration);
+  dataprocessorlist.add(dp);
+  // }
+  // }
+  // }
 
   surface.setLocation(0, 0);
   frameRate(300);
@@ -70,6 +77,8 @@ void draw() {
       allStarted = true;
     }
   }
+
+
 
   background(240);
   fill(0);
