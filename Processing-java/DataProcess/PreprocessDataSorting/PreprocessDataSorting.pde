@@ -5,19 +5,25 @@ import java.text.SimpleDateFormat;
 
 PerfTracker ptt;
 
-String path= "E:/Dropbox/_ENSEIGNEMENTS/_3DIStaff/OfflineData/";
+String path= "E:/Dropbox/_ENSEIGNEMENTS/Gallica/OfflineData/OAI-PMH/gallica_";
 String[] types = {
-  "0_monographie_alldata", 
-  "1_carte_alldata", 
-  "2_image_alldata", 
-  "3_fascicule_alldata", 
-  "4_manuscrit_alldata", 
-  "5_partition_alldata", 
-  "6_sonore_alldata", 
-  "7_objet_alldata", 
-  "8_video_alldata"};
+  "audio", 
+  "cartes", 
+  "images", 
+  "imagescartes", 
+  "imagesdessins", 
+  "imagesestampes", 
+  "imagesobjets", 
+  "imagesphotographies", 
+  "manuscrits", 
+  "monographies", 
+  "objets", 
+  "partitions", 
+  "videos"
+};
 
 String[] queries = {
+  "datestamp", 
   "date", 
   "source", 
   "contributor", 
@@ -34,7 +40,7 @@ int index;
 DataProcessor dp;
 
 void settings() {
-  size(1280, 800, P2D);
+  size(500, 500, P2D);
 }
 
 void setup() {
@@ -44,20 +50,19 @@ void setup() {
 
   dataprocessorlist = new ArrayList<DataProcessor>();
 
-  typeIndex = 0;
+  typeIndex = 3;
   index = 3;
-  // for (int j=0; j<types.length; j++) {
-  // if (j != 3) {
-  String file = types[typeIndex];
-  JSONObject jso = loadJSONObject(path+file+".json");
-  println(path+file+".json has been loaded");
-  // for (int i=0; i<queries.length; i++) {
-  //index = i;
-  dp = new DataProcessor(this, file+"-"+queries[index], index + typeIndex * types.length, "data", file, jso, queries[index], dataPerIteration);
-  dataprocessorlist.add(dp);
-  // }
-  // }
-  // }
+ // for (int j=0; j<types.length; j++) {
+    //typeIndex = j;
+    String file = types[typeIndex];
+    JSONObject jso = loadJSONObject(path+file+".json");
+    println(path+file+".json has been loaded");
+    for (int i=0; i<queries.length; i++) {
+      index = i;
+      dp = new DataProcessor(this, file+"-"+queries[index], index + typeIndex * types.length, "data", file, jso, queries[index], dataPerIteration);
+      dataprocessorlist.add(dp);
+    }
+ // }
 
   surface.setLocation(0, 0);
   frameRate(300);
@@ -87,7 +92,7 @@ void draw() {
   float x = 20;
   float y = 80;
   float lh = 15;
-  float lw = 500;
+  float lw = 400;
 
   textSize(12);
   text("Processing Gallica data.\nTime passed: "+getStringTime(millis()), x, y);
@@ -108,7 +113,7 @@ void draw() {
     x_ = x_+ lw * 1.01 * (mody);
 
     String state = name+" is running : "+(!isRunning);
-    String process = (isRunning) ? "Compete at "+dp.timeToComplete : "Process at: "+record+"%, Last in "+dp.lastTimeToComplete;
+    String process = (isRunning) ? "Complete at "+dp.timeToComplete : "Process at: "+record+"%, Last in "+dp.lastTimeToComplete;
     if (i%2 == 0) {
       float margin = 2;
       fill(220);
