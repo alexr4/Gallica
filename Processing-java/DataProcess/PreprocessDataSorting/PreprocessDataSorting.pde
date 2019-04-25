@@ -50,7 +50,7 @@ void setup() {
 
   dataprocessorlist = new ArrayList<DataProcessor>();
 
-  typeIndex = 3;
+  typeIndex = 10;
   index = 3;
  // for (int j=0; j<types.length; j++) {
     //typeIndex = j;
