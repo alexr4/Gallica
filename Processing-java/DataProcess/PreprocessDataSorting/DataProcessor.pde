@@ -47,7 +47,7 @@ class DataProcessor extends Thread {
     //array of data
     this.jsodatas = jso.getJSONArray("records");
 
-    numberOfDatas = 100000;//jso.getInt("numberOfRecords");
+    numberOfDatas = jso.getInt("numberOfRecords");
     mt = new MillisTracker(this.parent, 100);
     //mt.addSample();
 
@@ -56,13 +56,12 @@ class DataProcessor extends Thread {
     this.end = this.dataPerIteration;
 
 
-    if (start == 0) {
-      dataFile = new JSONObject();
-      queryArray = new JSONArray();
-      dataFile.setJSONArray("Records", queryArray);
-      queryFile = new JSONObject();
-    }
-    
+    dataFile = new JSONObject();
+    queryArray = new JSONArray();
+    dataFile.setJSONArray("Records", queryArray);
+    queryFile = new JSONObject();
+
+
     println("Thread: "+name+" has been created for "+numberOfDatas+" datas");
   }
 

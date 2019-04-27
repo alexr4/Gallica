@@ -31,8 +31,6 @@ String[] queries = {
   "publisher"
 };
 
-int gstart = 0;
-int gend = 28;
 
 int dataPerIteration = 5000;
 ArrayList<DataProcessor> dataprocessorlist;
@@ -68,7 +66,7 @@ void init() {
   dataprocessorlist = new ArrayList<DataProcessor>();
   typeIndex = 13;
   String file = types[typeIndex];
-  JSONObject jso = loadJSONObject(path+file+gstart+".json");
+  JSONObject jso = loadJSONObject(path+file+".json");
   println(path+file+".json has been loaded");
   for (int i=0; i<queries.length; i++) {
     index = i;
@@ -101,17 +99,7 @@ void draw() {
     }
   }
 
-  if (allEnded) {
-    //println("finished");
-    if (gstart < gend) {
-      gstart ++;
-      init();
-      allStarted = false;
-      println(gstart);
-    }else{
-      println("all finished");
-    }
-  }
+
 
 
 
