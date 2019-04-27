@@ -19,7 +19,8 @@ String[] types = {
   "monographies", 
   "objets", 
   "partitions", 
-  "videos"
+  "videos", 
+  "periodiques"
 };
 
 String[] queries = {
@@ -29,6 +30,9 @@ String[] queries = {
   "contributor", 
   "publisher"
 };
+
+int gstart = 0;
+int gend = 28;
 
 int dataPerIteration = 5000;
 ArrayList<DataProcessor> dataprocessorlist;
@@ -48,24 +52,30 @@ void setup() {
 
 
 
-  dataprocessorlist = new ArrayList<DataProcessor>();
 
-  typeIndex = 10;
-  index = 3;
- // for (int j=0; j<types.length; j++) {
-    //typeIndex = j;
-    String file = types[typeIndex];
-    JSONObject jso = loadJSONObject(path+file+".json");
-    println(path+file+".json has been loaded");
-    for (int i=0; i<queries.length; i++) {
-      index = i;
-      dp = new DataProcessor(this, file+"-"+queries[index], index + typeIndex * types.length, "data", file, jso, queries[index], dataPerIteration);
-      dataprocessorlist.add(dp);
-    }
- // }
+  //index = 3;
+  // for (int j=0; j<types.length; j++) {
+  //typeIndex = j;
+
+  //}
+  init();
 
   surface.setLocation(0, 0);
   frameRate(300);
+}
+
+void init() {
+  dataprocessorlist = new ArrayList<DataProcessor>();
+  typeIndex = 13;
+  String file = types[typeIndex];
+  JSONObject jso = loadJSONObject(path+file+gstart+".json");
+  println(path+file+".json has been loaded");
+  for (int i=0; i<queries.length; i++) {
+    index = i;
+    //String file_ = file+start;
+    dp = new DataProcessor(this, file+"-"+queries[index], index + typeIndex * types.length, "data", file, jso, queries[index], dataPerIteration);
+    dataprocessorlist.add(dp);
+  }
 }
 
 void draw() {
@@ -82,6 +92,27 @@ void draw() {
       allStarted = true;
     }
   }
+
+  boolean allEnded = true;
+  for (DataProcessor dp : dataprocessorlist) {
+    if (dp.started && dp.isComplete) {
+    } else {
+      allEnded = false;
+    }
+  }
+
+  if (allEnded) {
+    //println("finished");
+    if (gstart < gend) {
+      gstart ++;
+      init();
+      allStarted = false;
+      println(gstart);
+    }else{
+      println("all finished");
+    }
+  }
+
 
 
 
