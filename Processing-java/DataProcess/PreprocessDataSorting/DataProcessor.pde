@@ -116,7 +116,7 @@ class DataProcessor extends Thread {
             //process data into readable
             if (dataToPerform.equals("date")) {
               query = returnAsSimpleDate(value);
-            } else if (dataToPerform.equals("source")) {
+            } else if (dataToPerform.equals("source") || dataToPerform.equals("contributor") || dataToPerform.equals("publisher")) {
               query = returnAsSimpleSource(value, 0.65);
             } else {
               query = value;
