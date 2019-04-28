@@ -131,6 +131,8 @@ Chaque document est représenté par la notice suivante :
 Les livres suivants sont à votre disposition auprès de l'administration de l'école.
 Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponible que pour une consultation sur place uniquement et doivent être rendu chaque jour à l'administration.
 
+* **Liste TBD**
+
 ### Data Visualisation
 * [IBM Design Language: data visualization guideline, Accurat studio](https://www.ibm.com/design/v1/language/experience/data-visualization/)
 * [The data visualization catalogue: a library of different information visualization type](https://datavizcatalogue.com/)
