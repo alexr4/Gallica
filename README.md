@@ -6,7 +6,7 @@
 
 ## Brief
 À partir des ressources fourni, vous selectionnerez un type de document et en réaliserez une visualisation de sa liste de document.
-Votre travail se basera sur une étude de cette liste de données choisie pour définir votre axe de représentation. Vous pourrez ainsi choisir de représenter l'évolution de la base de données selon la date d'ajout des document ou encore représenter les rapports de proportions entre les dates de publication, contributeurs ou editeurs de cette liste de données.
+Votre travail se basera sur une étude de cette liste de données choisie pour définir votre axe de représentation. Vous pourrez ainsi choisir de représenter l'évolution de la base de données selon la date d'ajout des document ou encore représenter les rapports de proportions entre les dates de publication, contributeurs ou éditeurs de cette liste de données.
 
 ## Contraintes
 Vous travaillerez en **groupe de 2 à 3 personnes**. Votre travail se présentera sous la forme d'une visualisation statique image et non interactive respectant le format fourni.
@@ -83,20 +83,20 @@ Le lien suivant permet d'accéder au listing de données Gallica exporté en Avr
 L'ensemble des fichiers sont au format JSON et on été exporté à partir de l'[API OAI-PMH de la BNF](http://api.bnf.fr/entrepot-oai-pmh-de-gallica-et-des-expositions-virtuelles-oai-num)
 Le dossier est organisé de la manière suivante :
 * AllData : Dossier comprenant l'ensemble des données par type de document au format JSON
-* * Audio : 47 492 documents
-* * Cartes : 63 750 documents
-* * Images : 332 199 documents
-* * Images-cartes : 0 documents
-* * Images-estampes : 81 389 documents
-* * Images-dessins : 34 674 documents
-* * Images-photographie : 169055 documents
-* * Images-objets : 0 documents
-* * Manuscrits : 81 126 documents
-* * Monographie : 476 304 documents
-* * Objets : 179 663 documents
-* * Partitions : 47 689 documents
-* * Periodiques : 2 806 122 documents
-* * Vidéos : 1 306 documents
+* * **Audio : 47 492 documents**
+* * **Cartes : 63 750 documents**
+* * **Images : 332 199 documents**
+* * **Images-cartes : 0 documents**
+* * **Images-estampes : 81 389 documents**
+* * **Images-dessins : 34 674 documents**
+* * **Images-photographie : 169055 documents**
+* * **Images-objets : 0 documents**
+* * **Manuscrits : 81 126 documents**
+* * **Monographie : 476 304 documents**
+* * **Objets : 179 663 documents**
+* * **Partitions : 47 689 documents**
+* * **Periodiques : 2 806 122 documents**
+* * **Vidéos : 1 306 documents**
 * Sorted : Dossier comprenant l'ensemble des données par type de document au format JSON trié par :
 * * Contributeurs
 * * Date (de publication)
