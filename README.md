@@ -83,20 +83,20 @@ Le lien suivant permet d'accéder au listing de données Gallica exporté en Avr
 L'ensemble des fichiers sont au format JSON et on été exporté à partir de l'[API OAI-PMH de la BNF](http://api.bnf.fr/entrepot-oai-pmh-de-gallica-et-des-expositions-virtuelles-oai-num)
 Le dossier est organisé de la manière suivante :
 * AllData : Dossier comprenant l'ensemble des données par type de document au format JSON
-* * **Audio : 47 492 documents**
-* * **Cartes : 63 750 documents**
-* * **Images : 332 199 documents**
-* * **Images-cartes : 0 documents**
-* * **Images-estampes : 81 389 documents**
-* * **Images-dessins : 34 674 documents**
-* * **Images-photographie : 169055 documents**
-* * **Images-objets : 0 documents**
-* * **Manuscrits : 81 126 documents**
-* * **Monographie : 476 304 documents**
-* * **Objets : 179 663 documents**
-* * **Partitions : 47 689 documents**
-* * **Periodiques : 2 806 122 documents**
-* * **Vidéos : 1 306 documents**
+* * Audio : **47 492** documents
+* * Cartes : **63 750** documents
+* * Images : **332 199** documents
+* * Images-cartes : **0** documents
+* * Images-estampes : **81 389** documents
+* * Images-dessins : **34 674** documents
+* * Images-photographie : **169055** documents
+* * Images-objets : **0** documents
+* * Manuscrits : **81 126** documents
+* * Monographie : **476 304** documents
+* * Objets : **179 663** documents
+* * Partitions : **47 689** documents
+* * Periodiques : **2 806 122** documents
+* * Vidéos : **1 306** documents
 * Sorted : Dossier comprenant l'ensemble des données par type de document au format JSON trié par :
 * * Contributeurs
 * * Date (de publication)
