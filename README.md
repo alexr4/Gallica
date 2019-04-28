@@ -153,6 +153,18 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [The New York Public Library: a visualization of 187K digital items in the public domain](http://publicdomain.nypl.org/pd-visualization/)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Brouillon Global
 * Kantar visualisation
 * Talks from Giorgia Lupi, Jer Thorp, Stefanie Posavec et David McCandless
