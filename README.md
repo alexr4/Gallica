@@ -171,7 +171,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [The New York Public Library: a visualization of 187K digital items in the public domain](http://publicdomain.nypl.org/pd-visualization/)
 * [Visualising the Royal Photographic Society collection](https://www.vam.ac.uk/blog/digital/visualising-the-royal-photographic-society-collection)
 * [Generous Interfaces](https://pro.europeana.eu/page/issue-11-generous-interfaces)
-*
+* [Death in Syria](https://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 
 ### Designers d'informations
 * [Moritz Stefaner](https://truth-and-beauty.net/)
