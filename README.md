@@ -5,7 +5,7 @@
 **Gallica** est la bibliothèque numérique de la **Bibliothèque Nationale de France et de ses partenaires**. Depuis 1997, la plateforme propose l'accès à environ 5 millions de documents comprenant des manuscrits, des images, de l'audio ou de la vidéo. Durant ce workshop nous explorons la masse de données dont la plateforme dispose et verrons la manière dont les documents sont traités, classés et archivés sous forme de notices. Enfin nous imaginerons un moyen visuel permettant de représenter, appréhender et comprendre ces archives.
 
 ## Brief
-À partir des ressources fourni, vous selectionnerez un type de document et en réaliserez une visualisation de sa liste de document.
+À partir des ressources fournies, vous selectionnerez un type de document et en réaliserez une visualisation de sa liste de document.
 Votre travail se basera sur une étude de cette liste de données choisie pour définir votre axe de représentation. Vous pourrez ainsi choisir de représenter l'évolution de la base de données selon la date d'ajout des document ou encore représenter les rapports de proportions entre les dates de publication, contributeurs ou éditeurs de cette liste de données.
 
 ## Contraintes
@@ -58,6 +58,7 @@ Nous verrons également comment les principes du design graphiques (Gestalt) peu
 Enfin nous étudierons le format (JSON) et la classification de nos données afin de mieux comprendre cette dernière.
 
 **Ressources : TBD**
+*
 
 ### Dessiner en Javascript : Introduction à P5JS et au format JSON
 Durant cette session, le 15/05, nous effectuerons une introduction au créative coding par l'utilisation de P5JS.
@@ -67,6 +68,7 @@ Nous verrons également comment importer, lire et utiliser nos données au forma
 Enfin nous verrons différentes méthodes nous permettant d'exporter notre creation au format bitmap ou vectorielle afin de travailler notre visuel dans un logiciel d'édition.
 
 **Ressources : TBD**
+* p5js editor + codepen
 
 ### Suivi de production
 La session de 16/05 sera dédiée au suivi de projet et à l'échange cross-groupe.
@@ -131,7 +133,18 @@ Chaque document est représenté par la notice suivante :
 Les livres suivants sont à votre disposition auprès de l'administration de l'école.
 Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponible que pour une consultation sur place uniquement et doivent être rendu chaque jour à l'administration.
 
-* **Liste TBD**
+| Type | Titre | Auteur |
+|--- |--- |--- |
+| Référence | Information is beautiful | David McCandless |
+| Référence | Beautiful Visualization | Julie Steele & Noah Iliinsky |
+| Référence | Dear Data | Giorgia Lupi & Stefanie Posavec |
+| Référence | Visual Complexity | Manuel Lima |
+| Référence | The Minard System | Sandra Rendgen |
+| Référence | Data Flow | Robert Klanten, Nicolas Bourquin, Thibaut Tissot & Sven Ehmann |
+| Technique | Visualizing Data | Ben Fry |
+| Technique | Design Génératif | Hartmut Bohnacker, Benedikt Groß, Julia Laub, Claudius Lazzeroni |
+| Technique | Data-Driven Graphic Driven | Andrew Richardson |
+| Technique | Creative Coding im Web generative gestaltung | Hartmut Bohnacker, Benedikt Groß, Julia Laub, Claudius Lazzeroni |
 
 ### Data Visualisation
 * [IBM Design Language: data visualization guideline, Accurat studio](https://www.ibm.com/design/v1/language/experience/data-visualization/)
@@ -140,7 +153,8 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Designing Data Visualizations: Getting started with processing, Nicholas Felton](https://www.skillshare.com/classes/Designing-Data-Visualizations-Getting-Started-with-Processing/1063775924/project-guide)
 * [Artist in the library: a podcast for data, archival & library afficionados, Jer Thorp](https://artistinthearchive.podbean.com/)
 * [Television collection of the Netherland institue for Sound and Vision](http://mediasuitedata.clariah.nl/dataset/nisv-catalogue-tv)
-*
+* [Kantar information is beautiful awards](https://www.informationisbeautifulawards.com/)
+* [Visual Complexity](http://www.visualcomplexity.com/vc/)
 
 ### Programmation creative
 * [Programming design system: a practical guide to the new fundation of graphic design, Rune Madsen](https://programmingdesignsystems.com)
@@ -148,39 +162,34 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Creative Coding 2018 : introduction à la programmation créative avec p5j, Alexandre Rivaux & Max Vermesh](https://alexr4.github.io/CC2018-eartsup/)
 * [Generative Design : Introduction au design generative et aux moteurs physiques avec p5j, Alexandre Rivaux](http://generative.ixd.education/)
 * [The Coding Train: a channel for creative coding tutorial, Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-* [Visualising the Royal Photographic Society collection](https://www.vam.ac.uk/blog/digital/visualising-the-royal-photographic-society-collection)
-* [Generous Interfaces](https://pro.europeana.eu/page/issue-11-generous-interfaces)
+* [Learning Processing](http://learningprocessing.com/)
+* [Hello.p5js.org](https://hello.p5js.org/)
 
 ### Exemple de projet
 * [The New York Public Library: a visualization of 187K digital items in the public domain](http://publicdomain.nypl.org/pd-visualization/)
+* [Visualising the Royal Photographic Society collection](https://www.vam.ac.uk/blog/digital/visualising-the-royal-photographic-society-collection)
+* [Generous Interfaces](https://pro.europeana.eu/page/issue-11-generous-interfaces)
 
+### Designers d'informations
+* [Moritz Stefaner](https://truth-and-beauty.net/)
+* [Rachel Binx](https://rachelbinx.com/)
+* [Giorgia Lupi](http://giorgialupi.com/) & [Accurat](https://www.accurat.it/)
+* [Stefanie Posavec](http://www.stefanieposavec.com/)
+* [Benedikt Groß](https://benedikt-gross.de/)
+* [Jer Thorp](https://www.jerthorp.com/)
+* [Marcin Ignac](http://variable.io/)
+* [Derek Watkins](http://dwtkns.com/portfolio/)
+* [Laura Strausfeld](https://informationart.com/)
+* [Fathom.info](https://fathom.info/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Brouillon Global
-* Kantar visualisation
-* Talks from Giorgia Lupi, Jer Thorp, Stefanie Posavec et David McCandless
-* Visual Complexity
-* Principle of design
-* Moritz Stefaner
-* Rachel Binx
-* Giorgia Lupi
-* Stefanie Posavec
-* Fathom.io
-
-## Ref Carmen
-* http://www.dear-data.com/theproject
-* https://datavizcatalogue.com/
-* http://dataphys.org/list/
-* https://mymodernmet.com/ken-kawamoto-tempescope/
-* https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due
+### Talks **TBD**
+* [TED: Jer Thorp, The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
+* [TED: Jer Thorp, TMake data more Human](https://www.ted.com/talks/jer_thorp_make_data_more_human)
+* [TED: David McCandless, The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
+* [TED: Giorgia Lupi, How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data?language=fr)
+* [Eyeo 2018: Stefanie Posavec](https://vimeo.com/287094544)
+* [Eyeo 2018: Giorgia Lupi](https://vimeo.com/287093641)
+* [Eyeo 2017: Nicholas Felton](https://vimeo.com/232659051)
+* [Eyeo 2017: Marcin Ignac](https://vimeo.com/232545214)
+* [Eyeo 2017: Derek Watkins](https://vimeo.com/232544879)
+* [Eyeo 2016: Laurie Frick](https://vimeo.com/180077714)
