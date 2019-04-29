@@ -155,6 +155,8 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Television collection of the Netherland institue for Sound and Vision](http://mediasuitedata.clariah.nl/dataset/nisv-catalogue-tv)
 * [Kantar information is beautiful awards](https://www.informationisbeautifulawards.com/)
 * [Visual Complexity](http://www.visualcomplexity.com/vc/)
+* [Information is Beautiful](https://informationisbeautiful.net/)
+* [Visualising Data](http://www.visualisingdata.com/)
 
 ### Programmation creative
 * [Programming design system: a practical guide to the new fundation of graphic design, Rune Madsen](https://programmingdesignsystems.com)
@@ -169,6 +171,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [The New York Public Library: a visualization of 187K digital items in the public domain](http://publicdomain.nypl.org/pd-visualization/)
 * [Visualising the Royal Photographic Society collection](https://www.vam.ac.uk/blog/digital/visualising-the-royal-photographic-society-collection)
 * [Generous Interfaces](https://pro.europeana.eu/page/issue-11-generous-interfaces)
+*
 
 ### Designers d'informations
 * [Moritz Stefaner](https://truth-and-beauty.net/)
