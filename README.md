@@ -68,7 +68,10 @@ Nous verrons également comment importer, lire et utiliser nos données au forma
 Enfin nous verrons différentes méthodes nous permettant d'exporter notre creation au format bitmap ou vectorielle afin de travailler notre visuel dans un logiciel d'édition.
 
 **Ressources : TBD**
-* p5js editor + codepen
+* [Image exporter from p5js (High Res bitmap and vector images)](https://editor.p5js.org/arivaux@gmail.com/sketches/PRMLlNAEZ)
+* [Introduction à la Data Art avec p5JS, Alexandre Rivaux](https://codepen.io/collection/AzNyMJ)
+* [Programming design system, Rune Madsen](https://programmingdesignsystems.com/)
+* Pour plus de ressources voir sections [ressources](###-Programmation-creative)
 
 ### Suivi de production
 La session de 16/05 sera dédiée au suivi de projet et à l'échange cross-groupe.
@@ -150,7 +153,6 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [IBM Design Language: data visualization guideline, Accurat studio](https://www.ibm.com/design/v1/language/experience/data-visualization/)
 * [The data visualization catalogue: a library of different information visualization type](https://datavizcatalogue.com/)
 * [Introduction to Data visualization: From Data to Design, Nicholas Felton](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330/project-guide)
-* [Designing Data Visualizations: Getting started with processing, Nicholas Felton](https://www.skillshare.com/classes/Designing-Data-Visualizations-Getting-Started-with-Processing/1063775924/project-guide)
 * [Artist in the library: a podcast for data, archival & library afficionados, Jer Thorp](https://artistinthearchive.podbean.com/)
 * [Television collection of the Netherland institue for Sound and Vision](http://mediasuitedata.clariah.nl/dataset/nisv-catalogue-tv)
 * [Kantar information is beautiful awards](https://www.informationisbeautifulawards.com/)
@@ -159,10 +161,12 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Visualising Data](http://www.visualisingdata.com/)
 
 ### Programmation creative
-* [Programming design system: a practical guide to the new fundation of graphic design, Rune Madsen](https://programmingdesignsystems.com)
 * [Programming Data Visualizations: A Coding Toolkit for Processing, Nicholas Felton](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914/project-guide)
+* [Designing Data Visualizations: Getting started with processing, Nicholas Felton](https://www.skillshare.com/classes/Designing-Data-Visualizations-Getting-Started-with-Processing/1063775924/project-guide)
+* [Programming design system: a practical guide to the new fundation of graphic design, Rune Madsen](https://programmingdesignsystems.com)
 * [Creative Coding 2018 : introduction à la programmation créative avec p5j, Alexandre Rivaux & Max Vermesh](https://alexr4.github.io/CC2018-eartsup/)
 * [Generative Design : Introduction au design generative et aux moteurs physiques avec p5j, Alexandre Rivaux](http://generative.ixd.education/)
+* [Introduction au Graphisme Dynamique, Design d'interface multimédia et internet, Université Paris 13, Alexandre Rivaux](https://codepen.io/collection/neWapK/)
 * [The Coding Train: a channel for creative coding tutorial, Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Learning Processing](http://learningprocessing.com/)
 * [Hello.p5js.org](https://hello.p5js.org/)
@@ -172,6 +176,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Visualising the Royal Photographic Society collection](https://www.vam.ac.uk/blog/digital/visualising-the-royal-photographic-society-collection)
 * [Generous Interfaces](https://pro.europeana.eu/page/issue-11-generous-interfaces)
 * [Death in Syria](https://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
+* [Dataviz: collection of various project, Behance Collection](https://www.behance.net/collection/171443695/Dataviz)
 
 ### Designers d'informations
 * [Moritz Stefaner](https://truth-and-beauty.net/)
