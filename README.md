@@ -71,7 +71,7 @@ Enfin nous verrons différentes méthodes nous permettant d'exporter notre creat
 * [Image exporter from p5js (High Res bitmap and vector images)](https://editor.p5js.org/arivaux@gmail.com/sketches/PRMLlNAEZ)
 * [Introduction à la Data Art avec p5JS, Alexandre Rivaux](https://codepen.io/collection/AzNyMJ)
 * [Programming design system, Rune Madsen](https://programmingdesignsystems.com/)
-* Pour plus de ressources voir sections [ressources](###-programmation-creative)
+* Pour plus de ressources voir sections [ressources](### Programmation creative)
 
 ### Suivi de production
 La session de 16/05 sera dédiée au suivi de projet et à l'échange cross-groupe.
