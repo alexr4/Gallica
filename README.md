@@ -131,7 +131,7 @@ Chaque document est représenté par la notice suivante :
     }
 ```
 
-## Ressources utiles **TBD : Tri + organisation**
+## Ressources utiles
 ### Livres
 Les livres suivants sont à votre disposition auprès de l'administration de l'école.
 Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponible que pour une consultation sur place uniquement et doivent être rendu chaque jour à l'administration.
@@ -189,6 +189,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Derek Watkins](http://dwtkns.com/portfolio/)
 * [Laura Strausfeld](https://informationart.com/)
 * [Fathom.info](https://fathom.info/)
+* [Hint.fm, Fernanda Viégas and Martin Wattenberg](http://hint.fm/)
 
 ### Talks **TBD**
 * [TED: Jer Thorp, The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
