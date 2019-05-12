@@ -35,7 +35,7 @@ Enfin vous réaliserez un document de présentation de votre travail y présenta
 
 ### Document de présentation
 * Format : PDF
-* Footer : Noms et prénoms des personnes composant votre groupe + logo e-art sup + logo BNF + logo Gallica
+* Footer : Noms et prénoms des personnes composant votre groupe + logo e-art sup + logo BNF + logo Gallica (voir ressources)
 
 ## Planning et horaires
 Le workshop se déroulera du **13 au 17 Mai de 09:00 à 18:00**.
@@ -132,6 +132,13 @@ Chaque document est représenté par la notice suivante :
 ```
 
 ## Ressources utiles
+### Fichiers
+* [Logos BNF + Gallica]
+
+### Présentations
+ * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
+ * [Une approche de la datavisualization](https://docs.google.com/presentation/d/1lfs3E0S3BPQ-M3Nq3Px8uAXRY6TgJgkh32eYTIibvcQ/edit?usp=sharing)
+
 ### Livres
 Les livres suivants sont à votre disposition auprès de l'administration de l'école.
 Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponible que pour une consultation sur place uniquement et doivent être rendu chaque jour à l'administration.
