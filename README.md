@@ -57,8 +57,9 @@ Nous verrons également comment les principes du design graphiques (Gestalt) peu
 
 Enfin nous étudierons le format (JSON) et la classification de nos données afin de mieux comprendre cette dernière.
 
-**Ressources : TBD**
-*
+**Ressources :**
+ * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
+ * [Une approche de la datavisualization](https://docs.google.com/presentation/d/1lfs3E0S3BPQ-M3Nq3Px8uAXRY6TgJgkh32eYTIibvcQ/edit?usp=sharing)
 
 ### Dessiner en Javascript : Introduction à P5JS et au format JSON
 Durant cette session, le 15/05, nous effectuerons une introduction au créative coding par l'utilisation de P5JS.
@@ -67,7 +68,7 @@ Nous reverrons également les principes de bases de la programmation telles que 
 Nous verrons également comment importer, lire et utiliser nos données au format JSON pour alimenter notre visuel.
 Enfin nous verrons différentes méthodes nous permettant d'exporter notre creation au format bitmap ou vectorielle afin de travailler notre visuel dans un logiciel d'édition.
 
-**Ressources : TBD**
+**Ressources :**
 * [Image exporter from p5js (High Res bitmap and vector images)](https://editor.p5js.org/arivaux@gmail.com/sketches/PRMLlNAEZ)
 * [Introduction à la Data Art avec p5JS, Alexandre Rivaux](https://codepen.io/collection/AzNyMJ)
 * [Programming design system, Rune Madsen](https://programmingdesignsystems.com/)
@@ -198,7 +199,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [Fathom.info](https://fathom.info/)
 * [Hint.fm, Fernanda Viégas and Martin Wattenberg](http://hint.fm/)
 
-### Talks **TBD**
+### Talks
 * [TED: Jer Thorp, The Weight of Data](https://www.youtube.com/watch?v=Q9wcvFkWpsM)
 * [TED: Jer Thorp, TMake data more Human](https://www.ted.com/talks/jer_thorp_make_data_more_human)
 * [TED: David McCandless, The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
