@@ -133,7 +133,7 @@ Chaque document est représenté par la notice suivante :
 
 ## Ressources utiles
 ### Fichiers
-* [Logos BNF + Gallica]
+* [Logos BNF + Gallica](https://github.com/alexr4/Gallica/tree/master/Sources-Images)
 
 ### Présentations
  * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
