@@ -1,17 +1,13 @@
 //original data
-var requestURL = '../../Gallica-Avril2019/AllData/gallica_audio.json';
+var requestURL = '../../Gallica-Avril2019/AllData/gallica_monographies.json';
 var datas;
 var records;
 
-//sorting variable
-var iteration = 0;
-var chunk = 1000;
 
 //saved sorted data here
 var UISave;
-var json = {};
-var sorting = [];
-var newrecords = [];
+var exportRecords = [];
+var dictionary = {};
 
 function preload() {
   //We retreive the DATA as a JSON File using the HTTPS Request
@@ -19,66 +15,40 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(400, 400);
   records = datas.records;
-  console.log(records);
+  console.log("based JSON data ", records);
 
   UISave = createButton('saved new JSON');
   UISave.mouseReleased(savedJSON);
-}
 
-function draw() {
-  background(220);
-
-  if(iteration < records.length){
-    for(let i=iteration; i<iteration+chunk; i++){
-      if(i < records.length){
-        let record = records[i];
-        searchAndAdd(record);
-      }
-      //console.log(datestamp);
-    }
-
-    iteration += chunk;
-    text(iteration+"/"+records.length, 20, 20);
-  }else{
-    console.log(iteration+"/"+records.length+" : datas as been processed");
-    noLoop();
+  for(let i=0; i<records.length; i++){
+    let value = records[i].datestamp;
+    let subValue = records[i].date;
+    subValue = parseDate(subValue);
+    count2DPer(value, subValue, dictionary);
   }
+
+  console.log("JSON to dictionnary: ", dictionary);
+  let size = sizeOf(dictionary);
+
+  let dateDictionary = {};
+  for(key in dictionary){
+    let date = convertToDate(key);
+    dateDictionary[date] = dictionary[key];
+  }
+  console.log(dateDictionary);
+
+  let newdictionary = sorted2DDictionary(dictionary)
+  console.log("Sort dictionnary: ", newdictionary);
+
+  exportRecords = convert2DDictionaryIntoJSONArray(dictionary);
+  console.log("Dictionary to JSON ready to export: ", newdictionary);
 }
+
 
 function savedJSON(){
   console.log("save data");
-  json.records = newrecords;
+  let json = {};
+  json.records = exportRecords;
   saveJSON(json, 'sortedData.json');
-}
-
-function searchAndAdd(element, array){
-  if(newrecords.length > 0){
-    for(let j=0; j<newrecords.length; j++){
-      if(newrecords[j].datestamp != undefined){
-        if(newrecords[j].datestamp === element.datestamp){
-          //if the element has the same value as an another, we increment the number of elements
-          newrecords[j].numberOfElement = newrecords[j].numberOfElement + 1;
-        }else{
-          //if not we add the new elements
-            addNewElement(element);
-            console.log(element.datestamp);
-            break;
-        }
-      }
-    }
-  }else{
-    addNewElement(element);
-  }
-
-
-}
-
-function addNewElement(element){
-  let newelement = {};
-  newelement.datestamp = element.datestamp;
-  newelement.numberOfElement = 1;
-  newrecords.push(newelement);
-  //console.log("add new element")
 }
