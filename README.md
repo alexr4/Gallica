@@ -135,7 +135,7 @@ Chaque document est représenté par la notice suivante :
 ## Ressources utiles
 ### Fichiers
 * [Logos BNF + Gallica](https://github.com/alexr4/Gallica/tree/master/Sources-Images)
-* [Gallica : données d'Avril 2019](https://www.dropbox.com/home/_enseignements/Gallica/Gallica-Avril2019)
+* [Gallica : données d'Avril 2019](https://www.dropbox.com/sh/qujt59gxftpl08a/AACaqMGOF8dD9BoxYOo-Drd2a?dl=0)
 
 ### Présentations
  * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
