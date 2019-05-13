@@ -58,6 +58,7 @@ Nous verrons également comment les principes du design graphiques (Gestalt) peu
 Enfin nous étudierons le format (JSON) et la classification de nos données afin de mieux comprendre cette dernière.
 
 **Ressources :**
+ * [Gallica, présentation par Cecile Quach; BNF](https://docs.google.com/presentation/d/1leEATaMGUS6x3mfQuJSpNbcDf7_RpDvm0mtx-LNr9bA/edit?usp=sharing)
  * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
  * [Une approche de la datavisualization](https://docs.google.com/presentation/d/1lfs3E0S3BPQ-M3Nq3Px8uAXRY6TgJgkh32eYTIibvcQ/edit?usp=sharing)
 
@@ -138,6 +139,7 @@ Chaque document est représenté par la notice suivante :
 * [Gallica : données d'Avril 2019](https://www.dropbox.com/sh/qujt59gxftpl08a/AACaqMGOF8dD9BoxYOo-Drd2a?dl=0)
 
 ### Présentations
+ * [Gallica, présentation par Cecile Quach; BNF](https://docs.google.com/presentation/d/1leEATaMGUS6x3mfQuJSpNbcDf7_RpDvm0mtx-LNr9bA/edit?usp=sharing)
  * [Une histoire de la datavisualization](https://docs.google.com/presentation/d/1Us7efeqjw5sPV4ihrMZ_zNwV6NfBSPOI6XO9kjfYDkU/edit?usp=sharing)
  * [Une approche de la datavisualization](https://docs.google.com/presentation/d/1lfs3E0S3BPQ-M3Nq3Px8uAXRY6TgJgkh32eYTIibvcQ/edit?usp=sharing)
 
