@@ -68,12 +68,13 @@ function checkUndefined(words){
 This function will parse source data in order to simplify it
 */
 
-function parseSource(element){
+function cleanText(element){
   if(element == undefined) return element
   let regexAccent = /\W+/;
   let source = element.toLowerCase(); //set source word as a full lower case sentence
-  source = source.replace(/[0-9-,()/_.?;]/g,''); //remove number from text
-  source = source.normalize('NFD').replace(/[\u0300-\u036f]/g, ""); //replace accent with non accentuated character
+  source = removeNumber(source); //remove number from text
+  source = removePonctuation(source);
+  source = replaceAccent(source);
   //source = source.replace(/bibliotheque nationale de france/g, 'bnf');
   //let sourceArray = source.split(regexAccent); //replace whitespace at begining and end
   //source = sourceArray.join(" ");//join source
@@ -83,6 +84,17 @@ function parseSource(element){
   return result;
 }
 
+function removePonctuation(element){
+  return element = element.replace(/[-_.!?,;:'"()\[\]']/g,''); //remove number from text
+}
+
+function removeNumber(element){
+  return element = element.replace(/[0-9]/g,''); //remove number from text
+}
+
+function replaceAccent(element){
+  return element = element.normalize('NFD').replace(/[\u0300-\u036f]/g, ""); //replace accent with non accentuated character
+}
 
 function similarity(s1, s2) {
   var longer = s1;
@@ -130,4 +142,135 @@ function sharedStart(array){
     a1= A[0], a2= A[A.length-1], L= a1.length, i= 0;
     while(i<L && a1.charAt(i)=== a2.charAt(i)) i++;
     return a1.substring(0, i);
+}
+
+function cleanAudioSource(value){
+  value = checkNull(value);
+  value = cleanAtlast(value, ',');
+  return value = checkNull(value);
+}
+
+function cleanMapSource(value){
+  value = checkNull(value);
+  value = removeNumber(value);
+  value = cleanAtlast(value, '(');
+  value = cleanAtlast(value, '-');
+  value = cleanAtlast(value, ',');
+  return value = checkNull(value);
+}
+
+function cleanImageSource(value){
+  value = checkNull(value);
+  value = removeNumber(value);
+  value = cleanAtlast(value, '(');
+  value = cleanAtlast(value, '-');
+  value = cleanAtlast(value, '/');
+  value = cleanAtlast(value, '[');
+  value = cleanAtlast(value, '.');
+  value = cleanAtlast(value, ';');
+  value = cleanAtlast(value, ',');
+  return value = checkNull(value);
+}
+
+function cleanManuscriptsSource(value){
+  value = checkNull(value);
+  value = removeNumber(value);
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '.');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '(');
+  value = cleanAtlast(value, ',');
+  return checkNull(value);
+}
+
+function cleanMonographySource(value){
+  value = checkNull(value);
+  value = removeNumber(value);
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '(');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '.');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '-');
+  return checkNull(value);
+}
+
+function cleanObjectSource(value){
+  value = checkNull(value);
+  value = removeNumber(value);
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '.');
+  for(let i=0; i<3; i++)  value = cleanAtlast(value, '(');
+  return checkNull(value);
+}
+
+function cleanPartitionSource(value){
+    value = checkNull(value);
+    value = removeNumber(value);
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, '.');
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, '(');
+    return checkNull(value);
+}
+
+function cleanVideoSource(value){
+    value = checkNull(value);
+    value = removeNumber(value);
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+    return checkNull(value);
+}
+
+
+function cleanPeriodiqueSource(value){
+    value = checkNull(value);
+    value = removeNumber(value);
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, ',');
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, '.');
+    for(let i=0; i<3; i++)  value = cleanAtlast(value, '(');
+    return checkNull(value);
+}
+
+
+function cleanLastIterationAt(value, char, iterations){
+  value = checkNull(value);
+  value = removeNumber(value);
+  for(let i=0; i<iterations; i++)  value = cleanAtlast(value, char);
+  return checkNull(value);
+}
+
+function cleanFirstIterationAt(value, char, iterations){
+  value = checkNull(value);
+  value = removeNumber(value);
+  for(let i=0; i<iterations; i++)  value = cleanAtFirst(value, char);
+  return checkNull(value);
+}
+
+function cleanAtlast(value, char){
+    lastIndex = value.lastIndexOf(char)
+    return (lastIndex > -1 && value.split(char).length > 1) ? value.substring(0, lastIndex) : value;
+}
+
+function cleanAtFirst(value, char){
+  index = value.indexOf(char)
+  return (index > -1 && index < 1 && value.split(char).length > 1) ? value.substring(0, index) : value;
+}
+
+function checkNull(value){
+  return  (value == "undefined" || value === " " || value.length <= 0 || value === "") ? "undefined" : value;
+}
+
+function removePlural(value){
+  lastIndex = value.lastIndexOf('s')
+  return (lastIndex > -1 && lastIndex == value.length-1) ? value.substring(0, lastIndex) : value;
+}
+
+function isWordInside(value, wordToCompare){
+  let tmp = checkNull(value);
+  tmp = tmp.toLowerCase();
+  tmp = replaceAccent(tmp);
+
+  let tmpToCompare = checkNull(wordToCompare);
+  tmpToCompare = tmpToCompare.toLowerCase();
+  tmpToCompare = removePlural(tmpToCompare);
+  tmpToCompare = replaceAccent(tmpToCompare);
+
+  return (tmp.indexOf(tmpToCompare) != -1) ? true : false;
+
 }
