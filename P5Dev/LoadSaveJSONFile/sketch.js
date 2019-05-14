@@ -61,6 +61,8 @@ function setup() {
   for(key in dictionary){
     let value = dictionary[key]
     console.log(key, value);
+    //create a text in the webpage
+    createP("<b>"+key+"</b>: has written <b>"+value+"</b> books with the word 'Woman' in the title");
   }
   console.log("array has been sorted");
   exportRecords = convertDictionaryIntoJSONArray(dictionary);
