@@ -1,5 +1,5 @@
 //original data
-var requestURL = '../../Gallica-Avril2019/AllData/gallica_monographies.json';
+var requestURL = '../../Datas/gallica_monographies.json';
 var datas;
 var records;
 
@@ -22,27 +22,20 @@ function setup() {
   UISave.mouseReleased(savedJSON);
 
   for(let i=0; i<records.length; i++){
-    let value = records[i].datestamp;
-    let subValue = records[i].date;
-    subValue = parseDate(subValue);
+    let value = records[i].date;
+    let subValue = records[i].source;
+    value = parseDate(value);
     count2DPer(value, subValue, dictionary);
   }
 
   console.log("JSON to dictionnary: ", dictionary);
   let size = sizeOf(dictionary);
 
-  let dateDictionary = {};
-  for(key in dictionary){
-    let date = convertToDate(key);
-    dateDictionary[date] = dictionary[key];
-  }
-  console.log(dateDictionary);
-
-  let newdictionary = sorted2DDictionary(dictionary)
-  console.log("Sort dictionnary: ", newdictionary);
+  /*let newdictionary = sorted2DDictionary(dictionary)
+  console.log("Sort dictionnary: ", newdictionary);*/
 
   exportRecords = convert2DDictionaryIntoJSONArray(dictionary);
-  console.log("Dictionary to JSON ready to export: ", newdictionary);
+  console.log("Dictionary to JSON ready to export: ", exportRecords);
 }
 
 
