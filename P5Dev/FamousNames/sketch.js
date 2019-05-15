@@ -21,7 +21,9 @@ function setup() {
   UISave.mouseReleased(savedJSON);
 
   let dateMin = 1600;
-  let dateMax = 1800;
+  let dateMax = 1700;
+  let count = 0;
+  let chunk = 10000;
   for(let i=0; i<records.length; i++){
     let value = (records[i].contributor != undefined) ? records[i].contributor : "undefined";
     let date = (records[i].date != undefined) ? records[i].date : "undefined";
@@ -29,6 +31,8 @@ function setup() {
     if(date.length > 4){
       date = date.substring(0, 4);
     }
+    date = date.substring(0, 2);
+    date += "00";
     date = Number(date);
 
     if(date >= dateMin && date <= dateMax){
@@ -57,7 +61,10 @@ function setup() {
         }
       }
     }
-    if(i%1000 == 0) console.log("process...")
+    if(i%chunk == 0){
+      count += chunk
+      console.log("process..."+((count/records.length)*100)+"%");
+    }
   }
 
   //console.log(sorted1DDictionary(dictionary));

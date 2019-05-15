@@ -1,47 +1,54 @@
-//original data
-var requestURL = '../../Datas/gallica_monographies.json';
+var url = "sortedData.json";
 var datas;
-var records;
 
-
-//saved sorted data here
-var UISave;
-var exportRecords = [];
-var dictionary = {};
-
-function preload() {
-  //We retreive the DATA as a JSON File using the HTTPS Request
-  datas = loadJSON(requestURL);
+function preload(){
+  datas = loadJSON(url);
+  console.log(datas);
 }
 
-function setup() {
-  records = datas.records;
-  console.log("based JSON data ", records);
+function setup(){
+  createCanvas(windowWidth, windowHeight, SVG);
+}
 
-  UISave = createButton('saved new JSON');
-  UISave.mouseReleased(savedJSON);
+function draw(){
+  background(0);
 
-  for(let i=0; i<records.length; i++){
-    let value = records[i].date;
-    let subValue = records[i].source;
-    value = parseDate(value);
-    count2DPer(value, subValue, dictionary);
+  let namePerCentury = datas.records[1];
+  let year = namePerCentury.key;
+  let nameJSONOBject = namePerCentury.value;
+  let nameArray = Object.keys(nameJSONOBject);
+
+  let max = 70;
+  let min = 1;
+  let innerRadius = 200;
+  let outerRadius = 400;
+  for(let i=0; i<nameArray.length; i++){
+    let name = nameArray[i];
+    let value = nameJSONOBject[name];
+
+    let angle = map(i, 0, nameArray.length, 0, TWO_PI);
+    let len = map(value, 0, 70, innerRadius, outerRadius);
+    let px = cos(angle) * innerRadius + width/2;
+    let py = sin(angle) * innerRadius + height/2;
+
+    push();
+    translate(width/2, height/2);
+    rotate(angle);
+    stroke(255);
+    line(innerRadius, 0, len, 0);
+    pop();
+
+    push();
+    translate(px, py);
+    rotate(angle);
+    fill(255);
+    textAlign(RIGHT, CENTER)
+    textSize(6)
+    text(name, -10, 0)
+    pop();
+
   }
 
-  console.log("JSON to dictionnary: ", dictionary);
-  let size = sizeOf(dictionary);
-
-  /*let newdictionary = sorted2DDictionary(dictionary)
-  console.log("Sort dictionnary: ", newdictionary);*/
-
-  exportRecords = convert2DDictionaryIntoJSONArray(dictionary);
-  console.log("Dictionary to JSON ready to export: ", exportRecords);
-}
-
-
-function savedJSON(){
-  console.log("save data");
-  let json = {};
-  json.records = exportRecords;
-  saveJSON(json, 'sortedData.json');
+  save("hello.svg");
+  noLoop();
 }
