@@ -45,24 +45,92 @@ function setup() {
     value = cleanLastIterationAt(value, '\ʿ', 3); //remove ʿ at the begining of an arabic names
     value = cleanFirstIterationAt(value, '\ʿ', 3);//remove ʿ at the end of an arabic names
     value = cleanFirstIterationAt(value, ' ', 3);//remove ' ' at begining of the name
-    value = value.replace(',', ""); //remove remaining , betwen surename and name
+      value = value.replace(',', ""); //remove remaining , betwen surename and name
+    if(value.indexOf("Madame") > -1 || value.indexOf("Monsier") > -1 || value.split(" ").length < 2){
+      value = "undefined";
+    }
+
+
+    if(value != "undefined"){
+      let date = records[i].date;
+      date = parseDate(date);
+      count2DPer(value, date, dictionary);
+    }
 
     //the following lines help to perform word computation
-     let title = (records[i].title != undefined) ? records[i].title : "undefined";
-     let wordToFine = "Femmes";
-     let isWordInsideTitle = isWordInside(title, wordToFine);
-     if(isWordInsideTitle == true){
-       //console.log(value, title)
-       //if a book has the word "woman" (plural or singular) we add its author the list
-      countPer(value, dictionary)
-    }
+    //  let title = (records[i].title != undefined) ? records[i].title : "undefined";
+    //  let wordToFine = "Femmes";
+    //  let isWordInsideTitle = isWordInside(title, wordToFine);
+    //  if(isWordInsideTitle == true){
+    //    //console.log(value, title)
+    //    //if a book has the word "woman" (plural or singular) we add its author the list
+    //     //countPer(value, dictionary)
+    // }
+    // let datestamp = records[i].datestamp;
+    // let index = datestamp.lastIndexOf('-');
+    // datestamp = datestamp.substring(0, index);
+    //
+
+    // let title = records[i].title;
+    // if(title == undefined){
+    //   title = "inconnu";
+    // }
+    // title = title.toLowerCase();
+    // title = title.replace('\'', ' ');
+    // title = title.replace('"', ' ');
+    // title = title.replace('.', ' ');
+    // title = title.replace('(', ' ');
+    // title = title.replace(')', ' ');
+    // title = title.replace('[', ' ');
+    // title = title.replace(']', ' ');
+    // title = title.replace(',', ' ');
+    // title = title.replace(';', ' ');
+    // //title = removePonctuation(title);
+    // title = removeNumber(title);
+    // let wordsInsideTitle = title.split(' ');
+    // for(let j = 0; j<wordsInsideTitle.length; j++){
+    //   let word = wordsInsideTitle[j];
+    //   word = removePlural(word);
+    //
+    //   word = word.replace('\'', ' ');
+    //   word = word.replace('"', ' ');
+    //   word = word.replace('.', ' ');
+    //   word = word.replace('(', ' ');
+    //   word = word.replace(')', ' ');
+    //   word = word.replace('[', ' ');
+    //   word = word.replace(']', ' ');
+    //   word = word.replace(',', ' ');
+    //   word = word.replace(';', ' ');
+    //
+    //   let indexSpace = word.indexOf(' ');
+    //   if(indexSpace > -1){
+    //     word = word.substring(indexSpace+1, word.length)
+    //   }
+    //
+    //   if(word.length > 2){
+    //     countPer(word, dictionary)
+    //   }
+    //}
+
+      // let datestamp = records[i].datestamp;
+      // datestamp = convertToDate(datestamp);
+      // let timestamp = datestamp.getTime();
+      // countPer(timestamp, dictionary);
+
+
   }
 
+  //console.log(sorted1DDictionary(dictionary));
+
   for(key in dictionary){
-    let value = dictionary[key]
-    console.log(key, value);
+    let subdict = dictionary[key]
+
+    console.log(key);
+    for(subkey in subdict){
+      console.log("\t", subkey, subdict[subkey])
+    }
     //create a text in the webpage
-    createP("<b>"+key+"</b>: has written <b>"+value+"</b> books with the word 'Woman' in the title");
+    //createP("<b>"+key+"</b>: has written <b>"+value+"</b> books with the word 'Woman' in the title");
   }
   console.log("array has been sorted");
   exportRecords = convertDictionaryIntoJSONArray(dictionary);
