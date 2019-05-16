@@ -38,14 +38,14 @@ function draw(){
   let oy = height/2;
   let minRad = 25;
   let maxRad = 800;
-  let maxAngle = PI + HALF_PI;
+  let maxAngle = PI;
   let ratioAngle = maxAngle/records.length;
   noFill();
   stroke(255);
   for(let j=0; j<uniqueNames.length; j++){
     let name = uniqueNames[j];
 
-      let start = 0;
+      let start = -HALF_PI;
     for(let i = 0; i<records.length; i++){
       let namePerCentury = records[i];
       let year = namePerCentury.key;
@@ -56,7 +56,7 @@ function draw(){
        console.log(name, year, value)
        let diameter = map(j, 0, uniqueNames.length, minRad, maxRad);
        let normYear = i/records.length;
-       let end = start + map(value, 0, 100, 0, ratioAngle);
+       let end = start + map(value, 0, 100, 0, i * ratioAngle);
        stroke(normYear * 0.25, 1, 1)
        arc(ox, oy, diameter, diameter, start, end)
        start = end;
