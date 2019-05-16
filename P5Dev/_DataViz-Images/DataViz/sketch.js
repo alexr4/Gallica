@@ -13,7 +13,7 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight);//, SVG);
 
    records = datas.records;
    minValue = datas.minValue;
@@ -39,6 +39,11 @@ function draw(){
   textSize(18);
   text(titre, 20, 20)
 
+  let maxTime = 1250.0;
+  let time = (millis() - startTime) / maxTime;
+  let anim = (time > 1.0) ? 1.0 : time;
+  let easedTime = outCubic(anim);
+
   let ox = width/2;
   let oy = height/2;
   let minRad = 200;
@@ -53,12 +58,12 @@ function draw(){
   let alpha = 50;
   let grey = 20;
 
-  let maxTime = 1250.0;
-  let time = (millis() - startTime) / maxTime;
-  let anim = (time > 1.0) ? 1.0 : time;
-  let easedTime = outCubic(anim);
-
   strokeCap(SQUARE)
+  rectMode(CENTER)
+  noFill();
+  stroke(180)
+  ellipse(ox, oy, maxRad * 1.2, maxRad * 1.2)
+  ellipse(ox, oy, minRad * 0.5, minRad * 0.5)
   textSize(12);
   for(let i=0; i<records.length; i++){
     let century = records[i].key;
