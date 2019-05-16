@@ -49,8 +49,8 @@ function setup() {
       }
 
       //find a match inside known names
-      for(let j=0; j<famousName.length; j++){
-        let nameToTest = famousName[j];
+      for(let j=0; j<famousMan.length; j++){
+        let nameToTest = famousMan[j];
         let normalizeTest = nameToTest.toLowerCase();
         let normalizeName = value.toLowerCase();
         let ressemblanceRatio = similarity(normalizeTest, normalizeName);
