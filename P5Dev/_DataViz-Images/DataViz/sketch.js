@@ -7,6 +7,8 @@ var minDate;
 var maxDate;
 var startTime;
 
+var animReset = true;
+
 function preload(){
   datas = loadJSON(url);
   console.log(datas);
@@ -40,9 +42,21 @@ function draw(){
   text(titre, 20, 20)
 
   let maxTime = 1250.0;
-  let time = (millis() - startTime) / maxTime;
-  let anim = (time > 1.0) ? 1.0 : time;
+  let time = (millis() - startTime);
+  let normtime = time / maxTime;
+  let anim = (normtime > 1.0) ? 1.0 : normtime;
   let easedTime = outCubic(anim);
+
+  let loopTest = 4;
+  let timeTest = floor(time/1000.) % loopTest;
+  if(timeTest == 0){
+    if(animReset == true){
+      startTime = millis();
+      animReset = false;
+    }
+  }else{
+    animReset = true
+  }
 
   let ox = width/2;
   let oy = height/2;
@@ -97,7 +111,7 @@ function draw(){
       let numberOfElement = datas[year];
       let normValue = map(numberOfElement, minValue, maxValue, 0.0, 1.0);
       normValue = outExp(normValue);
-      let end = start + (map(normValue, 0, 1.0, PI * 0.1, ratioAngle * 2.5)) * easedTime;
+      let end = start + (map(normValue, 0, 1.0, PI * 0.1, ratioAngle * 2)) * easedTime;
       let offset = end - start;
       //console.log(numberOfElement, offset)
       let hue = map(Number(year), minDate, maxDate, baseHue, endHue);

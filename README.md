@@ -207,6 +207,7 @@ Ces livres faisant partie de ma bibliothèque personnelle, ils ne sont disponibl
 * [TED: Jer Thorp, TMake data more Human](https://www.ted.com/talks/jer_thorp_make_data_more_human)
 * [TED: David McCandless, The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [TED: Giorgia Lupi, How we can find ourselves in data](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data?language=fr)
+* [TED: Manuel Lima, A visual history of human knowledge](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge)
 * [Eyeo 2018: Stefanie Posavec](https://vimeo.com/287094544)
 * [Eyeo 2018: Giorgia Lupi](https://vimeo.com/287093641)
 * [Eyeo 2017: Nicholas Felton](https://vimeo.com/232659051)
